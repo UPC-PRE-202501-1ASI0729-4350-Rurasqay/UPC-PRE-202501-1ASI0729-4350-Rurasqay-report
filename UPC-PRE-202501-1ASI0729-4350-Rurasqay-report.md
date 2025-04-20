@@ -369,6 +369,49 @@ Product Name:
 
 ## 3.4. Product Backlog
 
+| Orden | User Story Id | Título                                         | Descripción                                                                                                               | Story Points |
+| ----- | ------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1     | E1 - US001    | Registro Manual de Producto                    | Como gestor, quiero registrar productos manualmente, para tener un control actualizado del inventario.                    | 2            |
+| 2     | E1 - US002    | Importación Masiva de Productos                | Como gestor, quiero importar productos desde un archivo Excel, para ahorrar tiempo en el registro inicial del inventario. | 3            |
+| 3     | E1 - US004    | Búsqueda de Productos por Nombre o Lote        | Como gestor, quiero buscar productos por nombre o lote, para ubicar rápidamente su información.                           | 1            |
+| 4     | E1 - US005    | Ajuste Rápido de Stock                         | Como gestor, quiero ajustar manualmente el stock, para corregir diferencias en tiempo real.                               | 2            |
+| 5     | E2 - US006    | Visualización en Tiempo Real de Sensores       | Como gestor, quiero ver en tiempo real los datos de los sensores, para asegurarme de mantener condiciones óptimas.        | 3            |
+| 6     | E2 - US007    | Asignación de Sensores a Productos             | Como gestor, quiero asignar sensores a productos, para monitorear sus condiciones correctamente.                          | 3            |
+| 7     | E2 - US008    | Ver Historial de Condiciones Ambientales       | Como gestor, quiero consultar el historial ambiental de un producto, para asegurar la trazabilidad.                       | 3            |
+| 8     | E2 - US010    | Estado de Conectividad de Sensores             | Como propietario, quiero saber si un sensor está inactivo, para enviar soporte técnico y evitar pérdidas.                 | 2            |
+| 9     | E3 - US011    | Generación de Alertas por Temperatura          | Como propietario, quiero recibir alertas automáticas por temperatura fuera del rango, para reaccionar a tiempo.           | 2            |
+| 10    | E3 - US012    | Configuración de Rangos Permitidos             | Como gestor, quiero configurar los rangos óptimos, para que las alertas sean precisas.                                    | 2            |
+| 11    | E3 - US013    | Notificación de Desconexión de Sensor          | Como propietario, quiero ser notificado si un sensor deja de enviar datos, para reemplazarlo o repararlo.                 | 2            |
+| 12    | E4 - US016    | Visualización de Temperaturas en Gráfica       | Como gerente, quiero visualizar las temperaturas por hora, para analizar tendencias.                                      | 2            |
+| 13    | E4 - US017    | Reporte Detallado de Sensores Activos          | Como gerente, quiero ver sensores activos, para asegurarme de que funcionan correctamente.                                | 2            |
+| 14    | E4 - US019    | Historial Ambiental por Producto               | Como gestor, quiero consultar el historial ambiental de un producto, para verificar condiciones.                          | 2            |
+| 15    | E5 - US021    | Recomendaciones de Mejora por Producto         | Como propietario, quiero recibir sugerencias de almacenamiento, para evitar deterioros.                                   | 3            |
+| 16    | E5 - US023    | Alertas de Producto con Baja Rotación          | Como administrador, quiero ser notificado si un producto tiene baja rotación, para tomar acciones.                        | 2            |
+| 17    | E6 - US026    | Selección de Plan de Suscripción               | Como usuario nuevo, quiero elegir un plan, para acceder a funcionalidades según mi negocio.                               | 2            |
+| 18    | E6 - US027    | Cambio de Plan en Cualquier Momento            | Como usuario registrado, quiero cambiar de plan cuando lo necesite, para ajustarme a mis necesidades.                     | 2            |
+| 19    | E6 - US030    | Cancelación de la Suscripción                  | Como usuario, quiero cancelar mi plan cuando lo desee, para no generar más cargos.                                        | 2            |
+| 20    | E7 - US031    | Alquiler de Sensores Físicos                   | Como propietario, quiero alquilar sensores, para monitorear mis productos sin comprarlos.                                 | 3            |
+| 21    | E7 - US032    | Activación de Sensores en Productos            | Como propietario, quiero activar sensores en productos específicos, para monitorearlos en tiempo real.                    | 2            |
+| 22    | E8 - US036    | Creación de Usuarios                           | Como administrador, quiero crear nuevos usuarios, para que otros accedan a la plataforma.                                 | 2            |
+| 23    | E8 - US037    | Asignación de Roles a Usuarios                 | Como administrador, quiero asignar roles específicos, para controlar el acceso a funcionalidades.                         | 2            |
+| 24    | E1 - US003    | Escaneo de Productos para Registro Rápido      | Como gestor, quiero escanear productos, para registrarlos rápidamente en el inventario.                                   | 3            |
+| 25    | E2 - US009    | Monitoreo por Ubicación                        | Como gestor, quiero ver datos de sensores por zona, para facilitar inspecciones físicas.                                  | 2            |
+| 26    | E3 - US014    | Registro de Alertas Emitidas                   | Como gestor, quiero revisar un historial de alertas generadas, para llevar control de eventos.                            | 2            |
+| 27    | E3 - US015    | Alerta por Producto Crítico en Stock           | Como propietario, quiero recibir alertas si un producto anómalo está en stock crítico.                                    | 2            |
+| 28    | E4 - US018    | Descarga de Reportes en PDF                    | Como gerente, quiero descargar reportes en PDF, para archivarlos o compartirlos.                                          | 1            |
+| 29    | E4 - US020    | Tabla Comparativa de Sensores                  | Como administrador, quiero ver una tabla que compare sensores, para detectar fallas o baja precisión.                     | 2            |
+| 30    | E5 - US022    | Sugerencias para Optimización de Espacio       | Como gestor, quiero sugerencias de reorganización, para aprovechar mejor el espacio del almacén.                          | 2            |
+| 31    | E5 - US024    | Recomendaciones Basadas en Clima               | Como emprendedor, quiero recomendaciones de horarios óptimos para mover productos sensibles.                              | 2            |
+| 32    | E5 - US025    | Evaluación del Cumplimiento de Recomendaciones | Como propietario, quiero saber si las recomendaciones fueron aplicadas y su impacto.                                      | 2            |
+| 33    | E6 - US028    | Visualización de Beneficios por Plan           | Como usuario, quiero ver qué incluye cada plan, para elegir el que más me conviene.                                       | 1            |
+| 34    | E6 - US029    | Renovación Automática del Plan                 | Como usuario, quiero que mi plan se renueve automáticamente, para no perder acceso.                                       | 1            |
+| 35    | E7 - US033    | Monitoreo del Estado de los Sensores           | Como propietario, quiero ver si los sensores están activos o inactivos, para verificar funcionamiento.                    | 2            |
+| 36    | E7 - US034    | Registro de Alquiler y Activación de Sensores  | Como administrador, quiero registrar alquiler y activación de sensores, para tener control.                               | 2            |
+| 37    | E7 - US035    | Desactivación y Devolución de Sensores         | Como propietario, quiero desactivar y devolver sensores, para evitar costos adicionales.                                  | 2            |
+| 38    | E8 - US038    | Edición de Usuarios y Roles                    | Como administrador, quiero editar datos y roles de usuarios, para hacer ajustes en permisos.                              | 1            |
+| 39    | E8 - US039    | Desactivación de Usuarios                      | Como administrador, quiero desactivar usuarios que no necesiten acceso, para mayor seguridad.                             | 2            |
+| 40    | E8 - US040    | Visualización de Actividad de Usuarios         | Como administrador, quiero ver un historial de acciones de los usuarios, para garantizar el uso correcto.                 | 2            |
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
