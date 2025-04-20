@@ -536,8 +536,19 @@ Ingreso de Información para el Tipo de Usuario
 ![Informacion Usuario](Images/EasyStock/AddUsersW.png)
 Grupo de Usuarios:
 ![Informacion Usuario](Images/EasyStock/EasyStock_page-0101.jpg)
+<img src="Images/EasyStock/EasyStock_page-0101.jpg" alt="Informacion" width="200"/>
+Detalles de cada producto para los encargados de stock
+<img src="Images/EasyStock/EasyStock_page-0096.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0091.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0098.jpg" alt="Informacion" width="200"/>
 
---- FALTA ---
+Registrar una entrada o salida de inventario y añadir notas
+<img src="Images/EasyStock/EasyStock_page-0092.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103856.png" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103918.png" alt="Informacion" width="200"/>
+
+Pantalla de historial de movimientos por grupo o área
+<img src="Images/EasyStock/EasyStock_page-0099.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103946.png" alt="Informacion" width="200"/><img src="Images/EasyStock/EASY2.png" alt="Informacion" width="200"/>
+
+Pantalla de alertas activas de los sensores
+<img src="Images/EasyStock/EasyStock_page-0100.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0104.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0105.jpg" alt="Informacion" width="200"/>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 --- FALTA ---
 ### 4.4.3. Web Applications Mock-ups
@@ -562,8 +573,20 @@ Ingreso de Información para el Tipo de Usuario
 ![Informacion Usuario](Images/EasyStock/AddUsers.png)
 Grupo de Usuarios:
 ![Informacion Usuario](Images/EasyStock/EasyStock_page-0016.jpg)
+<img src="Images/EasyStock/EasyStock_page-0016.jpg" alt="Informacion" width="200"/>
+Detalles de cada producto para los encargados de stock
+<img src="Images/EasyStock/EasyStock_page-0011.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0008.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0013.jpg" alt="Informacion" width="200"/>
 
---- FALTA ---
+Registrar una entrada o salida de inventario y añadir notas
+<img src="Images/EasyStock/EasyStock_page-0009.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103806.png" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103817.png" alt="Informacion" width="200"/>
+
+Pantalla de historial de movimientos por grupo o área
+<img src="Images/EasyStock/EasyStock_page-0014.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103828.png" alt="Informacion" width="200"/><img src="Images/EasyStock/EASY.png" alt="Informacion" width="200"/>
+
+Pantalla de alertas activas de los sensores
+<img src="Images/EasyStock/EasyStock_page-0036.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0019.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0020.jpg" alt="Informacion" width="200"/>
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 --- FALTA ---
 ## 4.5. Web Applications Prototyping
