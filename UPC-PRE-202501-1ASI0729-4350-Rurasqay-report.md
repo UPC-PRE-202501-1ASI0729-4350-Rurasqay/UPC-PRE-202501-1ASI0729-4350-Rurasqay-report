@@ -379,6 +379,13 @@ La Aplicación Web de EasyStock está orientada a dos perfiles de usuario fundam
 
 
 ### 4.2.2. Labeling Systems
+
+Para etiquetar visualmente los botones y funcionalidades dentro de nuestra aplicación desarrollada con Angular, optamos por una solución que permita a los usuarios identificar fácilmente la función de cada elemento. Por esta razón, seleccionamos los íconos proporcionados por PrimeNG Icons (https://primefaces.org/primeng/icons), ya que se integran de forma nativa con Angular y ofrecen un diseño intuitivo y representativo de las acciones que acompañan.
+
+Estos íconos se incorporarán en todos los módulos de la aplicación Angular a través de los componentes de PrimeNG, asegurando una experiencia de usuario fluida, accesible y visualmente coherente. La integración se realizará directamente en las plantillas HTML utilizando las clases de íconos que proporciona PrimeNG (pi pi-*), lo que permite una implementación rápida y estandarizada en el proyecto.
+
+En la landing page del sistema, se utilizarán exclusivamente íconos de redes sociales —como Instagram, Facebook y X (Twitter)— para facilitar canales de contacto directo con los usuarios. Estos íconos también podrán integrarse mediante PrimeNG, o si se requiere mayor personalización, mediante bibliotecas compatibles con Angular como Font Awesome (usando ngx-fontawesome) o Angular Material Icons, según la necesidad del diseño.
+
 ### Etiquetas de Encabezados (Headings)
 
 Las etiquetas de encabezado permiten identificar claramente las secciones principales tanto en la landing page como en la aplicación:
@@ -417,40 +424,53 @@ Estas etiquetas utilizan íconos reconocibles para mejorar la experiencia del us
 - **Icono de Factura**: Información sobre suscripción y facturación.
 
 Estas etiquetas se encuentran en la barra de navegación principal, paneles laterales, formularios y dashboards, guiando al usuario de forma eficiente y clara por toda la plataforma.
+
+---
+
 ### 4.2.3. SEO Tags and Meta Tags
+
 Los **SEO Tags** y **Meta Tags** son fundamentales para que la **Landing Page** y la **Aplicación Web** de **EasyStock** sean correctamente indexadas por los motores de búsqueda, mejorando su posicionamiento y accesibilidad.
 
 **Título**
-El titulo de nuestra Startup se definira de la siguiente manera:
 
-``<title> EasyStock </title>``
-
+```html
+<title> EasyStock </title>
+```
 **Description**
-Las descriopciones de nuestra Startup se definira de la siguiente manera:
 
-``<meta name="description" content="EasyStock es una plataforma web que permite gestionar y controlar el inventario de manera eficiente y en tiempo real." /> ``
+```html
+<meta name="description" content="EasyStock es una plataforma web que permite gestionar y controlar el inventario de manera eficiente y en tiempo real." />
 
-**Keywords**
-Algunas Keywords como "viewport" se definira de la siguiente manera:
+```
+**Keywords y Viewport**
 
-``<meta name="viewport" content="width=device-width, initial-scale=1.0">``
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+```
 **Author**
-Nuestra marca sera registrada en nuestra pagina de la siguiente manera:
 
-``<meta name="copyright" content="© 2024 EasyStock. Todos los derechos reservados." />``
+```html
+<meta name="copyright" content="© 2024 EasyStock. Todos los derechos reservados." />
+
+```
 
 ### 4.2.4. Searching Systems
+
 Estos métodos de búsqueda ayudarán a los usuarios a navegar por nuestra aplicación web con mayor facilidad y encontrar lo que están buscando de forma intuitiva. Los métodos de búsqueda disponibles en **EasyStock** son los siguientes:
 
 - **Búsqueda por caracteres**: Los usuarios pueden buscar productos o proveedores mediante el nombre o identificador en la barra de búsqueda del sistema.
+
 - **Búsqueda por ubicación**: En caso de tener múltiples almacenes, los usuarios pueden utilizar la ubicación específica para filtrar resultados dentro de un almacén determinado.
+
 - **Búsqueda por mapa**: Para una experiencia más visual e interactiva, se permite la búsqueda a través de un mapa que muestra los diferentes almacenes y su inventario vinculado, ideal para negocios con sucursales distribuidas geográficamente.
+
+
 ### 4.2.5. Navigation Systems
 
 El sistema de navegación en la aplicación web de **EasyStock** ha sido diseñado para ofrecer una experiencia intuitiva, fluida y adaptativa tanto en computadoras como en dispositivos móviles. Su estructura está centrada en la simplicidad de uso, con etiquetas claras, íconos reconocibles y un diseño visual que orienta al usuario en todo momento.
 
-### Menú Principal
+#### Menú Principal
 
 Desde el menú principal, los usuarios pueden:
 
@@ -458,8 +478,8 @@ Desde el menú principal, los usuarios pueden:
 - Acceder al **Dashboard**, donde se muestra un resumen visual del estado actual del inventario.
 - Navegar por las secciones de **Productos**, **Movimientos**, **Alertas**, **Sensores**, **Configuración** y **Soporte**, disponibles tanto para gestores como propietarios.
 - Realizar acciones clave como **añadir producto**, **ajustar stock**, **registrar entradas** y **registrar salidas** con facilidad desde accesos directos o botones visibles en el dashboard.
-  
-### Navegación para Propietarios
+
+#### Navegación para Propietarios
 
 Los propietarios cuentan además con:
 
@@ -468,22 +488,84 @@ Los propietarios cuentan además con:
 - **Gestión de Usuarios**, para asignar permisos y controlar accesos al sistema.
 - Panel de **Mi Plan y Facturación**, donde pueden gestionar su suscripción y pagos.
 
-### Accesibilidad y Adaptabilidad
+#### Accesibilidad y Adaptabilidad
 
-La navegación está diseñada para ser completamente responsive, garantizando una experiencia consistente y amigable en todo tipo de dispositivos. Además, los colores, íconos y etiquetas textuales refuerzan la comprensión de cada módulo, facilitando la orientación dentro de la aplicación incluso para usuarios sin experiencia técnica previa.
+La navegación está diseñada para ser completamente **responsive**, garantizando una experiencia consistente y amigable en todo tipo de dispositivos. Además, los colores, íconos y etiquetas textuales refuerzan la comprensión de cada módulo, facilitando la orientación dentro de la aplicación incluso para usuarios sin experiencia técnica previa.
 
 El diseño de **EasyStock** busca que cada acción esté a un par de clics de distancia, optimizando los flujos de trabajo tanto para pequeños negocios como para empresas con procesos más complejos.
+
+
 ## 4.3. Landing Page UI Design
-
+Presentamos los resultados del diseño de la Aplicación Web en Figma.
 ### 4.3.1. Landing Page Wireframe
+En esta sección se mostrarán los wireframes de la landing page, los cuales son representaciones de baja fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
+Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
+Para Desktop Browser:
+![DeskopBrowser](Images/Landing_Page_Wireframe.png)
+Para Mobile Browser:
+![MobileBrowser](Images/EasyStock_page-0069.jpg)
+
 ### 4.3.2. Landing Page Mock-up
-
+En esta sección se mostrarán los Mock-ups de la landing page, los cuales son representaciones de alta  fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
+Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
+Para Desktop Browser:
+![DeskopBrowser](Images/Landing_Page_Mock_up.png)
+Para Mobile Browser:
+![MobileBrowser](Images/EasyStock_page-0063.jpg)
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.3. Web Applications Mock-ups
-### 4.4.4. Web Applications User Flow Diagrams
+En esta sección se describe el proceso de diseño de la aplicación web, abarcando desde la elaboración de los wireframes hasta la creación de los mock-ups. Durante este desarrollo se consideraron las guías de estilo y los principios de arquitectura de la información previamente definidos, con el objetivo de asegurar una coherencia visual adecuada con la landing page del proyecto.
 
+
+### 4.4.1. Web Applications Wireframes
+Iniciar Sesión / Registro
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0070.jpg)
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0077.jpg)
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0088.jpg)
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0071.jpg)
+Gestión de Membresías
+![GestionMembresia](Images/EasyStock/EasyStock_page-0130.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0131.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0094.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0079.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0085.jpg)
+Determinar el tipo de usuario
+![TipoUsuario](Images/EasyStock/EasyStock_page-0083.jpg)
+![TipoUsuario](Images/EasyStock/EasyStock_page-0095.jpg)
+![TipoUsuario](Images/EasyStock/EasyStock_page-0110.jpg)
+Ingreso de Información para el Tipo de Usuario
+![Informacion Usuario](Images/EasyStock/AddUsersW.png)
+Grupo de Usuarios:
+![Informacion Usuario](Images/EasyStock/EasyStock_page-0101.jpg)
+
+--- FALTA ---
+### 4.4.2. Web Applications Wireflow Diagrams
+--- FALTA ---
+### 4.4.3. Web Applications Mock-ups
+En esta parte se mostrarán los wireframes de la aplicación web, los cuales representan esquemas de baja fidelidad que funcionan como un plano inicial. Su propósito es definir la estructura general de la interfaz antes de avanzar hacia la aplicación de guías de estilo e incorporación de elementos visuales.
+
+Iniciar Sesión / Registro
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0026.jpg)
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0029.jpg)
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0057.jpg)
+![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0027.jpg)
+Gestión de Membresías
+![GestionMembresia](Images/EasyStock/EasyStock_page-0060.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0061.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0064.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0044.jpg)
+![GestionMembresia](Images/EasyStock/EasyStock_page-0030.jpg)
+Determinar el tipo de usuario
+![TipoUsuario](Images/EasyStock/EasyStock_page-0042.jpg)
+![TipoUsuario](Images/EasyStock/EasyStock_page-0010.jpg)
+![TipoUsuario](Images/EasyStock/EasyStock_page-0031.jpg)
+Ingreso de Información para el Tipo de Usuario
+![Informacion Usuario](Images/EasyStock/AddUsers.png)
+Grupo de Usuarios:
+![Informacion Usuario](Images/EasyStock/EasyStock_page-0016.jpg)
+
+--- FALTA ---
+### 4.4.4. Web Applications User Flow Diagrams
+--- FALTA ---
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
