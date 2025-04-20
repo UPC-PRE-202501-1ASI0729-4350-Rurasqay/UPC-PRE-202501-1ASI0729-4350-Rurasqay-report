@@ -12,12 +12,8 @@
 <center>
 
 #### Startup: **RurasqaySoft**
-<<<<<<< HEAD
 
-#### Product: \*\*\*\*
-=======
 #### Product: **EasyStock**
->>>>>>> 61623393f950abce65e7c841e9adcb12e78c926a
 
 </center>
 
@@ -25,23 +21,13 @@
 
 <center>
 
-<<<<<<< HEAD
-| Member                        | Code       |
-| ----------------------------- | ---------- |
-|                               |            |
-|                               |            |
-|                               |            |
-| Nakasone Gomes, Marco Antonio | U202210790 |
-|                               |            |
-=======
-| Member                       | Code       |
-|------------------------------|------------|
+| Member                           | Code       |
+| -------------------------------- | ---------- |
 | Alvarado De La Cruz, Juan Carlos | u202216150 |
-| Barrientos Quispe, Marcelo | u20221e646 |
-| Rioja Nuñez, Franco Diego | u202221597 |
-| Nakasone Gomes, Marco Antonio | u202210790 |
-| Rivera Ticllacuri, Omar Harold | u202214214 |
->>>>>>> 61623393f950abce65e7c841e9adcb12e78c926a
+| Barrientos Quispe, Marcelo       | u20221e646 |
+| Rioja Nuñez, Franco Diego        | u202221597 |
+| Nakasone Gomes, Marco Antonio    | u202210790 |
+| Rivera Ticllacuri, Omar Harold   | u202214214 |
 
 <br> ABRIL 2025
 
@@ -51,19 +37,11 @@
 
 # Registro de Versiones del Informe
 
-<<<<<<< HEAD
-| Version | Fecha      | Autor | Descripción de Modificación |
-| ------- | ---------- | ----- | --------------------------- |
-|         | 04/04/2025 |       |                             |
-|         | 04/04/2025 |       |                             |
-|         | 04/04/2025 |       |                             |
-=======
-| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
-|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
-|0.0    | 02/04/2025 |  Grupo 3|   Creación del documento                             |
-|   | 04/04/2025 |        |                            |
-|   | 04/04/2025 |     |                         |
->>>>>>> 61623393f950abce65e7c841e9adcb12e78c926a
+| Version | Fecha      | Autor   | Descripción de Modificación |
+| ------- | ---------- | ------- | --------------------------- |
+| 0.0     | 02/04/2025 | Grupo 3 | Creación del documento      |
+|         | 04/04/2025 |         |                             |
+|         | 04/04/2025 |         |                             |
 
 </center>
 
@@ -71,13 +49,10 @@
 
 Analiza cómo la colaboración y la gestión de tareas influyeron en los resultados del proyecto, destacando fortalezas y áreas de mejora para optimizar futuras estrategias.
 
-<<<<<<< HEAD
 Reporte:  
 Organización:  
 Landing Page:
 
-=======
->>>>>>> 61623393f950abce65e7c841e9adcb12e78c926a
 # Contenido
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
@@ -191,23 +166,14 @@ Landing Page:
 
 [Anexos](#anexos)
 
-<<<<<<< HEAD
-# Student Outcome
-
-| Criterio Especifico                                                                            | Acciones Realizadas | Conclusiones  |
-| ---------------------------------------------------------------------------------------------- | ------------------- | ------------- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>                           | Escribir aqui       | Escribir aqui |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Escribir aquí       | Escribir aquí |
-=======
-# **Student Outcome**
+**Student Outcome**
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br>|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.| 
->>>>>>> 61623393f950abce65e7c841e9adcb12e78c926a
+| Criterio Especifico                                                    | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.                                                                                     |
 
 # Capítulo I: Introduccion
 
@@ -241,17 +207,13 @@ Product Name:
 
 **What**
 
--
+- **Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
 
-**Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
-
-**Who: ¿Quienes se ven afectados?**
+  **Who: ¿Quienes se ven afectados?**
 
 - **When: ¿Cuándo sucede la problemática?**
 
--
-
-**Where: ¿Dondé implementaríamos nuestra solución?**
+- **Where: ¿Dondé implementaríamos nuestra solución?**
 
 - **How: ¿Cómo ayudará nuestra solución?**
 
