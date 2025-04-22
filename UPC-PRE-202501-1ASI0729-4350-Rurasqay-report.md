@@ -171,10 +171,11 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
+**RurasqaySoft** es una startup de base tecnológica orientada a brindar soluciones digitales prácticas para los desafíos reales que enfrentan emprendedores y pequeñas empresas en Perú. Nuestro objetivo es desarrollar herramientas accesibles que digitalicen procesos clave como el control de inventarios, permitiendo a los usuarios mejorar su eficiencia, evitar pérdidas y tomar decisiones basadas en datos.
 
-***Mision:***
+**Misión:** Desarrollar soluciones tecnológicas accesibles que ayuden a los emprendedores a gestionar eficientemente sus operaciones, promoviendo sostenibilidad y crecimiento.
 
-***Visión:***
+**Visión:** Convertirse en referente latinoamericano en soluciones digitales para la gestión operativa de micro y pequeñas empresas.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -188,41 +189,124 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 ## 1.2. Solution Profile
 
-Product Name: 
+Product Name: EasyStock
 
 ### 1.2.1. Antecedentes y problemática
-**Antecedentes:**
 
-**Problematicas:**
+**Enunciado del problema:**  
+Emprendedores que gestionan productos sensibles o en grandes cantidades carecen de herramientas accesibles para monitorear y controlar sus inventarios de forma eficiente. Esto genera pérdidas económicas, errores humanos y sobrecarga operativa.
 
-**What**
-* 
+**Objetivo general del sistema:**  
+Diseñar e implementar una solución digital que facilite la gestión inteligente del inventario, incluyendo monitoreo en tiempo real de condiciones ambientales, alertas automáticas y recomendaciones personalizadas para la optimización del almacenamiento.
 
-**Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
+**Objetivos específicos:**
+- Digitalizar la gestión de inventarios para reducir errores y tiempos operativos.
+- Implementar monitoreo en tiempo real mediante sensores.
+- Emitir alertas ante condiciones críticas (temperatura, humedad, peso).
+- Proporcionar reportes gráficos y recomendaciones para optimización.
 
-**Who: ¿Quienes se ven afectados?**
-*
+**Restricciones:**
+- La solución debe ser accesible desde la web y dispositivos móviles.
+- El sistema debe permitir integración con sensores de bajo costo.
+- Se debe ofrecer como servicio (SaaS) con planes escalables.
 
-**When: ¿Cuándo sucede la problemática?**
-* 
+#### Análisis con técnica de The 5 W’s and 2 H’s
 
-**Where: ¿Dondé implementaríamos nuestra solución?**
-*
+**Who (¿Quiénes son los afectados?)**  
+- Emprendedores que gestionan productos sensibles al ambiente (alimentos, cosméticos, farmacéuticos).
+- Emprendedores que manipulan grandes volúmenes de inventario sin automatización.
+- Personal operativo y dueños de negocios que pierden insumos por mala gestión.
 
-**How: ¿Cómo ayudará nuestra solución?**
+**What (¿Qué sucede?)**  
+- Pérdidas económicas por deterioro de productos mal almacenados.
+- Control manual ineficiente del inventario (cuadernos, Excel).
+- Falta de alertas oportuna ante cambios en condiciones críticas.
+- Dificultad para tomar decisiones operativas por falta de visibilidad en tiempo real.
 
-**How much: ¿Cúanto costará?**
+**Where (¿Dónde ocurre?)**  
+- Almacenes de pequeños negocios, tiendas físicas, cocinas industriales, centros de distribución informales.
+
+**When (¿Cuándo sucede?)**  
+- Durante todo el ciclo operativo del negocio: almacenamiento, distribución, recepción de productos, despacho.
+- De forma crítica en horarios de cierre, cambios de turno, o cuando no hay personal atento al estado del inventario.
+
+**Why (¿Por qué ocurre?)**  
+- Porque no existe una solución accesible, automatizada y adaptada al contexto de emprendedores peruanos.
+- Porque los sensores inteligentes suelen ser costosos o difíciles de integrar sin soporte técnico.
+- Porque la mayoría de herramientas actuales están pensadas para empresas grandes.
+
+**How (¿Cómo se resuelve?)**  
+- Con una plataforma web fácil de usar, que permita registrar productos, vincular sensores y visualizar alertas en tiempo real.
+- Implementando dashboards, reportes y recomendaciones basadas en datos históricos.
+- Permitiendo la administración remota del inventario y condiciones de almacenamiento.
+
+**How much (¿Cuánto cuesta o cuánto implica?)**  
+- Los usuarios podrán elegir entre planes mensuales accesibles con funcionalidades escalables. *(Precio por definir)*.
+- Se ofrecerá el alquiler de sensores como servicio para reducir la inversión inicial.
+- El modelo de negocio será por suscripción tipo SaaS.
+
 
 ### 1.2.2. Lean UX Process
+
+### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+**Dominio:** Gestión de inventarios en pequeños negocios.  
+**Segmento inicial:** Emprendedores con productos sensibles o de gran volumen.  
+**Punto de dolor (pain point):** Pérdida de productos y sobrecarga operativa.  
+**Brecha (gap):** Ausencia de soluciones adaptadas al contexto local.  
+**Visión:** Brindar control en tiempo real y eficiencia operativa con bajo costo.  
+**Estrategia:** Implementar sensores inteligentes, visualización en dashboards, alertas y recomendaciones.
 
 #### 1.2.2.2. Lean UX Assumptions
 
+- Los usuarios enfrentan dificultades para mantener condiciones adecuadas de almacenamiento sin supervisión constante.
+- Los usuarios estarían dispuestos a pagar por una solución que reduzca sus pérdidas.
+- Los sensores pueden ser integrados sin requerir conocimientos técnicos avanzados.
+- El mercado objetivo usa dispositivos móviles o laptops para sus operaciones.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-#### 1.2.2.4. Lean UX Canvas.
+- **Creemos que** si implementamos sensores que monitorean temperatura, humedad y peso en tiempo real, **entonces** los usuarios podrán prevenir pérdidas de productos sensibles, **lo que resultará** en una mayor satisfacción y retención.
+- **Creemos que** si ofrecemos recomendaciones y reportes visuales, **entonces** los emprendedores podrán tomar decisiones informadas, **lo que resultará** en una mejora operativa y reducción de errores.
+- **Creemos que** si facilitamos el registro de productos mediante escaneo o importación de archivos, **entonces** los usuarios podrán adoptar la plataforma rápidamente, **lo que resultará** en una mayor adopción inicial.
 
-## 1.3. Segmentos Objetivos
+#### 1.2.2.4. Lean UX Canvas
+
+| Elemento                     | Descripción                                                                                     |
+|-----------------------------|-------------------------------------------------------------------------------------------------|
+| **Usuarios**                | Emprendedores que trabajan con productos perecibles o con inventario de alto volumen.           |
+| **Problemas**               | Pérdidas por mal almacenamiento, errores humanos, falta de visibilidad.                        |
+| **Solución propuesta**      | Plataforma con sensores conectados, dashboards, alertas y recomendaciones automáticas.          |
+| **Resultados esperados**    | Conservación óptima de productos, reducción de errores, mayor control operativo.                |
+| **Métricas clave**          | Reducción de mermas, ahorro de tiempo, tasa de alertas atendidas, nivel de adopción.            |
+
+---
+
+## 1.3. Segmentos Objetivo
+
+### Segmento 1: Emprendedores que gestionan productos sensibles al ambiente
+
+**Descripción:** Personas que elaboran, almacenan o venden productos que requieren condiciones específicas para mantenerse en buen estado, como temperatura, humedad o peso controlado.
+
+**Ejemplos:** Productores de alimentos, reposteros, emprendedores de cosmética natural, farmacéuticos artesanales.
+
+**Necesidad principal:** Monitorear de forma continua las condiciones ambientales de almacenamiento, recibir alertas automáticas y actuar rápidamente para evitar pérdidas.
+
+**Sustento estadístico:** Según el INEI, el 67% de microempresas del sector alimentos y bebidas no utiliza sistemas digitales para la gestión de insumos (2023).
+
+---
+
+### Segmento 2: Emprendedores que manejan altos volúmenes de inventario manualmente
+
+**Descripción:** Personas que, a pesar de manejar muchos productos, siguen utilizando métodos manuales (papel, Excel) para controlar entradas, salidas y stock.
+
+**Ejemplos:** Artesanos textiles, emprendedores de ecommerce, vendedores por redes sociales, pequeños fabricantes.
+
+**Necesidad principal:** Digitalizar el control de inventario para reducir errores, ahorrar tiempo y mejorar la trazabilidad de los productos.
+
+**Sustento estadístico:** Un estudio del BID (2022) indica que el 74% de las microempresas en LATAM no tiene un sistema automatizado de control de inventarios.
 
 # Capitulo II: Requeriments Elicitation & Analysis
 
