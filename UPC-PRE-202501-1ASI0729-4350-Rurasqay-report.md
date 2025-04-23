@@ -179,13 +179,13 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                                                                   | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
-|-------------------------------------------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
+|                                                                   | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      |                                                                                         
+|-------------------------------------------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> |Nakasone Gomes, Marco Antonio  | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. |
+| |  | Ingeniería de Software | Escribir aqui |
+| |  | Ingeniería de Software | Escribir aqui | 
+| |  | Ingeniería de Software | Escribir aqui | 
+| |  | Ingeniería de Software | Escribir aqui | 
 
 ## 1.2. Solution Profile
 
