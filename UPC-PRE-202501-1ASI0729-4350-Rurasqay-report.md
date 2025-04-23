@@ -383,10 +383,10 @@ Product Name:
 
 ## 3.3. Impact Mapping
 
-# Propietarios:
+### Propietarios:
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/impactPropietario.png?raw=true" style="width: 100%;"/>
 
-# Gestores:
+### Gestores:
 
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/impactPropietario.png?raw=true" style="width: 100%;"/>
 
