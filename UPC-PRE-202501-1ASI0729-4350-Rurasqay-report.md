@@ -189,8 +189,6 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 ## 1.2. Solution Profile
 
-Product Name: EasyStock
-
 ### 1.2.1. Antecedentes y problemática
 
 **Enunciado del problema:**  
