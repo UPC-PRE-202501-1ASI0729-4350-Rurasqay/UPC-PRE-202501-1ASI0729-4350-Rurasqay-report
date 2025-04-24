@@ -315,6 +315,8 @@ Sprint # |Date |Time |Location |Prepared By |Attendees|
 |Elaborar y diseñar el landing page informativa para la aplicación EasyStock.|<p>18</p><p></p>|18||||
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+En el desarrollo del landing page y el reporte de KeepItFresh, se han identificado líderes responsables y colaboradores clave para cada aspecto funcional y técnico del proyecto. Esta distribución asegura una ejecución eficiente, promoviendo la especialización, la colaboración entre áreas y una comunicación fluida entre todos los miembros del equipo.
+
 #### 5.2.1.3. Sprint Backlog 1
 
 En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
@@ -328,6 +330,11 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 |US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Rivera Ticllacuri, Omar Harold|Done|
 
 #### 5.2.1.4. Development Evidence for Sprint Review
+Evidencia del desarrollo mediante commits:
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/evidence.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/evidence1.png?raw=true" style="width: 100%;"/>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 En este sprint hemos logrado desplegar el diseño de la landing page, aquí podemos encontrar las secciones en donde el usuario va a conocer nuestro producto, con el que se va a familiarizar con los costos de nuestros servicios, etc.
