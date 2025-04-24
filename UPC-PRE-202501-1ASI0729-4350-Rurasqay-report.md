@@ -310,25 +310,211 @@ Diseñar e implementar una solución digital que facilite la gestión inteligent
 
 ## 2.1. Competidores 
 
+### Sensitech:
+#### Ofrece monitoreo automatizado de temperatura y humedad en almacenes mediante sensores inalámbricos. Proporciona alertas en tiempo real y acceso remoto a datos históricos, cumpliendo con normativas como las Buenas Prácticas de Distribución (cGDP) .
+
+### Sistema Borea de Torsa:
+#### Implementado por empresas como Barker en Perú, este sistema permite la supervisión en tiempo real de temperatura y humedad en almacenes, mejorando la trazabilidad y cumpliendo con normativas del sector alimentario .
+
+### Bambu B2B
+#### Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real. Ofrece alertas de stock, previsión de demanda y personalización avanzada para adaptarse a las necesidades específicas de cada empresa .
+
 ### 2.1.1. Análisis competitivo
 
+## Competitive Analysis Landscape
+
+### ¿Por qué llevar a cabo este análisis?  
+
+### Comprender el entorno competitivo de EasyStock nos permitirá evaluar qué tan alineados estamos con las necesidades del mercado, identificar elementos clave que nos diferencien y detectar áreas de mejora en comparación con soluciones similares
+
+|                        Competidores                        | EasyStock  | Sensitech                                                                                                                    | Sistema Borea de Torsa                                                                                                    | Bambu B2B                                                                                                              |
+|:----------------------------------------------------------:|------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+|                          **Logo**                          | <img src="Images/LogoEasyStock.png" width="100px"/> | <img src="/Images/sensitech.png" width="100px"> | <img src="/Images/torsa.png" width="100px" /> | <img src="/Images/bambub2b.png" width="100px" /> |
+|                         **Perfil**                         |
+|                          Overview                          | Startup enfocada en la gestión de inventarios para emprendedores mediante sensores de temperatura y peso.	           | Empresa global especializada en soluciones de visibilidad de la cadena de frío para productos sensibles a la temperatura.	   | Sistema de monitoreo continuo de temperatura y humedad para almacenes y transporte, con enfoque en eficiencia energética.		 | Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real para el sector retail.|
+| Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | Modelo flexible de suscripción y alquiler de sensores, interfaz amigable y enfoque en emprendedores de sectores específicos.	           | Amplia experiencia global, cumplimiento de normativas internacionales y soluciones integrales para la cadena de suministro.	 | Reducción significativa del consumo energético y climatización autónoma de almacenes.                                     | Personalización avanzada, previsión de demanda y compatibilidad con tecnologías como RFID y códigos de barras.         |
+|                    **Perfil Marketing**                    |
+|                      Mercado objetivo                      | Emprendedores en sectores alimentario, textil y manufacturero en Perú.	           | Empresas globales en sectores de alimentos, ciencias de la vida, bienes de consumo e industrial.	                            | Empresas en sectores logístico, farmacéutico y agroalimentario en España y América Latina.	                               | Empresas del sector retail que buscan optimizar la gestión de ventas e inventarios.                                    
+|                  Estrategias de marketing                  | Enfoque en educación y soporte al cliente, recursos educativos y soporte continuo.	           | Participación en ferias internacionales, contenido educativo y alianzas estratégicas.                                        | Casos de estudio, contenido técnico y presencia en eventos del sector logístico.                                          | Campañas de marketing digital, webinars y contenido personalizado para el sector retail.                               |
+|                   **Perfil de Producto**                   |
+|                   Productos & Servicios                    | Monitoreo en tiempo real de inventarios, alertas automáticas y optimización de recursos.	           | Monitores de temperatura, indicadores electrónicos, registradores de datos y soluciones de monitoreo de instalaciones.       | Sensores y registradores de temperatura, humedad y gases, con plataforma de gestión de datos.                             | Automatización de reportes, consolidación de datos de ventas e inventarios, y previsión de demanda.                    |
+|                      Precios & Costos                      | Modelo de suscripción mensual con opciones de alquiler de sensores.	           | Precios personalizados según necesidades del cliente y alcance del proyecto.          | Inversión inicial con retorno estimado en menos de un año gracias al ahorro energético.	   | Planes de suscripción adaptados al tamaño y necesidades de la empresa.                                                 |
+|        Canales de distribución <br> (Web y/o Móvil)        | Plataforma web y aplicación móvil.	           | Plataforma web con acceso a través de dispositivos móviles.	                                                            | Plataforma web con acceso a través de dispositivos móviles.	                                                                                                                          | Plataforma web con integración a sistemas de punto de venta y dispositivos móviles.                                    |
+|                     **Análisis SWOT**                      |
+|                         Fortalezas                         | Flexibilidad en el modelo de negocio, enfoque en emprendedores y facilidad de uso.	           | Experiencia global, cumplimiento de normativas y soluciones integrales.	                                                                                                                             | Eficiencia energética, monitoreo en tiempo real y climatización autónoma.	                                                                                                                          | Personalización, previsión de demanda y compatibilidad tecnológica.                                                    |
+|                        Debilidades                         | Presencia limitada en el mercado internacional           | Costos elevados para pequeñas empresas y complejidad en la implementación.	                                                                                                                            | Enfoque limitado a sectores específicos y necesidad de inversión inicial.	                                                                                                                          | Enfoque en el sector retail, lo que puede limitar su aplicabilidad en otros sectores.                                  |
+|                       Oportunidades                        | Expansión a otros mercados de América Latina y desarrollo de nuevas funcionalidades.	           | Integración con tecnologías emergentes y expansión a nuevos mercados.	                                                                                                                             | Aplicación en nuevos sectores y desarrollo de nuevas funcionalidades.	                                                                                                                          | Expansión a otros sectores y mejora continua de la plataforma.                                                         |
+|                          Amenazas                          | Competencia creciente en el mercado de gestión de inventarios y cambios en las regulaciones locales.	           | Competencia de nuevas empresas tecnológicas y cambios en las regulaciones internacionales.	                                                                                                                             | Avances tecnológicos de la competencia y cambios en las regulaciones del sector.	                                                                                                                          | Cambios en las tendencias del retail y aparición de nuevas soluciones tecnológicas.|
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+| **MATRIZ FODA y C.A.M.E** | **Oportunidades: Creciente necesidad de digitalización y automatización de inventarios** | **Amenazas: Aumento de competidores tecnológicos y cambios en regulación de dispositivos IoT** |
+|---------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Fortalezas:** <br> Tecnología accesible, modelo por suscripción y enfoque en emprendedores | Potenciar la fidelización mediante un soporte constante y personalizado para evitar la migración a soluciones más complejas o costosas. Resaltar el valor de los sensores físicos como diferenciador único. | Mantener vigilancia activa sobre regulaciones y adaptar los sensores a normativas. Aprovechar la simplicidad de EasyStock para posicionarse como alternativa más fácil frente a soluciones complejas. |
+| **Debilidades:** <br> Poca presencia internacional | Intensificar campañas de visibilidad en redes, ferias locales y alianzas con incubadoras para construir reputación y reconocimiento. | Mostrar que la solución es adaptable a cualquier sector y escala. Resaltar que no requiere infraestructura costosa como otras opciones del mercado. |
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+#### En esta sección se presentan las preguntas realizadas a los entrevistados, organizadas en tres partes: introducción, preguntas centrales y cierre.
+
+### 1. Introducción
+#### Aquí es donde se recopila la información clave para validar la problemática y evaluar el interés en una solución como EasyStock.
+
+1. ¿Podrías contarme brevemente sobre tu emprendimiento y los productos que manejas?
+2. ¿Cuánto tiempo llevas operando con tu emprendimiento?
+3. ¿Cuál es tu rol principal dentro del emprendimiento?
+---
+
+### 2. Preguntas centrales
+#### Estas preguntas sirven para establecer confianza y comprender el entorno general del emprendimiento.
+
+4. ¿Qué tipo de insumos o productos suelen almacenar con más frecuencia?
+5. ¿Te apoyas en tecnología para automatizar procesos o prefieres hacerlo todo manualmente?
+6. ¿Cómo gestionas actualmente el inventario de tus productos o insumos?
+7. ¿Qué tan frecuente es que pierdas productos por mal almacenamiento (por ejemplo, por temperatura o caducidad)?
+8. ¿Has tenido dificultades para saber cuándo reponer stock o qué productos ya no están en condiciones óptimas?
+9. ¿Con qué frecuencia realizas controles físicos de tu inventario? ¿Te toma mucho tiempo?
+
+---
+
+### 3. Cierre 
+#### Estas preguntas ayudan a validar la propuesta de valor y entender qué funcionalidades serían más útiles para el usuario.
+
+10. ¿Te interesaría tener sensores que te alerten si un alimento o insumo está fuera de su temperatura ideal?
+11. ¿Qué tan útil crees que sería tener un sistema que te notifique automáticamente sobre irregularidades en tus almacenes?
+12. ¿Qué características te parecerían imprescindibles en una herramienta de gestión de inventario como esta?
+13. ¿Qué nivel de dificultad o curva de aprendizaje estarías dispuesto a aceptar para usar una nueva plataforma?
+
 ### 2.2.2. Registro de entrevistas
+
+# Entrevista 1 - Bryan Espejo
+
+<img src="/Images/e1.png">
+
+## Conclusion
+
+Bryan tiene una repostería artesanal y gestiona su inventario manualmente, 
+lo que le ha causado pérdidas por fallas en refrigeración. Prefiere métodos simples 
+y busca una herramienta fácil de usar que le ofrezca alertas, escaneo de productos y reportes. Está dispuesto a aprender si la plataforma le ahorra tiempo y reduce errores.
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
+
+# Entrevista 2 - Joan Teves
+
+<img src="/Images/e2.png">
+
+## Conclusion
+
+Joan dirige un taller textil y usa Google Sheets para controlar inventario, 
+pero enfrenta pérdidas por desactualización. Busca una herramienta visual y 
+fácil de usar que le ofrezca alertas, escaneo, importación de datos e historiales, 
+y que incluya soporte como tutoriales.
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
+
+# Entrevista 3 - Cyndi Ortega
+
+<img src="/Images/e3.png">
+
+## Conclusion
+
+Cyndi Ortega, con 9 años en publicidad y producción, almacena insumos como acrílico y 
+cartón. Usa Excel para el inventario, pero ha tenido problemas de control que afectan 
+su productividad. Está interesada en una solución precisa, con sensores que monitoreen 
+stock y temperatura para evitar pérdidas.
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
+
+# Entrevista 3 - Tahily Esparta
+
+<img src="/Images/e4.png">
+
+## Conclusion
+
+Tahily Esparta, emprendedora de 21 años en Chorrillos, gestiona un negocio de fiambres y 
+enfrenta dificultades con el control manual de inventario, por lo que valora una herramienta 
+fácil de usar con alertas automáticas que le ahorre tiempo y reduzca pérdidas por mal almacenamiento.
+
 ### 2.2.3. Análisis de entrevistas
+
+En general, los emprendedores entrevistados comparten la necesidad de una herramienta de gestión de inventario sencilla, visual y funcional que les permita reducir pérdidas por desorganización o mal almacenamiento, optimizar su tiempo y mejorar el control de productos sensibles; todos están dispuestos a adoptar nuevas tecnologías siempre que cuenten con soporte, alertas automáticas y faciliten su trabajo diario.
 
 ## 2.3. Needfinding 
 
 ### 2.3.1. User Personas
+
+## Segmento Objetivo 1
+
+<img src="./Images/Luis Gálvez_User Persona.png"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Luis Gómez_User Persona.png"></img>
+
 ### 2.3.2. User Task Matrix 
+
+## Segmento Objetivo 1
+
+<img src="./Images/task matrix 1.PNG"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/task matrix 2.PNG"></img>
+
 ### 2.3.3. User Journey Mapping
+
+## Segmento Objetivo 1
+
+<img src="./Images/Segmento 1 journey map 1.png"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Segmento 2 journey map 2.png"></img>
+
 ### 2.3.4. Empathy Mapping
+
+## Segmento Objetivo 1
+
+<img src="./Images/Empathy map segmento 1.png"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Empathy map segmento 2.png"></img>
+
 ### 2.3.5. As-Is Scenario Mapping
 
+## Segmento Objetivo 1
+
+<img src="./Images/Scenario Mapping Segmento 1.PNG"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Scenario Mapping Segmento 2.PNG"></img>
+
 ## 2.4. Ubiquitous Language
+
+### En esta sección se muestran los términos y conceptos que se usan usualmente en nustro proyecto.
+
+* **Ítem:** Representa cualquier elemento gestionado en el inventario (alimento, materia prima, producto terminado).
+* **Stock:** La cantidad actual disponible de un Ítem.
+* **Alerta:** Notificación sobre cambios importantes en el stock o condiciones.
+* **Condición:** Atributo relevante de un Ítem (ej. temperatura, peso, fecha de caducidad).
+* **Pedido:** Solicitud para adquirir más Ítems.
+* **Reposición:** Acción de reabastecer el stock de un Ítem.
+* **Entrada:** Registro del aumento de stock de un Ítem.
+* **Salida:** Registro de la disminución de stock de un Ítem.
+* **Proveedor:** Entidad que suministra los Ítems.
+* **Ubicación:** Lugar donde se almacena un Ítem.
+* **Informe:** Resumen de datos relevantes del inventario.
+* **Catálogo:** Lista de todos los Ítems gestionados.
+* **Transacción:** Cualquier movimiento que afecta el stock de un Ítem.
+* **Usuario:** Persona que utiliza EasyStock.
+* **Almacén:** Espacio físico de almacenamiento.
+* **Límite:** Valor establecido para generar alertas (ej. stock mínimo, temperatura máxima).
+* **Unidad:** Medida en la que se gestiona el stock (ej. kg, unidades, metros).
 
 # Capitulo III: Requeriments Specification
 
