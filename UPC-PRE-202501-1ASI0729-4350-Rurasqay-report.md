@@ -183,8 +183,8 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 |------|-------------------|---------|-----------|--------|
 | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | [Código aquí] |
 | <img src="Images/Omar.jpeg"/>| Omar Harold Rivera Ticllacuri | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto. |  u202214214 |
-| | [Nombre aquí] | Ingeniería de Software | Escribir aquí | [Código aquí] |
-| | [Nombre aquí] | Ingeniería de Software | Escribir aquí | [Código aquí] |
+| <img src='./Images/marcelo.png'/> | Marcelo Barrientos Quispe | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo. | u20221e646 |
+| <img src='./Images/diego.jpg'/> | Franco Diego Rioja Nuñez | Ingeniería de Software |Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos. | u202221597 |
 | | [Nombre aquí] | Ingeniería de Software | Escribir aquí | [Código aquí] |
 
 ## 1.2. Solution Profile
