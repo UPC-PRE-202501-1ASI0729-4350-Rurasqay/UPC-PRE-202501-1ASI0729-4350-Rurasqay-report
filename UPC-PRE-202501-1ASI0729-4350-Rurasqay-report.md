@@ -269,13 +269,13 @@ Administrar un inventario puede convertirse en una tarea compleja para muchos em
 El nombre EasyStock refleja claramente nuestra propuesta de valor: facilitar (Easy) el control de inventarios o stocks (Stock). Es un nombre directo, simple y fácil de recordar, ideal para conectar con nuestro público objetivo: emprendedores que buscan soluciones accesibles y efectivas. Además, el uso del inglés le otorga un alcance global, permitiendo que la marca se adapte a futuros mercados internacionales.
 
 A continuación, se presenta el Logo:
-![alt text](Images/LogoEasyStock.png)
-
+![Logo](Images/LogoEasyStock.png)
+![Logo](Images/LogoW.png)
 
 **Typography**
 
 La tipografía en EasyStock ha sido cuidadosamente seleccionada para transmitir profesionalismo, simplicidad y modernidad. Utilizamos una combinación tipográfica que equilibra carácter y legibilidad: "Oswald" para los títulos, por su presencia fuerte y estructura condensada que aporta impacto visual, y entre "Arimo" y "Mulish" para los textos, debido a su claridad, suavidad y excelente rendimiento en interfaces digitales. La jerarquía tipográfica se organiza en encabezados, cuerpo de texto, botones y enlaces, asegurando una experiencia visual coherente y armoniosa.
-
+![Typography](Images/Fonts.png)
 **Colors**
 La paleta de colores de EasyStock está diseñada para generar confianza, orden y eficiencia. Cada color fue seleccionado considerando su impacto emocional y su funcionalidad en la interfaz desarrollada.
 
@@ -298,8 +298,17 @@ La paleta de colores de EasyStock está diseñada para generar confianza, orden 
 
 - **Colores para texto y contraste:** Se emplea el **negro (#000000)** y el **blanco (#FFFFFF)** para garantizar legibilidad en títulos, párrafos, botones y fondos según el contexto. Estos colores aseguran un contraste claro y accesible en la interfaz.
 ![Paleta de Colores](Images/ColorsStyle.png)
+*Colores realizados en el figma: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=74-247&p=f&t=je4Qxg6oNKqqpHSI-0*
 
+**Spacing**
+El spacing a considerar para mantener el contenido entendible será:
+- Button padding: 8 px (vertical), 16–38 px (horizontal)
+- Input fields: auto (sin altura fija), 16 px (espacio entre campos usando margin-top)
+- Margin entre secciones: 60 px
+- Height entre textos: 30 px en h2, 10–15 px en p
 
+**Dimensions**
+En EasyStock se optó por una comunicación clara, accesible y profesional, pero sin dejar de ser cercana. La marca busca transmitir confianza y eficiencia, usando un lenguaje directo que oriente al usuario sin resultar frío o impersonal. Queremos que nuestros clientes sientan que tienen el control de su inventario con una herramienta moderna, útil y fácil de entender, evitando tecnicismos innecesarios y manteniendo siempre un tono amable y resolutivo.
 ### 4.1.2. Web Style Guidelines
 Se estableció una guía detallada para la presentación de los productos, la cual define los componentes que deben utilizarse en la página web. Esta guía considera la paleta de colores previamente mencionada, con el objetivo de captar la atención de los usuarios y fomentar una navegación más atractiva e intuitiva por los productos. Enlace al esquema:
 
@@ -317,64 +326,25 @@ A lo largo de esta sección, se expondrán los criterios y fundamentos que respa
 
 Para estructurar la arquitectura de la información en EasyStock, se ha implementado un sistema jerárquico tanto en la Landing Page como en la Aplicación Web. Esta estrategia permite una navegación clara e intuitiva, asegurando que los usuarios puedan acceder con facilidad a la información y funcionalidades que necesitan.
 
-##### Landing Page
+**Visual Organization**
 
-La Landing Page de EasyStock se organiza siguiendo una lógica jerárquica que prioriza la visibilidad de contenidos clave, facilitando que los visitantes encuentren rápidamente lo que buscan y se involucren con la plataforma desde el primer contacto.
+En EasyStock se optó por una organización visual basada en la jerarquía para facilitar la lectura y comprensión del contenido. De esta manera, el usuario puede identificar de inmediato qué información tiene mayor relevancia dentro del sistema. Se asignaron distintos tamaños de texto dependiendo del peso informativo: para los títulos principales se utilizaron tamaños entre 48px y 40px, mientras que los subtítulos emplean tamaños entre 32px y 24px, y los textos secundarios como descripciones o instrucciones utilizan tamaños entre 16px y 14px. Además, se implementó una estructura secuencial especialmente en los flujos de registro de productos, actualización de stock y generación de reportes, para guiar al usuario paso a paso y evitar errores.
 
-1. **Barra de Navegación Principal:** Ubicada en la parte superior, contiene accesos directos a las secciones principales:
+**Categorization Schemes**
 
-   - **Inicio (Home):** Presenta una introducción general a EasyStock, destacando sus beneficios y funcionalidades mediante un banner central con mensajes atractivos y botones de acción para registrarse o iniciar sesión.
+Para la categorización, se escogieron tres esquemas:
 
-   - **Características (Features):** Describe de forma clara las herramientas y funciones principales de EasyStock, adaptadas tanto para pequeños negocios como para empresas, permitiendo que cada usuario identifique cómo puede mejorar su gestión de inventario.
+**Alfabético**
 
-   - **Beneficios (Benefits):** Muestra de manera puntual las ventajas que ofrece EasyStock frente a otros sistemas, como ahorro de tiempo, mayor control de insumos y mejora en la toma de decisiones.
+Los productos dentro del inventario se presentan de forma alfabética en las secciones de consulta y edición, lo que permite a los encargados encontrar artículos específicos de forma rápida y eficiente, sin importar el volumen del inventario.
 
-   - **Planes (Plans):** Expone las distintas opciones de suscripción, detallando características y ventajas, para ayudar al usuario a comparar y elegir la que mejor se ajuste a sus necesidades.
+**Cronológico**
 
-   - **Funcionamiento (How it works):** Explica paso a paso cómo utilizar la plataforma, desde el registro hasta el control del inventario, asegurando una experiencia fluida para nuevos usuarios.
+Los movimientos de inventario  como entradas y salidas de productos se registran y muestran de manera cronológica, lo cual facilita el seguimiento de la trazabilidad del stock. Así, los usuarios pueden verificar fácilmente qué productos han sido ingresados o retirados más recientemente.
 
-   - **Testimonios (Testimonials):** Incluye experiencias reales de clientes que ya usan EasyStock, reforzando la confianza del usuario a través de opiniones y resultados obtenidos.
-  
-2. **Estructura Jerárquica del Contenido:**
-   
-- **Títulos y Subtítulos**: Segmentan la información dentro de cada sección para una lectura más clara y organizada.
-   - **Botones de Acción (CTA)**: Distribuidos estratégicamente para guiar al usuario hacia pasos clave como registrarse, contratar un plan o contactar con el soporte.
-3. **Pie de Pagina(Footer)**:
+**Audiencia**
 
-   - Contiene accesos a políticas, términos de uso, contacto y redes sociales, brindando una navegación adicional para los usuarios que deseen profundizar en la plataforma.
-
-##### Aplicación Web
-
-La Aplicación Web de EasyStock está orientada a dos perfiles de usuario fundamentales: Gestores de Inventario y Propietarios de Negocios. Su estructura de contenido se adapta a las necesidades específicas de cada uno, facilitando una experiencia personalizada y funcional.
-
-1. **Para Gestores de Inventario:**
-
- 
-   - **Dashboard:** Presenta una vista general del inventario, destacando los productos más relevantes, su estado y las acciones recientes realizadas.
-   - **Productos:** Permite visualizar y administrar todos los productos registrados. Desde aquí se pueden añadir nuevos productos, editar información existente o eliminarlos si es necesario.
-   - **Movimientos:** Muestra un historial detallado de entradas, salidas y ajustes realizados en el inventario, brindando trazabilidad y control.
-   - **Alertas:** Notifica sobre productos con stock bajo, próximos a vencer o eventos críticos relacionados con sensores conectados.
-   - **Sensores:** Visualiza el estado de los sensores físicos vinculados al sistema, permitiendo monitorear condiciones como temperatura o humedad si aplica.
-   - **Configuración:** Permite personalizar la plataforma según las necesidades del usuario, incluyendo preferencias visuales, unidades de medida y más.
-   - **Soporte:** Ofrece un acceso directo al equipo de asistencia mediante formularios de contacto o enlaces a canales de ayuda.
-   - **Añadir producto / Ajustes de stock / Registrar entrada / Registrar salida:** Accesos directos dentro del módulo de productos que permiten ejecutar acciones comunes de forma rápida y sencilla.
-
-2. **Para Propietarios de Negocios:**
-
-   - **Dashboard:** Resume información clave como niveles de stock, movimientos recientes y alertas, permitiendo un monitoreo efectivo del negocio.
-   - **Productos:** Módulo completo para administrar el catálogo de productos y sus características, permitiendo un control preciso del inventario.
-   - **Movimientos:** Registro de todas las transacciones de entrada, salida o modificación de stock, útil para auditorías internas.
-   - **Alertas:** Monitorea situaciones críticas y proporciona avisos para evitar pérdidas por vencimiento o desabastecimiento.
-   - **Sensores:** Ofrece visualización y gestión de sensores para negocios que requieren condiciones ambientales específicas.
-   - **Configuración:** Personalización del sistema, roles de acceso, parámetros de operación y otras opciones avanzadas.
-   - **Soporte:** Facilita la comunicación con el equipo de EasyStock para resolver incidencias o realizar consultas.
-   - **Reportes y Estadísticas:** Genera informes automáticos y visualizaciones gráficas sobre el rendimiento del inventario y comportamiento de productos.
-   - **Ventas:** Integra datos de ventas para una visión unificada entre ingresos y stock disponible.
-   - **Gestión de Usuarios:** Controla permisos y accesos por rol, ideal para negocios con múltiples colaboradores.
-   - **Mi Plan y Facturación:** Muestra detalles del plan contratado, historial de pagos y permite la actualización de la suscripción.
-3. **Interacción y Flujo de Trabajo:**
-   - Las interfaces están diseñadas para ser simples y eficientes, permitiendo que el usuario complete tareas rápidamente con pocos clics.
-   - Cada módulo está claramente identificado y utiliza elementos visuales como íconos y colores distintivos que refuerzan la comprensión y mejoran la experiencia de uso.
+Dado que EasyStock está pensado tanto para gerentes como para operarios de almacén, la interfaz adapta el contenido mostrado según el tipo de usuario. Por ejemplo, los gerentes acceden a reportes analíticos y gráficos de rendimiento, mientras que los operarios visualizan opciones más operativas como el escaneo de productos y el control diario del inventario. Esta separación asegura que cada grupo de usuarios reciba información relevante a sus necesidades, evitando sobrecarga de datos y mejorando la eficiencia del uso de la aplicación.
 
 
 
@@ -382,9 +352,9 @@ La Aplicación Web de EasyStock está orientada a dos perfiles de usuario fundam
 
 Para etiquetar visualmente los botones y funcionalidades dentro de nuestra aplicación desarrollada con Angular, optamos por una solución que permita a los usuarios identificar fácilmente la función de cada elemento. Por esta razón, seleccionamos los íconos proporcionados por PrimeNG Icons (https://primefaces.org/primeng/icons), ya que se integran de forma nativa con Angular y ofrecen un diseño intuitivo y representativo de las acciones que acompañan.
 
-Estos íconos se incorporarán en todos los módulos de la aplicación Angular a través de los componentes de PrimeNG, asegurando una experiencia de usuario fluida, accesible y visualmente coherente. La integración se realizará directamente en las plantillas HTML utilizando las clases de íconos que proporciona PrimeNG (pi pi-*), lo que permite una implementación rápida y estandarizada en el proyecto.
+Estos íconos se incorporarán en todos los módulos de la aplicación Angular a través de los componentes de PrimeNG, asegurando una experiencia de usuario fluida, accesible y visualmente coherente. La integración se realizará directamente en las plantillas HTML utilizando las clases de íconos que proporciona PrimeNG, lo que permite una implementación rápida y estandarizada en el proyecto.
 
-En la landing page del sistema, se utilizarán exclusivamente íconos de redes sociales —como Instagram, Facebook y X (Twitter)— para facilitar canales de contacto directo con los usuarios. Estos íconos también podrán integrarse mediante PrimeNG, o si se requiere mayor personalización, mediante bibliotecas compatibles con Angular como Font Awesome (usando ngx-fontawesome) o Angular Material Icons, según la necesidad del diseño.
+En la landing page del sistema, se utilizarán exclusivamente íconos de redes sociales como Instagram, Facebook y X (Twitter) para facilitar canales de contacto directo con los usuarios. 
 
 ### Etiquetas de Encabezados (Headings)
 
@@ -431,68 +401,118 @@ Estas etiquetas se encuentran en la barra de navegación principal, paneles late
 
 Los **SEO Tags** y **Meta Tags** son fundamentales para que la **Landing Page** y la **Aplicación Web** de **EasyStock** sean correctamente indexadas por los motores de búsqueda, mejorando su posicionamiento y accesibilidad.
 
-**Título**
-
+**Landing Page**
 ```html
-<title> EasyStock </title>
-```
-**Description**
-
-```html
-<meta name="description" content="EasyStock es una plataforma web que permite gestionar y controlar el inventario de manera eficiente y en tiempo real." />
-
-```
-**Keywords y Viewport**
-
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-```
-**Author**
-
-```html
-<meta name="copyright" content="© 2024 EasyStock. Todos los derechos reservados." />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- for mobile -->
+<title>EasyStock - Gestión de inventario inteligente</title>
+<meta name="description" content="Optimiza el control de tus productos con EasyStock, la solución inteligente para la gestión de inventario de tu negocio.">
+<meta name="keywords" content="gestión de inventario, control de stock, sistema de inventario, administración de productos, EasyStock">
+<meta name="author" content="Rurasqay">
 
 ```
 
+
+**Aplicaiones Web**
+```html
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>EasyStock - Plataforma de control de inventario</title>
+<meta name="description" content="Registra productos, gestiona movimientos, revisa reportes y mantén tu inventario actualizado con EasyStock. La solución para PYMES.">
+<meta name="keywords" content="gestión de stock, inventario en tiempo real, control de productos, reportes de inventario, EasyStock">
+<meta name="author" content="Rurasqay">
+
+```
+
+
+**Explicación**
+
+```<meta charset="UTF-8">```: Define la codificación de caracteres utilizada, permitiendo el uso correcto de acentos, símbolos y caracteres especiales.
+
+```<meta name="viewport" content="width=device-width, initial-scale=1.0">```: Hace que el diseño de la página sea responsive, adaptándose a diferentes tamaños de pantalla y dispositivos móviles.
+
+```<title>```: Es el título que aparece en la pestaña del navegador y es uno de los elementos más relevantes para el SEO.
+
+```<meta name="description" content="...">```: Proporciona una descripción corta y clara de la página que aparecerá en los resultados de búsqueda, atrayendo a los usuarios a hacer clic.
+
+```<meta name="keywords" content="...">```: Incluye palabras claves relevantes para que los motores de búsqueda relacionen mejor el contenido de EasyStock con las búsquedas de los usuarios.
+
+```<meta name="author" content="...">```: Identifica al equipo responsable del desarrollo de la aplicación y la página web.
 ### 4.2.4. Searching Systems
 
-Estos métodos de búsqueda ayudarán a los usuarios a navegar por nuestra aplicación web con mayor facilidad y encontrar lo que están buscando de forma intuitiva. Los métodos de búsqueda disponibles en **EasyStock** son los siguientes:
+Los sistemas de búsqueda en **EasyStock** están diseñados para facilitar al usuario el acceso inmediato a la información que necesita, sin generar confusión o pérdida de tiempo. Estos métodos permiten filtrar, localizar y consultar datos de forma eficiente, incluso dentro de un inventario complejo o distribuido en múltiples ubicaciones.
 
-- **Búsqueda por caracteres**: Los usuarios pueden buscar productos o proveedores mediante el nombre o identificador en la barra de búsqueda del sistema.
+#### Búsqueda por caracteres
 
-- **Búsqueda por ubicación**: En caso de tener múltiples almacenes, los usuarios pueden utilizar la ubicación específica para filtrar resultados dentro de un almacén determinado.
+La barra de búsqueda principal permite al usuario localizar productos, categorías o proveedores ingresando palabras clave como:
 
-- **Búsqueda por mapa**: Para una experiencia más visual e interactiva, se permite la búsqueda a través de un mapa que muestra los diferentes almacenes y su inventario vinculado, ideal para negocios con sucursales distribuidas geográficamente.
+- Nombre del producto
+- Código de identificación
+- Marca o referencia
 
+A medida que el usuario escribe, se mostrarán **sugerencias automáticas** con coincidencias relevantes para acelerar el proceso.
+
+#### Búsqueda por ubicación
+
+En contextos con múltiples almacenes, los usuarios podrán utilizar **filtros de ubicación** para visualizar únicamente los elementos almacenados en una sede específica. Esta opción es ideal para empresas con sedes descentralizadas o franquicias.
+
+#### Búsqueda por mapa
+
+Para una experiencia aún más visual e intuitiva, **EasyStock** integra una vista tipo mapa que permite seleccionar almacenes desde un panel geolocalizado. Al hacer clic en uno, se mostrará un resumen de su inventario y movimientos asociados.
+
+#### Filtros avanzados
+
+Una vez realizada la búsqueda, los resultados pueden refinarse usando filtros como:
+
+- Fecha de ingreso
+- Cantidad en stock
+- Categoría del producto
+- Proveedor
+- Estado del stock (por ejemplo: bajo, crítico, normal)
+
+Esto garantiza que incluso en grandes volúmenes de datos, el usuario siempre podrá encontrar con precisión lo que busca.
+
+#### Asociación semántica en etiquetas
+
+Para reforzar la comprensión del sistema, las etiquetas utilizadas en botones y menús (como "Contacto", "Agregar producto", "Ver historial") están diseñadas para ser **intuitivas y semánticamente claras**. Esto ayuda a los usuarios a relacionar rápidamente el contenido con su funcionalidad, evitando sobrecargar las interfaces con textos extensos.
 
 ### 4.2.5. Navigation Systems
 
-El sistema de navegación en la aplicación web de **EasyStock** ha sido diseñado para ofrecer una experiencia intuitiva, fluida y adaptativa tanto en computadoras como en dispositivos móviles. Su estructura está centrada en la simplicidad de uso, con etiquetas claras, íconos reconocibles y un diseño visual que orienta al usuario en todo momento.
+El sistema de navegación de **EasyStock** ha sido cuidadosamente diseñado para guiar a los usuarios a través de la **Landing Page** y la **Aplicación Web** de forma intuitiva, clara y eficiente. El objetivo es permitir que tanto propietarios como gestores de inventario cumplan sus metas dentro de la plataforma sin fricciones, logrando una experiencia satisfactoria desde el primer uso.
 
-#### Menú Principal
+### Estructura de navegación
 
-Desde el menú principal, los usuarios pueden:
+La aplicación cuenta con una navegación jerárquica basada en un menú principal y accesos directos que permiten al usuario:
 
-- **Iniciar sesión o registrarse** de manera rápida directamente desde la landing page.
-- Acceder al **Dashboard**, donde se muestra un resumen visual del estado actual del inventario.
-- Navegar por las secciones de **Productos**, **Movimientos**, **Alertas**, **Sensores**, **Configuración** y **Soporte**, disponibles tanto para gestores como propietarios.
-- Realizar acciones clave como **añadir producto**, **ajustar stock**, **registrar entradas** y **registrar salidas** con facilidad desde accesos directos o botones visibles en el dashboard.
+- **Iniciar sesión o registrarse** desde la landing page.
+- Acceder al **Dashboard**, con una vista general del inventario.
+- Navegar a secciones clave como:
+  - **Productos**
+  - **Movimientos**
+  - **Alertas**
+  - **Sensores**
+  - **Configuración**
+  - **Soporte**
 
-#### Navegación para Propietarios
+Además, cada sección incluye botones visibles y accesos rápidos para realizar acciones como:
 
-Los propietarios cuentan además con:
+- Añadir nuevos productos
+- Ajustar cantidades de stock
+- Registrar entradas o salidas de mercancía
 
-- Acceso a **Reportes y Estadísticas**, con gráficos e indicadores clave del desempeño del inventario.
-- Sección de **Ventas**, donde pueden visualizar la relación entre el stock y la actividad comercial.
-- **Gestión de Usuarios**, para asignar permisos y controlar accesos al sistema.
-- Panel de **Mi Plan y Facturación**, donde pueden gestionar su suscripción y pagos.
+### Navegación especializada para propietarios
 
-#### Accesibilidad y Adaptabilidad
+Los usuarios con rol de propietario pueden acceder a módulos adicionales como:
 
-La navegación está diseñada para ser completamente **responsive**, garantizando una experiencia consistente y amigable en todo tipo de dispositivos. Además, los colores, íconos y etiquetas textuales refuerzan la comprensión de cada módulo, facilitando la orientación dentro de la aplicación incluso para usuarios sin experiencia técnica previa.
+- **Reportes y estadísticas** con visualizaciones gráficas del rendimiento del inventario
+- **Gestión de ventas** para analizar la relación entre inventario y actividad comercial
+- **Gestión de usuarios** para administrar accesos y roles
+- **Mi plan y facturación** para controlar su suscripción
 
-El diseño de **EasyStock** busca que cada acción esté a un par de clics de distancia, optimizando los flujos de trabajo tanto para pequeños negocios como para empresas con procesos más complejos.
+### Adaptabilidad y experiencia móvil
+
+Todo el sistema de navegación ha sido desarrollado con un enfoque **responsive**, permitiendo que la experiencia sea coherente en **computadoras, tablets y móviles**. Los elementos visuales como **colores**, **íconos intuitivos** y **etiquetas claras** refuerzan la orientación dentro de la aplicación incluso para usuarios sin experiencia previa en software de gestión.
+
 
 
 ## 4.3. Landing Page UI Design
