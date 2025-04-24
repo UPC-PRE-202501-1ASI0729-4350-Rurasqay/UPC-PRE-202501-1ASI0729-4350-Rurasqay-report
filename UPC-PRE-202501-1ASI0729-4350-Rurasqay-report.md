@@ -531,7 +531,7 @@ Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&
 Para Desktop Browser:
 ![DeskopBrowser](Images/LandingM.jpg)
 Para Mobile Browser:
-![MobileBrowser](Images/EasyStock_page-0063.jpg)
+![MobileBrowser](Images/Mobile.png)
 ## 4.4. Web Applications UX/UI Design
 En esta sección se describe el proceso de diseño de la aplicación web, abarcando desde la elaboración de los wireframes hasta la creación de los mock-ups. Durante este desarrollo se consideraron las guías de estilo y los principios de arquitectura de la información previamente definidos, con el objetivo de asegurar una coherencia visual adecuada con la landing page del proyecto.
 
