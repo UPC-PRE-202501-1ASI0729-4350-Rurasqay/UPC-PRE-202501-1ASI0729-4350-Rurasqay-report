@@ -228,6 +228,15 @@ Product Name:
 
 ## 2.1. Competidores 
 
+### Sensitech:
+#### Ofrece monitoreo automatizado de temperatura y humedad en almacenes mediante sensores inalámbricos. Proporciona alertas en tiempo real y acceso remoto a datos históricos, cumpliendo con normativas como las Buenas Prácticas de Distribución (cGDP) .
+
+### Sistema Borea de Torsa:
+#### Implementado por empresas como Barker en Perú, este sistema permite la supervisión en tiempo real de temperatura y humedad en almacenes, mejorando la trazabilidad y cumpliendo con normativas del sector alimentario .
+
+### Bambu B2B
+#### Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real. Ofrece alertas de stock, previsión de demanda y personalización avanzada para adaptarse a las necesidades específicas de cada empresa .
+
 ### 2.1.1. Análisis competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
