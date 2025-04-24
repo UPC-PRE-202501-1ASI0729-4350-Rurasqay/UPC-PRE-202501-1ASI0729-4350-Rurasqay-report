@@ -267,6 +267,11 @@ Product Name:
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+| **MATRIZ FODA y C.A.M.E** | **Oportunidades: Creciente necesidad de digitalización y automatización de inventarios** | **Amenazas: Aumento de competidores tecnológicos y cambios en regulación de dispositivos IoT** |
+|---------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Fortalezas:** <br> Tecnología accesible, modelo por suscripción y enfoque en emprendedores | Potenciar la fidelización mediante un soporte constante y personalizado para evitar la migración a soluciones más complejas o costosas. Resaltar el valor de los sensores físicos como diferenciador único. | Mantener vigilancia activa sobre regulaciones y adaptar los sensores a normativas. Aprovechar la simplicidad de EasyStock para posicionarse como alternativa más fácil frente a soluciones complejas. |
+| **Debilidades:** <br> Poca presencia internacional | Intensificar campañas de visibilidad en redes, ferias locales y alianzas con incubadoras para construir reputación y reconocimiento. | Mostrar que la solución es adaptable a cualquier sector y escala. Resaltar que no requiere infraestructura costosa como otras opciones del mercado. |
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
