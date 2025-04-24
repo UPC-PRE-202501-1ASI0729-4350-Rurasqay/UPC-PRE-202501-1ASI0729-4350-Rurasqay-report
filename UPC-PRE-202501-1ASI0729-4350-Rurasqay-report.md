@@ -303,12 +303,47 @@ Product Name:
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+
+En la próxima sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto, donde se mostrará la organización, distribución y resultados del landing page.
+
+Sprint # |Date |Time |Location |Prepared By |Attendees|
+| :- | :- | :- | :- | :- | :- |
+|1|10/04/2025 |7:00 pm|Reunión mediante Meet| Alvarado De La Cruz, Juan Carlos|<p>Barrientos Quispe, Marcelo . </p><p>Rioja Nuñez, Franco Diego.</p><p>Nakasone Gomes, Marco.</p><p>Rivera Ticllacuri, Omar Harold</p>|
+|Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
+|Elaborar y diseñar el landing page informativa para la aplicación EasyStock.|<p>18</p><p></p>|18||||
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
-#### 5.2.1.3. Sprint Backlog n
+#### 5.2.1.3. Sprint Backlog 1
+
+En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Barrientos Quispe, Marcelo|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Rioja Nuñez, Franco|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Rivera Ticllacuri, Omar Harold|Done|
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+En este sprint hemos logrado desplegar el diseño de la landing page, aquí podemos encontrar las secciones en donde el usuario va a conocer nuestro producto, con el que se va a familiarizar con los costos de nuestros servicios, etc.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/home.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/about.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/features.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/plans.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/exp.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/contact.png?raw=true" style="width: 100%;"/>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
