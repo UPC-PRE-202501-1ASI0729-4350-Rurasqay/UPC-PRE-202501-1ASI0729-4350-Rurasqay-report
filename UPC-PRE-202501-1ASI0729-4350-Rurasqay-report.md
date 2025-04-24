@@ -275,6 +275,37 @@ Product Name:
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+#### En esta sección se presentan las preguntas realizadas a los entrevistados, organizadas en tres partes: introducción, preguntas centrales y cierre.
+
+### 1. Introducción
+#### Aquí es donde se recopila la información clave para validar la problemática y evaluar el interés en una solución como EasyStock.
+
+1. ¿Podrías contarme brevemente sobre tu emprendimiento y los productos que manejas?
+2. ¿Cuánto tiempo llevas operando con tu emprendimiento?
+3. ¿Cuál es tu rol principal dentro del emprendimiento?
+---
+
+### 2. Preguntas centrales
+#### Estas preguntas sirven para establecer confianza y comprender el entorno general del emprendimiento.
+
+4. ¿Qué tipo de insumos o productos suelen almacenar con más frecuencia?
+5. ¿Te apoyas en tecnología para automatizar procesos o prefieres hacerlo todo manualmente?
+6. ¿Cómo gestionas actualmente el inventario de tus productos o insumos?
+7. ¿Qué tan frecuente es que pierdas productos por mal almacenamiento (por ejemplo, por temperatura o caducidad)?
+8. ¿Has tenido dificultades para saber cuándo reponer stock o qué productos ya no están en condiciones óptimas?
+9. ¿Con qué frecuencia realizas controles físicos de tu inventario? ¿Te toma mucho tiempo?
+
+---
+
+### 3. Cierre 
+#### Estas preguntas ayudan a validar la propuesta de valor y entender qué funcionalidades serían más útiles para el usuario.
+
+10. ¿Te interesaría tener sensores que te alerten si un alimento o insumo está fuera de su temperatura ideal?
+11. ¿Qué tan útil crees que sería tener un sistema que te notifique automáticamente sobre irregularidades en tus almacenes?
+12. ¿Qué características te parecerían imprescindibles en una herramienta de gestión de inventario como esta?
+13. ¿Qué nivel de dificultad o curva de aprendizaje estarías dispuesto a aceptar para usar una nueva plataforma?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
