@@ -612,16 +612,46 @@ Pantalla de alertas activas de los sensores
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Software Architecture Context Diagram
+
+## Context Diagram
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+## Container Diagram
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+## Components Diagram
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src='./Images/classDiagram.jpg'/>
+
 ### 4.7.2. Class Dictionary
+| Clase             | Posible Función                                                                                                                                                                                             |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Usuario** | Representa a los usuarios del sistema, almacenando su información personal y permitiendo la gestión de sus suscripciones.                                                                                    |
+| **Suscripcion** | Define la suscripción de un usuario a un plan, incluyendo detalles como la fecha de inicio, fin y estado.                                                                                                 |
+| **PlanSuscripcion** | Describe los diferentes planes de suscripción disponibles, con información sobre su nombre, precio, duración y características.                                                                               |
+| **Emprendimiento** | Representa las unidades de negocio o emprendimientos dentro del sistema, con información sobre su nombre, sector y ubicación.                                                                             |
+| **Almacen** | Define los almacenes donde se gestionan los insumos, incluyendo su nombre, ubicación y capacidad.                                                                                                        |
+| **Insumo** | Representa los diferentes tipos de insumos o materiales utilizados, con detalles como su nombre, descripción, unidad de medida, precio y fecha de vencimiento.                                               |
+| **Alerta** | Almacena información sobre las alertas generadas por el sistema, posiblemente relacionadas con niveles bajos de stock o condiciones ambientales fuera de rango.                                                  |                                                                     | **AlquilerSensor** |Define la instancia del tiempo y fecha del alquiler de un sensor                  |                                                                          
+| **AsigcionSensor** | Representa los sensores, registrando su ID, almacén asociado, fecha de asignacion                  |
+| **CondicionesIdealess** | Registra las condiciones ambientales medidas, como temperatura y humedad, posiblemente asociadas a un almacén.                                                                                             |
+| **Sensor** | Representa un sensor genérico, con atributos como su ID, tipo, estado y ubicación.                                                                                                                   |
+| **LecturaSensor** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.                                                      |                                                    
+| **HistorialOptimizacion** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.    
+                                                  |     
+| **TipoInsumo** | Define los diferentes tipos de insumos que se manejan en el sistema, con un ID y un nombre descriptivo. 
+                                                  |                                                      
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+## Database diagram:
+<img src='./Images/diagram.jpg'/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
