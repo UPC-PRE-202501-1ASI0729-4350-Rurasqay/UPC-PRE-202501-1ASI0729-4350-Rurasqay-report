@@ -164,8 +164,8 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br>|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.| 
+|Comunica oralmente con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br> <br> **Omar Rivera:**<br>**TB1:**<br> Durante el desarrollo del proyecto, me enfoqué en el Capítulo 4, contribuyendo activamente en el product design, especialmente en la creación y estructura de la Landing Page, así como en los elementos visuales que garantizan una experiencia coherente y atractiva para el usuario.|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.| <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.<br>**Omar Rivera:** <br> **TB1:** <br> En el Capítulo 4, me encargué del diseño UI, incluyendo la elaboración de las Style Guidelines y la estructura visual de la Landing Page. Mi trabajo se centró en brindar una experiencia clara, intuitiva y estéticamente cuidada para los usuarios de la aplicación web.| 
 
 # Capítulo I: Introduccion
 ## 1.1. Startup Profile
@@ -179,13 +179,13 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                                                                   | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      |                                                                                         
-|-------------------------------------------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> |Nakasone Gomes, Marco Antonio  | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. |
-| |  | Ingeniería de Software | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | 
-| |  | Ingeniería de Software | Escribir aqui | 
-| |  | Ingeniería de Software | Escribir aqui | 
+| Foto | Apellido y Nombre | Carrera | Acerca de | Código |
+|------|-------------------|---------|-----------|--------|
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | [Código aquí] |
+| <img src="Images/Omar.jpeg"/>| Omar Harold Rivera Ticllacuri | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto. |  u202214214 |
+| | [Nombre aquí] | Ingeniería de Software | Escribir aquí | [Código aquí] |
+| | [Nombre aquí] | Ingeniería de Software | Escribir aquí | [Código aquí] |
+| | [Nombre aquí] | Ingeniería de Software | Escribir aquí | [Código aquí] |
 
 ## 1.2. Solution Profile
 
