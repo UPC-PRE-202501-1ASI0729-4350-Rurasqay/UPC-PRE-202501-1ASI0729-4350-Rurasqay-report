@@ -307,15 +307,61 @@ Product Name:
 13. ¿Qué nivel de dificultad o curva de aprendizaje estarías dispuesto a aceptar para usar una nueva plataforma?
 
 ### 2.2.2. Registro de entrevistas
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding 
 
 ### 2.3.1. User Personas
+
+## Segmento Objetivo 1
+
+<img src="./Images/Luis Gálvez_User Persona.png"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Luis Gómez_User Persona.png"></img>
+
 ### 2.3.2. User Task Matrix 
+
+## Segmento Objetivo 1
+
+<img src="./Images/task matrix 1.PNG"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/task matrix 2.PNG"></img>
+
 ### 2.3.3. User Journey Mapping
+
+## Segmento Objetivo 1
+
+<img src="./Images/Segmento 1 journey map 1.png"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Segmento 2 journey map 2.png"></img>
+
 ### 2.3.4. Empathy Mapping
+
+## Segmento Objetivo 1
+
+<img src="./Images/Empathy map segmento 1.png"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Empathy map segmento 2.png"></img>
+
 ### 2.3.5. As-Is Scenario Mapping
+
+## Segmento Objetivo 1
+
+<img src="./Images/Scenario Mapping Segmento 1.PNG"></img>
+
+## Segmento Objetivo 2
+
+<img src="./Images/Scenario Mapping Segmento 2.PNG"></img>
 
 ## 2.4. Ubiquitous Language
 
