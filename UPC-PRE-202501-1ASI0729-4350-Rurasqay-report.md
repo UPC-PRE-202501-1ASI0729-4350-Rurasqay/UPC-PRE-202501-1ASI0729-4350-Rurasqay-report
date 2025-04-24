@@ -314,7 +314,6 @@ Product Name:
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
-## Conclusiones y recomendaciones
 
 **Avance inicial significativo**
 
