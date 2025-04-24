@@ -685,8 +685,54 @@ User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el h
 
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
 ### 5.1.2. Source Code Management
+Para llevar un seguimiento ordenado de las diversas modificaciones del proyecto, se implementó una organización en GitHub. Esto simplificó el control de las diferentes versiones del código y permitió una colaboración más fluida entre los colaboradores.
+
+- [Organización en GitHub](https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay)
+- [Landing Page Repository](https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-landing-page)
+- [Report Repository](https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report)
+
+## Flujo de trabajo con GitFlow
+
+Para mejorar la organización del código y facilitar el control de versiones, se implementó la estrategia **GitFlow**. Este modelo divide el desarrollo en distintas ramas con funciones específicas, asegurando una integración ordenada y controlada.
+
+### Ramas principales
+
+- **main**: Esta rama contiene las versiones finales del software, listas para ser desplegadas en producción.
+
+- **develop**: Sirve como entorno de integración. Aquí se agrupan y prueban todas las nuevas funcionalidades antes de pasarlas a producción. Cuando una funcionalidad está lista y validada, se fusiona en esta rama.
+
+### Ramas auxiliares
+
+- **feature**: Se utilizan para el desarrollo de nuevas funcionalidades o mejoras. Estas ramas se crean a partir de `develop` y, al finalizar el trabajo, se integran nuevamente a ella.  
+  Esta separación ayuda a mantener la estabilidad del entorno principal de desarrollo y facilita la revisión del código.
+
+### Convención de commits
+
+Para mantener claridad y coherencia en el historial de cambios, se adopta una convención estándar para los mensajes de commit, especificando el **tipo** de cambio introducido.
+
+#### type: Describe la naturaleza del cambio realizado en el código.
+
+Los tipos más utilizados son:
+
+- **fix**: Corrección de errores.  
+  Se utiliza cuando se soluciona un bug o comportamiento no deseado en el sistema.  
+   
+
+- **chore**: Tareas de mantenimiento o configuraciones que no afectan directamente el código de producción.  
+  Incluye cambios como configuración de linters, ajustes de dependencias o scripts auxiliares.  
+
+- **feat**: Implementación de una nueva funcionalidad o característica.  
+  Se utiliza para añadir capacidades nuevas al sistema.  
+
+- **docs**: Cambios relacionados exclusivamente con la documentación.  
+  Incluye actualizaciones en archivos README, comentarios o guías del proyecto.  
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
