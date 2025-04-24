@@ -187,11 +187,11 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 | Foto                                                                                                                                                                                     | Apellido y Nombre                | Carrera                 | Acerca de                                                                                                                                                                                                                                                                             | Código    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| `<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/>` | Nakasone Gomes, Marco Antonio    | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | u202210790 |
-| `<img src="Images/Omar.jpeg"/>`                                                                                                                                                        | Omar Harold Rivera Ticllacuri    | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto.            | u202214214 |
-| `<img src='./Images/marcelo.png'/>`                                                                                                                                                    | Marcelo Barrientos Quispe        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo.                                  | u20221e646 |
-| `<img src='./Images/diego.jpg'/>`                                                                                                                                                      | Franco Diego Rioja Nuñez        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos.                               | u202221597 |
-| `<img src="Images/juan.jpg">`                                                                                                                                                          | Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                              | u202216150 |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio    | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | u202210790 |
+| <img src="Images/Omar.jpeg"/>                                                                                                                                                        | Omar Harold Rivera Ticllacuri    | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto.            | u202214214 |
+| <img src='./Images/marcelo.png'/>                                                                                                                                                    | Marcelo Barrientos Quispe        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo.                                  | u20221e646 |
+| <img src='./Images/diego.jpg'/>                                                                                                                                                      | Franco Diego Rioja Nuñez        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos.                               | u202221597 |
+| <img src="Images/juan.jpg">                                                                                                                                                          | Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                              | u202216150 |
 
 ## 1.2. Solution Profile
 
@@ -468,51 +468,51 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-`<img src="./Images/Luis Gálvez_User Persona.png"></img>`
+<img src="./Images/Luis Gálvez_User Persona.png"></img>
 
 ## Segmento Objetivo 2
 
-`<img src="./Images/Luis Gómez_User Persona.png"></img>`
+<img src="./Images/Luis Gómez_User Persona.png"></img>
 
 ### 2.3.2. User Task Matrix
 
 ## Segmento Objetivo 1
 
-`<img src="./Images/task matrix 1.PNG"></img>`
+<img src="./Images/task matrix 1.PNG"></img>
 
 ## Segmento Objetivo 2
 
-`<img src="./Images/task matrix 2.PNG"></img>`
+`<img src="./Images/task matrix 2.PNG"></img>
 
 ### 2.3.3. User Journey Mapping
 
 ## Segmento Objetivo 1
 
-`<img src="./Images/Segmento 1 journey map 1.png"></img>`
+<img src="./Images/Segmento 1 journey map 1.png"></img>
 
 ## Segmento Objetivo 2
 
-`<img src="./Images/Segmento 2 journey map 2.png"></img>`
+<img src="./Images/Segmento 2 journey map 2.png"></img>
 
 ### 2.3.4. Empathy Mapping
 
 ## Segmento Objetivo 1
 
-`<img src="./Images/Empathy map segmento 1.png"></img>`
+<img src="./Images/Empathy map segmento 1.png"></img>
 
 ## Segmento Objetivo 2
 
-`<img src="./Images/Empathy map segmento 2.png"></img>`
+<img src="./Images/Empathy map segmento 2.png"></img>
 
 ### 2.3.5. As-Is Scenario Mapping
 
 ## Segmento Objetivo 1
 
-`<img src="./Images/Scenario Mapping Segmento 1.PNG"></img>`
+<img src="./Images/Scenario Mapping Segmento 1.PNG"></img>
 
 ## Segmento Objetivo 2
 
-`<img src="./Images/Scenario Mapping Segmento 2.PNG"></img>`
+<img src="./Images/Scenario Mapping Segmento 2.PNG"></img>
 
 ## 2.4. Ubiquitous Language
 
