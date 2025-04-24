@@ -644,14 +644,16 @@ User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el h
 ### 4.6.1. Software Architecture Context Diagram
 
 ## Context Diagram
+<img src='./Images/context.png'/>
 
 ### 4.6.2. Software Architecture Container Diagrams
-
 ## Container Diagram
+<img src='./Images/container.png' />
 
 ### 4.6.3. Software Architecture Components Diagrams
-
 ## Components Diagram
+<img src='./Images/component.png' />
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -671,10 +673,8 @@ User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el h
 | **CondicionesIdealess** | Registra las condiciones ambientales medidas, como temperatura y humedad, posiblemente asociadas a un almacén.                                                                                             |
 | **Sensor** | Representa un sensor genérico, con atributos como su ID, tipo, estado y ubicación.                                                                                                                   |
 | **LecturaSensor** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.                                                      |                                                    
-| **HistorialOptimizacion** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.    
-                                                  |     
-| **TipoInsumo** | Define los diferentes tipos de insumos que se manejan en el sistema, con un ID y un nombre descriptivo. 
-                                                  |                                                      
+| **HistorialOptimizacion** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.    |     
+| **TipoInsumo** | Define los diferentes tipos de insumos que se manejan en el sistema, con un ID y un nombre descriptivo. |                                                      
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
