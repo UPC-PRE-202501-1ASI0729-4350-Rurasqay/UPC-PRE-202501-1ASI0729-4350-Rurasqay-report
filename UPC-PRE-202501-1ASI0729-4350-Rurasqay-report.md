@@ -501,7 +501,7 @@ Presentamos los resultados del diseño de la Aplicación Web en Figma.
 En esta sección se mostrarán los wireframes de la landing page, los cuales son representaciones de baja fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
-![DeskopBrowser](Images/Landing_Page_Wireframe.png)
+![DeskopBrowser](Images/LandingW.jpg)
 Para Mobile Browser:
 ![MobileBrowser](Images/EasyStock_page-0069.jpg)
 
@@ -509,7 +509,7 @@ Para Mobile Browser:
 En esta sección se mostrarán los Mock-ups de la landing page, los cuales son representaciones de alta  fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
-![DeskopBrowser](Images/Landing_Page_Mock_up.png)
+![DeskopBrowser](Images/LandingM.jpg)
 Para Mobile Browser:
 ![MobileBrowser](Images/EasyStock_page-0063.jpg)
 ## 4.4. Web Applications UX/UI Design
