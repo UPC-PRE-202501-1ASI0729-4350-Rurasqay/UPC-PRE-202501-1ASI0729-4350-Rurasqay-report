@@ -308,8 +308,57 @@ Product Name:
 
 ### 2.2.2. Registro de entrevistas
 
+# Entrevista 1 - Bryan Espejo
+
+<img src="/Images/e1.png">
+
+## Conclusion
+
+Bryan tiene una repostería artesanal y gestiona su inventario manualmente, 
+lo que le ha causado pérdidas por fallas en refrigeración. Prefiere métodos simples 
+y busca una herramienta fácil de usar que le ofrezca alertas, escaneo de productos y reportes. Está dispuesto a aprender si la plataforma le ahorra tiempo y reduce errores.
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
+
+# Entrevista 2 - Joan Teves
+
+<img src="/Images/e2.png">
+
+## Conclusion
+
+Joan dirige un taller textil y usa Google Sheets para controlar inventario, 
+pero enfrenta pérdidas por desactualización. Busca una herramienta visual y 
+fácil de usar que le ofrezca alertas, escaneo, importación de datos e historiales, 
+y que incluya soporte como tutoriales.
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
+
+# Entrevista 3 - Cyndi Ortega
+
+<img src="/Images/e3.png">
+
+## Conclusion
+
+Cyndi Ortega, con 9 años en publicidad y producción, almacena insumos como acrílico y 
+cartón. Usa Excel para el inventario, pero ha tenido problemas de control que afectan 
+su productividad. Está interesada en una solución precisa, con sensores que monitoreen 
+stock y temperatura para evitar pérdidas.
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
+
+# Entrevista 3 - Tahily Esparta
+
+<img src="/Images/e4.png">
+
+## Conclusion
+
+Tahily Esparta, emprendedora de 21 años en Chorrillos, gestiona un negocio de fiambres y 
+enfrenta dificultades con el control manual de inventario, por lo que valora una herramienta 
+fácil de usar con alertas automáticas que le ahorre tiempo y reduzca pérdidas por mal almacenamiento.
 
 ### 2.2.3. Análisis de entrevistas
+
+En general, los emprendedores entrevistados comparten la necesidad de una herramienta de gestión de inventario sencilla, visual y funcional que les permita reducir pérdidas por desorganización o mal almacenamiento, optimizar su tiempo y mejorar el control de productos sensibles; todos están dispuestos a adoptar nuevas tecnologías siempre que cuenten con soporte, alertas automáticas y faciliten su trabajo diario.
 
 ## 2.3. Needfinding 
 
