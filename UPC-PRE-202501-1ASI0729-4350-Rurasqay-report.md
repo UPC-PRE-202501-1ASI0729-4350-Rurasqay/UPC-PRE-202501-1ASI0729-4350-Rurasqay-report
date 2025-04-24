@@ -316,6 +316,25 @@ Product Name:
 # Conclusiones
 ## Conclusiones y recomendaciones
 
+**Avance inicial significativo**
+
+- La finalización de la landing page representa un primer hito alcanzado dentro del proyecto EasyStock. Este entregable permite comunicar de manera clara el objetivo de la plataforma y su propuesta de valor hacia los usuarios objetivo.
+
+**Validación temprana de la propuesta**
+
+- La publicación de la landing page ofrece una primera oportunidad para recolectar feedback externo, identificar el nivel de interés del público y ajustar el enfoque del producto si fuese necesario.
+
+**Alineación del equipo con los objetivos del proyecto**
+
+- Este primer sprint ha permitido que todos los miembros del equipo se alineen en torno a los objetivos del proyecto, comprendiendo de forma integral las necesidades de los usuarios y la funcionalidad mínima esperada.
+
+**Identificación de mejoras en comunicación visual**
+
+- Durante el desarrollo de la landing page se identificaron aspectos clave relacionados con la experiencia de usuario (UX) y el diseño visual que deberán ser refinados en próximos sprints para mejorar la efectividad del mensaje.
+
+**Preparación para etapas siguientes del desarrollo**
+
+- Este primer avance sienta las bases para el desarrollo de funcionalidades más complejas en los próximos sprints. Asimismo, permite proyectar futuras acciones como validaciones con usuarios reales, integración de formularios y generación de métricas.
 ## Video About-the-Team
 
 ## Bibliografía
