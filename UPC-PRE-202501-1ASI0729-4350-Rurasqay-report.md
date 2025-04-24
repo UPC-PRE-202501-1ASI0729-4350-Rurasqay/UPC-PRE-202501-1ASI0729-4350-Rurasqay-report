@@ -686,7 +686,30 @@ Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
+
+#### En esta parte se mencionaran los productos de software usados para el desarrollo del proyecto.
+
+### Product UX/UI Desing
+
+1. UXPresia: Se utilizó esta herramienta para la elaboración de User Personas, Empathy Maps, Journey Maps e Impact Maps
+2. Figma: Usamos esta herramienta para la creación de los wireframes, mock-ups y prototipos de aplicaciones móviles y de escritorio.
+3. Miro: Usamos esta herramienta para la elaboración del AS-IS y TO-BE Scenario Maps
+
+### Software Development
+
+4. Viusal Stuido Code: Esta herramienta fue usada para la elaboración de la landing page y las aplicaciones web.
+5. Github: Usamos la herramienta para poder trbajar aplicando GitFlow para desarrolar el proyecto de una manera organizada.
+
+### Project Management and Collaboration
+
+6. WhatsApp: Este aplicativo fue vital para la comunicación rápida con el equipo.
+
+### Software Documentation
+
+7. Vertabelo: Esta herramienta se usó para hacer bases de datos de manera de rápida.
+8. StarUML: Esta herrmiendo fue usada para poder realizar el Diagrama de clases
 
 ### 5.1.2. Source Code Management
 Para llevar un seguimiento ordenado de las diversas modificaciones del proyecto, se implementó una organización en GitHub. Esto simplificó el control de las diferentes versiones del código y permitió una colaboración más fluida entre los colaboradores.
