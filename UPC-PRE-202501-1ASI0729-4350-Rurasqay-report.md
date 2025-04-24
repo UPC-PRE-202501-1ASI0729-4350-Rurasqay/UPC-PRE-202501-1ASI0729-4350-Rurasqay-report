@@ -570,7 +570,21 @@ Pantalla de alertas activas de los sensores
 <img src="Images/EasyStock/EasyStock_page-0100.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0104.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0105.jpg" alt="Informacion" width="200"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
---- FALTA ---
+User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
+![WireflowDiagrams](Images/WireFlows%20(7).png)
+![WireflowDiagrams](Images/WireFlows%20(6).png)
+
+User Goal: El usuario necesita acceder a su cuenta en EasyStock.
+![WireflowDiagrams](Images/WireFlows%20(5).png)
+User Goal: El usuario ha olvidado su contraseña y desea restablecerla.
+![WireflowDiagrams](Images/WireFlows%20(2).png)
+User Goal: El usuario desea añadir un nuevo producto a su inventario.
+![WireflowDiagrams](Images/WireFlows%20(4).png)
+User Goal: El usuario desea ver el historial de entradas y salidas de un producto específico.
+
+![WireflowDiagrams](Images/WireFlows%20(1).png)
+User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
+![WireflowDiagrams](Images/WireFlows%20(3).png)
 ### 4.4.3. Web Applications Mock-ups
 En esta parte se mostrarán los wireframes de la aplicación web, los cuales representan esquemas de baja fidelidad que funcionan como un plano inicial. Su propósito es definir la estructura general de la interfaz antes de avanzar hacia la aplicación de guías de estilo e incorporación de elementos visuales.
 
@@ -608,7 +622,21 @@ Pantalla de alertas activas de los sensores
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
---- FALTA ---
+User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
+![FlowDiagramas](Images/UserFlow%20(7).png)
+![FlowDiagramas](Images/UserFlow%20(6).png)
+
+User Goal: El usuario necesita acceder a su cuenta en EasyStock.
+![FlowDiagramas](Images/UserFlow%20(5).png)
+User Goal: El usuario ha olvidado su contraseña y desea restablecerla.
+![FlowDiagramas](Images/UserFlow%20(3).png)
+User Goal: El usuario desea añadir un nuevo producto a su inventario.
+![FlowDiagramas](Images/UserFlow%20(4).png)
+User Goal: El usuario desea ver el historial de entradas y salidas de un producto específico.
+
+![FlowDiagramas](Images/UserFlow%20(2).png)
+User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
+![FlowDiagramas](Images/UserFlow%20(1).png)
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
