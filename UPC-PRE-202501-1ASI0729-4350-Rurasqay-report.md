@@ -365,6 +365,26 @@ Product Name:
 
 ## 2.4. Ubiquitous Language
 
+### En esta sección se muestran los términos y conceptos que se usan usualmente en nustro proyecto.
+
+* **Ítem:** Representa cualquier elemento gestionado en el inventario (alimento, materia prima, producto terminado).
+* **Stock:** La cantidad actual disponible de un Ítem.
+* **Alerta:** Notificación sobre cambios importantes en el stock o condiciones.
+* **Condición:** Atributo relevante de un Ítem (ej. temperatura, peso, fecha de caducidad).
+* **Pedido:** Solicitud para adquirir más Ítems.
+* **Reposición:** Acción de reabastecer el stock de un Ítem.
+* **Entrada:** Registro del aumento de stock de un Ítem.
+* **Salida:** Registro de la disminución de stock de un Ítem.
+* **Proveedor:** Entidad que suministra los Ítems.
+* **Ubicación:** Lugar donde se almacena un Ítem.
+* **Informe:** Resumen de datos relevantes del inventario.
+* **Catálogo:** Lista de todos los Ítems gestionados.
+* **Transacción:** Cualquier movimiento que afecta el stock de un Ítem.
+* **Usuario:** Persona que utiliza EasyStock.
+* **Almacén:** Espacio físico de almacenamiento.
+* **Límite:** Valor establecido para generar alertas (ej. stock mínimo, temperatura máxima).
+* **Unidad:** Medida en la que se gestiona el stock (ej. kg, unidades, metros).
+
 # Capitulo III: Requeriments Specification
 
 ## 3.1. To-Be Scenario Mapping 
