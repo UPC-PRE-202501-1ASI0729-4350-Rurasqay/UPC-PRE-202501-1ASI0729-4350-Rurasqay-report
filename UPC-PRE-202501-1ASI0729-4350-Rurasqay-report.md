@@ -352,8 +352,29 @@ En este sprint hemos logrado desplegar el diseño de la landing page, aquí pode
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/contact.png?raw=true" style="width: 100%;"/>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Esta sección reúne la documentación de los servicios que gestionan la vinculación entre creadores de contenido e instituciones comerciales dentro de la plataforma. Se detalla la estructura de los endpoints que permiten consultar perfiles de influencers, los cuales contienen información relevante sobre su base de seguidores, indicadores clave de rendimiento, tarifas de colaboración, y registros de campañas anteriores con sus respectivos resultados. 
+
+También se incluyen endpoints que permiten acceder a valoraciones y recomendaciones emitidas por marcas que han trabajado con dichos influencers.
+
+<img src="./Images/service for sprints, este era.png"/>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Utilizando la funcionalidad de GitHub Pages, llevamos a cabo el proceso de despliegue del sitio web correspondiente a este Sprint. Para ello, accedimos a la configuración del repositorio y completamos los campos requeridos por la plataforma.
+
+<img src="./Images/despliegue 1.png">
+
+## Pagina Desplegada
+
+<img src="./Images/despliegue 2.png">
+
+link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-PRE-202501-1ASI0729-4350-Rurasqay-landing-page/
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<img src="./Images/service for sprints.png">
+
+<img src="./Images/insight.png"/>
 
 # Conclusiones
 ## Conclusiones y recomendaciones
