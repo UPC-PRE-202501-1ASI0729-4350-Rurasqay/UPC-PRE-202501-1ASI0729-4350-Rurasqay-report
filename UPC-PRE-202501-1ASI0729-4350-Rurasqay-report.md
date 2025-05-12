@@ -188,63 +188,62 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 |<img src="Images/juan.jpg"> | Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python. | u202216150 |
 
 ## 1.2. Solution Profile
+EasyStock es una solución tecnológica innovadora que transforma la gestión de inventarios para emprendedores que trabajan con productos sensibles o en grandes cantidades. A través de una plataforma digital intuitiva, EasyStock permite controlar el stock de insumos y monitorear en tiempo real las condiciones del entorno en que se almacenan, asegurando que se mantengan en óptimas condiciones.
+
+Además, ofrece un plan premium con sensores inteligentes que supervisan constantemente la materia prima. Estos dispositivos generan alertas y notificaciones cuando se detectan variaciones que puedan comprometer la calidad o cantidad de los productos, permitiendo a los responsables actuar de inmediato. En resumen, EasyStock no solo reduce el riesgo de pérdidas, sino que optimiza el control logístico y fortalece la eficiencia operativa de los emprendimientos.
 
 ### 1.2.1. Antecedentes y problemática
+Muchos emprendedores que gestionan productos sensibles o en grandes volúmenes enfrentan dificultades constantes para mantener un control eficiente de sus inventarios. La ausencia de herramientas accesibles y automatizadas para monitorear el stock y las condiciones ambientales de los insumos genera un entorno propenso a errores humanos, desperdicio de materia prima y pérdidas económicas significativas. Además esta situación se agrava cuando los procesos son manuales o poco estandarizados, lo que incrementa la carga operativa y reduce la capacidad de respuesta ante imprevistos.
 
-**Enunciado del problema:**  
-Emprendedores que gestionan productos sensibles o en grandes cantidades carecen de herramientas accesibles para monitorear y controlar sus inventarios de forma eficiente. Esto genera pérdidas económicas, errores humanos y sobrecarga operativa.
-
-**Objetivo general del sistema:**  
-Diseñar e implementar una solución digital que facilite la gestión inteligente del inventario, incluyendo monitoreo en tiempo real de condiciones ambientales, alertas automáticas y recomendaciones personalizadas para la optimización del almacenamiento.
-
-**Objetivos específicos:**
-- Digitalizar la gestión de inventarios para reducir errores y tiempos operativos.
-- Implementar monitoreo en tiempo real mediante sensores.
-- Emitir alertas ante condiciones críticas (temperatura, humedad, peso).
-- Proporcionar reportes gráficos y recomendaciones para optimización.
-
-**Restricciones:**
-- La solución debe ser accesible desde la web y dispositivos móviles.
-- El sistema debe permitir integración con sensores de bajo costo.
-- Se debe ofrecer como servicio (SaaS) con planes escalables.
+Con el objetivo de comprender a fondo las necesidades de nuestros usuarios y enfocar nuestro trabajo conforme a los principios de Lean UX, llevamos a cabo un análisis del contexto y la problemática mediante la técnica de las "5W’s & 2H’s". Esta herramienta, fundamental en Lean UX, nos permitió identificar oportunidades clave para desarrollar un diseño verdaderamente centrado en el usuario. A continuación, se expone la información obtenida.
 
 #### Análisis con técnica de The 5 W’s and 2 H’s
 
-**Who (¿Quiénes son los afectados?)**  
-- Emprendedores que gestionan productos sensibles al ambiente (alimentos, cosméticos, farmacéuticos).
-- Emprendedores que manipulan grandes volúmenes de inventario sin automatización.
-- Personal operativo y dueños de negocios que pierden insumos por mala gestión.
+#### **What**
+**¿Cuál es el problema?**  
+EasyStock busca resolver una serie de desafíos que afectan directamente a emprendedores que gestionan productos sensibles o en grandes cantidades. Entre estos problemas se encuentran las pérdidas económicas causadas por el deterioro de insumos mal almacenados, el uso de métodos manuales e ineficientes para el control de inventario como cuadernos o planillas de Excel, la falta de alertas oportunas ante cambios críticos en las condiciones ambientales, y la escasa visibilidad en tiempo real que dificulta la toma de decisiones operativas, generando errores humanos y una mayor carga de trabajo.
 
-**What (¿Qué sucede?)**  
-- Pérdidas económicas por deterioro de productos mal almacenados.
-- Control manual ineficiente del inventario (cuadernos, Excel).
-- Falta de alertas oportuna ante cambios en condiciones críticas.
-- Dificultad para tomar decisiones operativas por falta de visibilidad en tiempo real.
+#### **When**
+**¿Cuándo sucede?**  
+A lo largo de todo el ciclo operativo del negocio, incluyendo el almacenamiento, la distribución, la recepción y el despacho de productos, el problema se vuelve crítico  en momentos en los que no hay personal disponible para supervisar el estado del inventario.
 
-**Where (¿Dónde ocurre?)**  
-- Almacenes de pequeños negocios, tiendas físicas, cocinas industriales, centros de distribución informales.
+**¿Cuándo utiliza el cliente el producto?** 
+Los clientes utilizan EasyStock cuando necesitan realizar tareas operativas como verificar niveles de stock, o monitorear las condiciones ambientales de los insumos almacenados. Especialmente útil durante actividades críticas como el cierre del día, ausencia de personal supervisando, ya que permite automatizar alertas y tomar decisiones inmediatas basadas en datos actualizados al instante.
 
-**When (¿Cuándo sucede?)**  
-- Durante todo el ciclo operativo del negocio: almacenamiento, distribución, recepción de productos, despacho.
-- De forma crítica en horarios de cierre, cambios de turno, o cuando no hay personal atento al estado del inventario.
+#### **Where**
+**¿Dónde surge el problema?**  
+El problema ocurre en almacenes de pequeños negocios, tiendas físicas, cocinas industriales o centros de distribución informales, donde la falta de monitoreo de insumos
+es ineficiente.
 
-**Why (¿Por qué ocurre?)**  
-- Porque no existe una solución accesible, automatizada y adaptada al contexto de emprendedores peruanos.
-- Porque los sensores inteligentes suelen ser costosos o difíciles de integrar sin soporte técnico.
-- Porque la mayoría de herramientas actuales están pensadas para empresas grandes.
+#### **Who (¿Quiénes son los afectados?)**  
+**¿Quiénes están involucrados?**
+Los principales involucrados son emprendedores que trabajan con productos sensibles a factores ambientales, como alimentos, plástico o materia prima, así como aquellos que manejan grandes volúmenes de inventario sin sistemas automatizados de control. Además, el problema impacta al personal operativo y a los propietarios de negocios, quienes enfrentan pérdidas recurrentes de insumos debido a una gestión inadecuada del inventario.
 
-**How (¿Cómo se resuelve?)**  
-- Con una plataforma web fácil de usar, que permita registrar productos, vincular sensores y visualizar alertas en tiempo real.
-- Implementando dashboards, reportes y recomendaciones basadas en datos históricos.
-- Permitiendo la administración remota del inventario y condiciones de almacenamiento.
+**¿A quiénes le sucede el problema?**
+El problema afecta a emprendedores que poseen dificultades para gestionar sus productos.
 
-**How much (¿Cuánto cuesta o cuánto implica?)**  
-- Los usuarios podrán elegir entre planes mensuales accesibles con funcionalidades escalables. *(Precio por definir)*.
-- Se ofrecerá el alquiler de sensores como servicio para reducir la inversión inicial.
-- El modelo de negocio será por suscripción tipo SaaS.
+**¿Quién utilizará el producto?**
+El producto será utilizado por emprendedores que trabajan con insumos y el personal encargado de gestionar los inventarios, supervisar las condiciones de almacenamiento y recibir alertas en tiempo real.
 
+#### **Why**  
+**¿Por qué sucede el problema?**
+El problema surge debido a la falta de eficiencia en el control y monitoreo de insumos, que impiden una respuesta adecuada a cualquier situación crítica como un cambio
+drástico en el ambiente, generando perdidas económicas para los emprendedores.
 
-### 1.2.2. Lean UX Process
+**¿Qué llevó al usuario a esta situación?**
+La falta de herramientas actalizadas y eficientes que ayuden a automatizar dichos procesos en tiempo real para así evitar perdidas de material y facilitar la gestión de los insumos. 
+
+#### **How (¿Cómo se resuelve?)**  
+**¿En qué condiciones los clientes usan nuestro producto?**
+Los clientes de EasyStock usan el producto cuando necesitan gestionar su inventario de productos sensibles o en grandes volúmenes, especialmente en situaciones donde no pueden supervisar manualmente las condiciones de almacenamiento.  
+
+**¿Cómo nos conocerán los usuarios?**
+Los usuarios conocerán el producto a través de estrategias de marketing digital, como anuncios en redes sociales o recomendaciones en el sector. También podrán conocerlo por medio de testimonios de otros emprendedores, demostraciones en eventos o a través de asociaciones con entidades que apoyen a emprendedores y pequeñas empresas.
+
+#### **How much**
+**¿En qué cantidad sucede el problema?** 
+El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, generando pérdidas económicas y errores operativos de manera frecuente. Esto sucede a diario, particularmente en momentos críticos de gestión, como la recepción, almacenamiento y despacho de productos.
+
 
 ### 1.2.2. Lean UX Process
 
