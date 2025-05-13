@@ -246,22 +246,93 @@ El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, g
 
 
 ### 1.2.2. Lean UX Process
+En esta sección se desarrollará el proceso de Lean UX, el cual contempla la visión del modelo de negocio que respaldará nuestro producto de software. Este enfoque metodológico nos permite enfocar los esfuerzos en el diseño de la solución y en la comprensión profunda de los problemas detectados a través del pensamiento de diseño. Utilizamosremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como guía para enfocar al equipo en el desarrollo de un servicio libre de limitaciones que frenen la innovación y la rapidez. Esta metodología nos permite abordar el proyecto desde las necesidades reales del cliente, favoreciendo un proceso más ágil y enfocado hacia un lanzamiento exitoso.
+
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Dominio:** Gestión de inventarios en pequeños negocios.  
-**Segmento inicial:** Emprendedores con productos sensibles o de gran volumen.  
-**Punto de dolor (pain point):** Pérdida de productos y sobrecarga operativa.  
-**Brecha (gap):** Ausencia de soluciones adaptadas al contexto local.  
-**Visión:** Brindar control en tiempo real y eficiencia operativa con bajo costo.  
-**Estrategia:** Implementar sensores inteligentes, visualización en dashboards, alertas y recomendaciones.
+**Domain:** 
+Nos enfocamos en el sector de la gestión y monitoreo de inventarios para empresas y negocios, un ámbito fundamental que abarca desde pequeños emprendimientos hasta medianas empresas con operaciones más complejas. Cada negocio tiene necesidades particulares relacionadas con el control de sus insumos, especialmente cuando se trata de productos sensibles al ambiente o de alto volumen. 
+
+**Customers Segment** 
+Nuestro público objetivo incluye tanto a empresarios y emprendedores como al personal encargado de monitorear y gestionar los insumos dentro de sus negocios. Reconocemos que cada empresa trabaja con distintos tipos de insumos, lo que representa un desafío en términos de conservación, control y seguimiento. Por ello, hemos desarrollado una plataforma adaptable y fácil de usar que facilita una gestión eficiente y precisa, brindando a los responsables una herramienta confiable para tomar decisiones oportunas y reducir riesgos operativos.
+
+**Paint point:** 
+- **Pérdidas económicas por deterioro o vencimiento de insumos mal almacenados:**
+Muchos negocios sufren pérdidas debido al deterioro de insumos sensibles que no son almacenados en condiciones adecuadas, donde la temperatura y humedad son factores críticos. La falta de monitoreo en tiempo real impide detectar a tiempo problemas ambientales que afectan la calidad del producto.
+
+- **Falta de control y visibilidad en tiempo real:**
+La ausencia de herramientas automatizadas dificulta tener una visión actualizada del inventario. Esto impide tomar decisiones informadas de reposición o despacho, generando retrasos y errores. La visibilidad en tiempo real es clave para reaccionar rápidamente ante cualquier cambio en el stock o las condiciones de los insumos.
+
+- **Uso de métodos manuales e ineficientes:**
+Muchos emprendedores siguen utilizando cuadernos o planillas Excel para gestionar sus insumos, lo que aumenta el riesgo de errores humanos. Estos métodos no escalan con el crecimiento del negocio y dificultan el análisis de datos. Además, requieren tiempo y esfuerzo constante para mantenerse actualizados.
+
+- **Sobrecarga operativa en horarios críticos como cierres, cambios de turno o ausencia de personal:**
+Durante los cierres de jornada o cambios de turno, es común que el inventario quede sin supervisión. Esto incrementa el riesgo de pérdidas, robos o deterioro de productos sin que nadie lo detecte a tiempo. La falta de alertas automáticas o monitoreo constante deja al negocio expuesto en momentos críticos.
+
+**Gap:** 
+La principal brecha para implementar nuestro producto en los emprendimientos radica en la falta de digitalización y cultura tecnológica en la gestión de inventarios. Muchos emprendedores aún utilizan métodos manuales como cuadernos o hojas de cálculo, lo que representa una barrera de adopción y confianza hacia soluciones automatizadas. Esta brecha se refleja en la resistencia al cambio por temor a lo desconocido, la limitación de recursos tecnológicos en pequeños negocios, y el desconocimiento del impacto real que una mala gestión de insumos puede tener en la rentabilidad. Superar esta brecha implica concientizar sobre los beneficios de la automatización y ofrecer una solución accesible, adaptable y fácil de usar.
+
+**Vision:** 
+Nuestra vision es ofrecer una plataforma de calidad, integral y de facil acceso para que nuestros usuarios gestionen de forma eficiente sus insumos.  
+
+**Strategy:** 
+Implementaremos sensores inteligentes, datos reales y a tiempo real que se podran visualizar en el dashboard, alertas y recomendaciones.
+
+**Initial Segment:** 
+Inicialmente, nos dirigimos a los empresarios y emprendedores que buscan gestionar y monitorear de manera eficiente sus insumos o materia prima. Dichos usuarios o clientes, necesitan acceso a una plataforma amigable y sencilla para un uso sin dificultad. 
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- Los usuarios enfrentan dificultades para mantener condiciones adecuadas de almacenamiento sin supervisión constante.
-- Los usuarios estarían dispuestos a pagar por una solución que reduzca sus pérdidas.
-- Los sensores pueden ser integrados sin requerir conocimientos técnicos avanzados.
-- El mercado objetivo usa dispositivos móviles o laptops para sus operaciones.
+#### **Users:**
+- Empresarios o emprendedores que buscar monitorear y gestionar sus insumos
+- Personal del emprendimiento encargado de gestionar y monitorear los insumos
+
+#### **Users Outcomes:**
+
+**Segmento de Empresarios o Emprendedores:**
+- Acceder a una plataforma digital que les permita monitorear y gestionar sus insumos de manera eficiente y en tiempo real.
+
+- Recibir alertas automáticas ante cambios críticos en el ambiente (como temperatura o humedad) que puedan afectar la calidad de los productos.
+
+- Visualizar reportes y análisis del estado del inventario para tomar decisiones informadas sobre compras, reposición o almacenamiento.
+
+-Reducir pérdidas económicas por deterioro o mal manejo de insumos gracias al monitoreo inteligente y continuo.
+
+**Segmento de Personal Encargado del Inventario:**
+- Utilizar la plataforma para verificar niveles de stock y condiciones ambientales de forma rápida y sencilla desde cualquier dispositivo.
+
+- Recibir notificaciones inmediatas cuando los insumos requieren atención, evitando errores y retrasos.
+
+- Registrar movimientos de inventario sin necesidad de métodos manuales, mejorando la precisión y reduciendo la carga operativa.
+
+- Automatizar tareas repetitivas y contar con una herramienta que los apoye durante cambios de turno o ausencias de supervisión.
+
+**Suposiciones de Negocio:**
+- Creemos que existe una creciente demanda por soluciones eficientes que permitan a negocios y emprendimientos controlar y monitorear sus inventarios en tiempo real, reduciendo pérdidas y mejorando la gestión operativa.
+
+- Reconocemos la presencia de competidores en el sector de gestión de inventarios, pero confiamos en que nuestra propuesta innovadora, basada en monitoreo inteligente y automatización, nos permitirá diferenciarnos y destacar en el mercado.
+
+- Estamos convencidos de que nuestros clientes valorarán la funcionalidad y practicidad de nuestro producto, adoptándolo con facilidad y adaptándose rápidamente a los beneficios que ofrece para una gestión óptima de sus insumos.
+
+**Suposiciones de Usuarios:**
+- **¿Quién utiliza nuestra plataforma?** 
+Nuestra plataforma está dirigida a empresarios, emprendedores y su personal encargado de la gestión de insumos, especialmente aquellos que manejan productos sensibles o en grandes volúmenes y requieren un control eficiente y automatizado de su inventario.
+
+- **¿Cómo se integra nuestro producto en la rutina diaria?** 
+EasyStock se incorpora a las actividades operativas como la verificación de stock, supervisión del estado de los insumos y generación de alertas en tiempo real.
+
+- **¿Cuáles son los desafíos que aborda nuestro producto?**
+Aborda problemas críticos como el deterioro de insumos por mala conservación, errores humanos en el control manual del inventario, falta de visibilidad en tiempo real y la ausencia de alertas preventivas ante cambios en condiciones ambientales.
+
+- **¿Qué imagen deseamos proyectar con nuestro producto?** 
+Queremos proyectar una imagen de innovación, confiabilidad y eficiencia, posicionándonos como una solución tecnológica de vanguardia que facilita la gestión inteligente de inventarios en emprendimientos y negocios.
+
+- **¿Cuál es el propósito fundamental de nuestra aplicación?** 
+El propósito de EasyStock es prevenir pérdidas económicas mediante el monitoreo automatizado de inventarios. Ademas de facilitar su facil monitoreo.
+
+- **¿Qué funcionalidades destacan en nuestra aplicación?** 
+Entre sus principales funcionalidades se encuentran el monitoreo ambiental en tiempo real, generación automática de alertas, reportes de stock, historial de inventario y una interfaz intuitiva que facilita el uso por parte del personal operativo.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -270,6 +341,7 @@ El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, g
 - **Creemos que** si facilitamos el registro de productos mediante escaneo o importación de archivos, **entonces** los usuarios podrán adoptar la plataforma rápidamente, **lo que resultará** en una mayor adopción inicial.
 
 #### 1.2.2.4. Lean UX Canvas
+El Lean UX Canvas de EasyStock identifica los problemas de los emprendedores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
 | Elemento                     | Descripción                                                                                     |
 |-----------------------------|-------------------------------------------------------------------------------------------------|
@@ -283,29 +355,15 @@ El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, g
 
 ## 1.3. Segmentos Objetivo
 
-### Segmento 1: Emprendedores que gestionan productos sensibles al ambiente
+### Segmento 1: Emprendedores que gestionan productos sensibles o grandes volúmenes de inventario
 
-**Descripción:** Personas que elaboran, almacenan o venden productos que requieren condiciones específicas para mantenerse en buen estado, como temperatura, humedad o peso controlado.
+Descripción: Personas que elaboran, almacenan o comercializan productos que requieren un control riguroso, ya sea por su sensibilidad a condiciones ambientales como temperatura o humedad, o por el alto volumen de unidades que deben administrar. Muchos aún dependen de métodos manuales como cuadernos o Excel, lo que incrementa el riesgo de errores y pérdidas.
 
-**Ejemplos:** Productores de alimentos, reposteros, emprendedores de cosmética natural, farmacéuticos artesanales.
+Ejemplos: Productores de alimentos, reposteros, emprendedores de cosmética natural, farmacéuticos artesanales, artesanos textiles, emprendedores de ecommerce y pequeños fabricantes.
 
-**Necesidad principal:** Monitorear de forma continua las condiciones ambientales de almacenamiento, recibir alertas automáticas y actuar rápidamente para evitar pérdidas.
+Necesidad principal: Contar con una solución digital que permita monitorear continuamente las condiciones ambientales de los insumos y automatizar el control de stock, facilitando la toma de decisiones oportunas, reduciendo errores y evitando pérdidas económicas.
 
-**Sustento estadístico:** Según el INEI, el 67% de microempresas del sector alimentos y bebidas no utiliza sistemas digitales para la gestión de insumos (2023).
-
----
-
-### Segmento 2: Emprendedores que manejan altos volúmenes de inventario manualmente
-
-**Descripción:** Personas que, a pesar de manejar muchos productos, siguen utilizando métodos manuales (papel, Excel) para controlar entradas, salidas y stock.
-
-**Ejemplos:** Artesanos textiles, emprendedores de ecommerce, vendedores por redes sociales, pequeños fabricantes.
-
-**Necesidad principal:** Digitalizar el control de inventario para reducir errores, ahorrar tiempo y mejorar la trazabilidad de los productos.
-
-**Sustento estadístico:** Un estudio del BID (2022) indica que el 74% de las microempresas en LATAM no tiene un sistema automatizado de control de inventarios.
-
-# Capitulo II: Requeriments Elicitation & Analysis
+Sustento estadístico: Según el INEI (2023), el 67% de microempresas del sector alimentos y bebidas no utiliza sistemas digitales para la gestión de insumos. Además, un estudio del BID (2022) indica que el 74% de las microempresas en LATAM no tiene un sistema automatizado de control de inventarios.# Capitulo II: Requeriments Elicitation & Analysis
 
 ## 2.1. Competidores 
 
