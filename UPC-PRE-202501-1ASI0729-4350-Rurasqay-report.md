@@ -38,12 +38,23 @@
 
 # Registro de Versiones del Informe
 
-| Version | Fecha      | Autor   | Descripción de Modificación |
-| ------- | ---------- | ------- | --------------------------- |
-| 0.0     | 02/04/2025 | Grupo 3 | Creación del documento      |
-|         | 04/04/2025 |         |                             |
-|         | 04/04/2025 |         |                             |
-
+| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
+|0.0    | 02/04/2025 |   Marco Nakasone|   Creación del documento                             |
+|   0.1| 04/04/2025 |      Marco Nakasone   |  Creación de las branches                           |
+|   0.2| 07/04/2025 |  Juan Alvarado  |      Avance del Capitulo 1 en feature/project-report                   |
+|   0.3| 07/04/2025 |   Marco Nakasone  |     Avance del Capitulo 3 en feature/requirement-specification                   |
+|   0.4| 07/04/2025 |    Omar Rivera |       Avance del Capitulo 4                 |
+|   0.5| 07/04/2025 |    Marcelo Barrientos    |      Avance del Capitulo 2                     |
+|   0.6| 20/04/2025 |   Marco Nakasone  |    Finalización del Capitulo 3 en feature/requirement-specification                       |
+|   0.7| 22/04/2025 |    Marcelo Barrientos    |      Finalización del Capitulo 4                     |
+|   0.8| 22/04/2025 |  Juan Alvarado   | Finalización del Capitulo 1 en feature/project-report    |
+|   0.9| 22/04/2025 |    Omar Rivera |      Finalización del Capitulo 4                    |
+|   1.0| 24/04/2025 | Franco    |         Finalización del Capitulo 2              |
+|   1.1| 24/04/2025 |    Grupo 3 | Revisiones y correcciones                        |
+|   1.2| 24/04/2025 |  Grupo 3   |         Finalización del Capitulo 5                  |
+|   1.3| 24/04/2025 |    Grupo 3 | Versión para TB1                         |
+                             
 </center>
 
 # Project Report Collaboration Insights
