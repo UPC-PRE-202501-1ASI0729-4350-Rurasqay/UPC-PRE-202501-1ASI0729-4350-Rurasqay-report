@@ -351,7 +351,7 @@ Sabremos que estamos en lo cierto cuando observemos que al menos el 70% de los n
 #### 1.2.2.4. Lean UX Canvas
 El Lean UX Canvas de EasyStock identifica los problemas de los emprendedores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
-![EasyStock Lean Ux Canvas](./Images/lean-ux-canvas.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/lean-ux-canvas.png?raw=true" />
 
 ## 1.3. Segmentos Objetivo
 
