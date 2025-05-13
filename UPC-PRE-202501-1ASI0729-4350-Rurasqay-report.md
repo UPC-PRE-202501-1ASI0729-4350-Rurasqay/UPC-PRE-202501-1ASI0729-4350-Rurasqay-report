@@ -376,6 +376,37 @@ link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-P
 
 <img src="./Images/insight.png"/>
 
+#### 5.2.2.3. Sprint Backlog 2
+
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra página web.|4|Barrientos Quispe, Marcelo|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Rioja Nuñez, Franco|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Rivera Ticllacuri, Omar Harold|Done|
+|Sprint #||Sprint 2||||||
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US03|Aplicación WebResponsive con funcionalidades clave|UT04|Desarrollo base de la app responsive|Estructura inicial de la app con soporte responsive y navegación general.|6|Equipo completo|Done|
+|US04|Gestión de productos|UT05|Agregar productos|Permitir a los usuarios agregar productos con nombre, precio y descripción.|4|Marco Nakasone|Done|
+|US04|Gestión de productos|UT06|Editar productos|Funcionalidad para modificar información de productos existentes.|4|Marco Nakasone|Done|
+|US04|Gestión de productos|UT07|Detalle de producto|Visualizar los detalles individuales de cada producto.|3|Marco Nakasone|Done|
+|US05|Alertas del sistema|UT08|Activación de alertas|Módulo para activar alertas ante eventos relevantes del sistema.|3|Marcelo Barrientos Quispe|Done|
+|US06|Gestión de sensores|UT09|Asignar sensor|Funcionalidad para asociar sensores a ubicaciones o productos.|5|Diego Franco|Done|
+|US06|Gestión de sensores|UT10|Vista de sensores|Vista que permite visualizar los sensores activos y sus datos.|4|Juan Alvarado|Done|
+
+#### 5.2.2.4. Development Evidence for Sprint 2 Review
+
+#### 5.2.2.5. Execution Evidence for Sprint 2 Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint 2
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
