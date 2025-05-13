@@ -308,53 +308,152 @@ Product Name:
 
 ### 2.2.2. Registro de entrevistas
 
+# Segmento: Emprendedores que gestionan productos sensibles o grandes volúmenes de inventario
+
 # Entrevista 1 - Bryan Espejo
 
-<img src="/Images/e1.png">
+- Sexo: Masculino
+- Edad: 25 años
+- Empresa: Respostería Familiar 
 
-## Conclusion
+![FotoEntrevista](./Images/e1.png)
 
-Bryan tiene una repostería artesanal y gestiona su inventario manualmente, 
-lo que le ha causado pérdidas por fallas en refrigeración. Prefiere métodos simples 
-y busca una herramienta fácil de usar que le ofrezca alertas, escaneo de productos y reportes. Está dispuesto a aprender si la plataforma le ahorra tiempo y reduce errores.
-
+- Acerca de la entrevista:
 **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
+
+- Instante en el que inicia: 0:02
+
+- Duración: 05:30 
+
+- Resumen:
+Bryan tiene una repostería artesanal y gestiona su inventario manualmente, 
+lo que le ha causado pérdidas por fallas en refrigeración. Prefiere métodos simples y busca una herramienta fácil de usar que le ofrezca alertas, escaneo de productos y reportes. Está dispuesto a aprender si la plataforma le ahorra tiempo y reduce errores.
+
 
 # Entrevista 2 - Joan Teves
 
-<img src="/Images/e2.png">
+- Sexo: Masculino
+- Edad: 23 años
+- Empresa: Textil Familiar 
 
-## Conclusion
+![FotoEntrevista](./Images/e2.png)
 
+- Acerca de la entrevista:
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
+
+- Instante en el que inicia: 0:05
+
+- Duración: 06:30 
+
+- Resumen:
 Joan dirige un taller textil y usa Google Sheets para controlar inventario, 
 pero enfrenta pérdidas por desactualización. Busca una herramienta visual y 
-fácil de usar que le ofrezca alertas, escaneo, importación de datos e historiales, 
-y que incluya soporte como tutoriales.
-
-**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
+fácil de usar que le ofrezca alertas, escaneo, importación de datos e historiales, y que incluya soporte como tutoriales.
 
 # Entrevista 3 - Cyndi Ortega
 
-<img src="/Images/e3.png">
+- Sexo: Femenino
+- Edad: 35 años
+- Empresa: Publicidad y producción
 
-## Conclusion
+![FotoEntrevista](./Images/e3.png)
 
-Cyndi Ortega, con 9 años en publicidad y producción, almacena insumos como acrílico y 
-cartón. Usa Excel para el inventario, pero ha tenido problemas de control que afectan 
-su productividad. Está interesada en una solución precisa, con sensores que monitoreen 
-stock y temperatura para evitar pérdidas.
-
+- Acerca de la entrevista:
 **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
 
-# Entrevista 3 - Tahily Esparta
+- Instante en el que inicia: 0:12
 
-<img src="/Images/e4.png">
+- Duración: 06:30 
 
-## Conclusion
+- Resumen:
+Cyndi Ortega, con 9 años en publicidad y producción, almacena insumos como acrílico y cartón. Usa Excel para el inventario, pero ha tenido problemas de control que afectan su productividad. Está interesada en una solución precisa, con sensores que monitoreen stock y temperatura para evitar pérdidas.
+ 
+ 
+# Entrevista 4 - Tahily Esparta
 
-Tahily Esparta, emprendedora de 21 años en Chorrillos, gestiona un negocio de fiambres y 
-enfrenta dificultades con el control manual de inventario, por lo que valora una herramienta 
-fácil de usar con alertas automáticas que le ahorre tiempo y reduzca pérdidas por mal almacenamiento.
+- Sexo: Femenino
+- Edad: 21 años
+- Empresa: Fiambres
+
+![FotoEntrevista](./Images/e4.png)
+
+- Acerca de la entrevista:
+**Link de la entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/personal/u202214214_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214214%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D20%2015%2D59%2D56%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E36ad953e%2Ddf8c%2D426e%2D8784%2D072c8ad3a637)
+
+- Instante en el que inicia: 0:12
+
+- Duración: 05:20 
+
+- Resumen:
+Tahily Esparta, emprendedora de 21 años en Chorrillos, gestiona un negocio de fiambres y enfrenta dificultades con el control manual de inventario, por lo que valora una herramienta fácil de usar con alertas automáticas que le ahorre tiempo y reduzca pérdidas por mal almacenamiento.
+
+# Conclusión:
+Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños negocios enfrentan retos significativos al gestionar inventarios con métodos manuales o herramientas limitadas como Excel o Google Sheets. Las pérdidas por errores humanos, desactualización o fallas en almacenamiento son recurrentes, afectando directamente la productividad y las ganancias. Todos coinciden en la necesidad de una solución intuitiva, automatizada y visual que les brinde alertas, escaneo, reportes y soporte práctico. Esto confirma la urgencia de implementar sistemas accesibles y eficientes que se adapten a sus rutinas y reduzcan el margen de error.
+
+# Segmento: Personal operativo encargado de monitoreo
+
+# Entrevistado 1 - Abel Zamora
+
+- Sexo: Masculino
+- Edad: 21 años
+- Empresa: Familiar Textil
+
+![FotoEntrevista](./Images/entrevista-1-s2.jpg)
+
+
+- Acerca de la entrevista:
+
+**Link de la entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EQcyJvz2UUdHpGqsAPb3YKEBQjssZjwC2LWSF1hwVoodPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DIZkNI)
+
+- Instante en el que inicia: 0:27
+
+- Duración: 04:28 
+
+- Resumen: 
+Abel Zamora, joven de 21 años, reside en Puente Piedra y trabaja en una empresa familiar del rubro textil. Desde 2023 se encarga de gestionar el inventario, utilizando principalmente Excel y guías manuales para registrar entradas y salidas de productos como telas, hilos y botones. Aunque el sistema actual es funcional, es muy manual y presenta problemas como pérdida de datos, errores al registrar cantidades, y ausencia de alertas que les adviertan sobre productos por agotarse. Él considera que una solución digital que automatice el proceso y genere alertas sería ideal para mejorar la eficiencia y evitar pérdidas.
+
+# Entrevistas 2 - Andres Coca
+
+- Sexo: Masculino
+- Edad: 23 años
+- Empresa: LogiPerú SAC
+
+![FotoEntrevista](./Images/entrevista-2-s2.png)
+
+- Acerca de la entrevista:
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/11BaK2QCCwnebB9I00XtXKOJnS45-Nbl6/view?usp=sharing)
+
+- Instante en el que inicia: 00:14
+
+- Duración: 08:14
+
+- Resumen: 
+Andres Coca es un trabajador de la empresa LogiPeru encargado de la gestión de inventarios de la empresa LogiPerú SAC, dónde trabaja con un grupo de 4 personas para la gestión correcta de productos de limpieza y alimenticios. Andres menciona que en su trabajo maneja herramientas básicas de ofimática, programación básica y un gestor de tareas automatizado para una mejor asignación de trabajos. Andres, reconoce que necesita de una plataforma capaz que integrar gráficos estadísticos y que la misma esté disponible en una aplicación mobile para una mayor eficiencia de trabajo.
+
+
+# Entrevista 3 - Kevin Pacotaipe
+
+- Sexo: Masculino
+- Edad: 22 años
+- Empresa: ColaReal
+
+![FotoEntrevista](./Images/entrevista-3-s2.png)
+
+- Acerca de la entrevista:
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1fJfd03m_VvrHGpCbv1Ei6BInT79qTqCg/view?usp=drive_link)
+
+- Instante en el que inicia: 00:15
+
+- Duración: 04:03
+
+- Resumen: 
+Kevin Pacotaipe trabaja en la empresa ColaReal, donde ocupa el puesto de responsable de monitoreo de inventarios y reparto de productos, formando parte de un equipo de cuatro personas dedicadas a las mismas funciones. Actualmente, utiliza herramientas de ofimática para llevar a cabo sus tareas. Sin embargo, Kevin reconoce que, para mejorar la eficiencia operativa, es necesario contar con un sistema que permita monitorear el stock de productos 
+de forma más precisa y automatizada.
+
+# Conclusión:
+Los testimonios de los entrevistados reflejan una problemática común en la gestión de inventarios dentro de pequeñas y medianas empresas peruanas: la dependencia de herramientas manuales o básicas, que si bien permiten operar, no son suficientes para garantizar eficiencia, precisión ni control en tiempo real. Las dificultades señaladas como pérdida de datos, errores humanos y falta de alertas automatizadas, evidencian la necesidad urgente de soluciones digitales más robustas. Todos coinciden en que una plataforma moderna, automatizada y accesible (idealmente desde dispositivos móviles) no solo optimizaría sus procesos, sino que también reduciría pérdidas y mejoraría la toma de decisiones. Esto refuerza la importancia de implementar tecnologías como EasyStock para transformar la manera en que se gestionan los inventarios.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -366,7 +465,7 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Luis Gálvez_User Persona.png"></img>
+![User Persona](./Images/Luis%20Gálvez_User%20Persona.png)
 
 ## Segmento Objetivo 2
 
@@ -376,7 +475,7 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-<img src="./Images/task matrix 1.PNG"></img>
+![User Task Matrix](./Images/task%20matrix%201.PNG)
 
 ## Segmento Objetivo 2
 
@@ -386,7 +485,7 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Segmento 1 journey map 1.png"></img>
+![User Journey Mapping](./Images/Segmento%201%20journey%20map%201.png)
 
 ## Segmento Objetivo 2
 
@@ -396,7 +495,7 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Empathy map segmento 1.png"></img>
+![Empathy Mapping](./Images/Empathy%20map%20segmento%201.png)
 
 ## Segmento Objetivo 2
 
@@ -406,7 +505,7 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Scenario Mapping Segmento 1.PNG"></img>
+![As-Is Scenario Mapping](./Images/Scenario%20Mapping%20Segmento%201.PNG)
 
 ## Segmento Objetivo 2
 
