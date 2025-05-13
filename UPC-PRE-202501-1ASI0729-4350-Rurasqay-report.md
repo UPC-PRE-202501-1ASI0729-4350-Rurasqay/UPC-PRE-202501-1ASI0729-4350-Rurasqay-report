@@ -412,10 +412,16 @@ En la siguiente sección se presenta el sprint #2, centrado en la implementació
 
 #### 5.2.2.4. Development Evidence for Sprint 2 Review
 Evidencia del desarrollo mediante commits:
-
+Commits de la rama inventory:
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-inventory.PNG?raw=true"/>
+
+Commits de la rama master:
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-master.PNG?raw=true"/>
+
+Commits de la rama products-sensors-view:
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-products.PNG?raw=true"/>
+
+Commits de la rama sensors-view:
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-sensors.PNG?raw=true"/>
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review
