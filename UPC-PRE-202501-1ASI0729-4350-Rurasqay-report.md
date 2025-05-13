@@ -503,7 +503,7 @@ Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados
 
 ## Segmento Objetivo 2
 
-<img src="./Images/Luis Gómez_User Persona.png"></img>
+![User Persona](./Images/user-persona-s2.jpg)
 
 ### 2.3.2. User Task Matrix 
 
@@ -513,17 +513,18 @@ Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados
 
 ## Segmento Objetivo 2
 
-<img src="./Images/task matrix 2.PNG"></img>
+![User Persona](./Images/task%20matrix%202.PNG)
 
 ### 2.3.3. User Journey Mapping
 
 ## Segmento Objetivo 1
 
-![User Journey Mapping](./Images/Segmento%201%20journey%20map%201.png)
+![User Persona](./Images/Segmento%201%20journey%20map%201.png)
+
 
 ## Segmento Objetivo 2
 
-<img src="./Images/Segmento 2 journey map 2.png"></img>
+![User Persona](./Images/use-journey-s2.jpg)
 
 ### 2.3.4. Empathy Mapping
 
