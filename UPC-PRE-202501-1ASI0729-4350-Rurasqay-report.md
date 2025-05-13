@@ -233,7 +233,7 @@ drástico en el ambiente, generando perdidas económicas para los emprendedores.
 **¿Qué llevó al usuario a esta situación?**
 La falta de herramientas actalizadas y eficientes que ayuden a automatizar dichos procesos en tiempo real para así evitar perdidas de material y facilitar la gestión de los insumos. 
 
-#### **How (¿Cómo se resuelve?)**  
+#### **How**  
 **¿En qué condiciones los clientes usan nuestro producto?**
 Los clientes de EasyStock usan el producto cuando necesitan gestionar su inventario de productos sensibles o en grandes volúmenes, especialmente en situaciones donde no pueden supervisar manualmente las condiciones de almacenamiento.  
 
@@ -246,7 +246,7 @@ El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, g
 
 
 ### 1.2.2. Lean UX Process
-En esta sección se desarrollará el proceso de Lean UX, el cual contempla la visión del modelo de negocio que respaldará nuestro producto de software. Este enfoque metodológico nos permite enfocar los esfuerzos en el diseño de la solución y en la comprensión profunda de los problemas detectados a través del pensamiento de diseño. Utilizamosremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como guía para enfocar al equipo en el desarrollo de un servicio libre de limitaciones que frenen la innovación y la rapidez. Esta metodología nos permite abordar el proyecto desde las necesidades reales del cliente, favoreciendo un proceso más ágil y enfocado hacia un lanzamiento exitoso.
+En esta sección se desarrollará el proceso de Lean UX, el cual contempla la visión del modelo de negocio que respaldará nuestro producto de software. Este enfoque metodológico nos permite enfocar los esfuerzos en el diseño de la solución y en la comprensión profunda de los problemas detectados a través del pensamiento de diseño. Utilizaremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como guía para enfocar al equipo en el desarrollo de un servicio libre de limitaciones que frenen la innovación y la rapidez. Esta metodología nos permite abordar el proyecto desde las necesidades reales del cliente, favoreciendo un proceso más ágil y enfocado hacia un lanzamiento exitoso.
 
 
 #### 1.2.2.1. Lean UX Problem Statements
@@ -336,34 +336,81 @@ Entre sus principales funcionalidades se encuentran el monitoreo ambiental en ti
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** si implementamos sensores que monitorean temperatura, humedad y peso en tiempo real, **entonces** los usuarios podrán prevenir pérdidas de productos sensibles, **lo que resultará** en una mayor satisfacción y retención.
-- **Creemos que** si ofrecemos recomendaciones y reportes visuales, **entonces** los emprendedores podrán tomar decisiones informadas, **lo que resultará** en una mejora operativa y reducción de errores.
-- **Creemos que** si facilitamos el registro de productos mediante escaneo o importación de archivos, **entonces** los usuarios podrán adoptar la plataforma rápidamente, **lo que resultará** en una mayor adopción inicial.
+- Hipótesis 1:
+Creemos que si implementamos sensores que monitoreen en tiempo real la temperatura, humedad y peso de los insumos, esto permitirá a los usuarios prevenir pérdidas de productos sensibles, logrando un aumento del 25% en la retención de clientes dentro de los primeros seis meses de uso.
+Sabremos que estamos en lo cierto cuando observemos una disminución del 30% en incidentes reportados por deterioro de productos y un incremento sostenido en el número de usuarios activos mensualmente.
+
+- Hipótesis 2:
+Creemos que si ofrecemos recomendaciones automatizadas y reportes visuales basados en los datos recolectados, esto permitirá a los emprendedores tomar decisiones más informadas, logrando una reducción del 20% en errores de gestión y mejoras en la eficiencia operativa.
+Sabremos que estamos en lo cierto cuando observemos una disminución en las modificaciones manuales posteriores a registros iniciales y un aumento en la precisión de inventario reportado.
+
+- Hipótesis 3:
+Creemos que si facilitamos el registro de productos mediante escaneo o importación de archivos, esto permitirá a los usuarios comenzar a utilizar la plataforma de forma rápida y sin fricciones, logrando un aumento del 35% en la tasa de adopción durante el primer mes.
+Sabremos que estamos en lo cierto cuando observemos que al menos el 70% de los nuevos usuarios completan el registro inicial de su inventario en los primeros tres días de uso.
 
 #### 1.2.2.4. Lean UX Canvas
 El Lean UX Canvas de EasyStock identifica los problemas de los emprendedores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
-| Elemento                     | Descripción                                                                                     |
-|-----------------------------|-------------------------------------------------------------------------------------------------|
-| **Usuarios**                | Emprendedores que trabajan con productos perecibles o con inventario de alto volumen.           |
-| **Problemas**               | Pérdidas por mal almacenamiento, errores humanos, falta de visibilidad.                        |
-| **Solución propuesta**      | Plataforma con sensores conectados, dashboards, alertas y recomendaciones automáticas.          |
-| **Resultados esperados**    | Conservación óptima de productos, reducción de errores, mayor control operativo.                |
-| **Métricas clave**          | Reducción de mermas, ahorro de tiempo, tasa de alertas atendidas, nivel de adopción.            |
-
----
+![EasyStock Lean Ux Canvas](./Images/lean-ux-canvas.png)
 
 ## 1.3. Segmentos Objetivo
 
 ### Segmento 1: Emprendedores que gestionan productos sensibles o grandes volúmenes de inventario
 
-Descripción: Personas que elaboran, almacenan o comercializan productos que requieren un control riguroso, ya sea por su sensibilidad a condiciones ambientales como temperatura o humedad, o por el alto volumen de unidades que deben administrar. Muchos aún dependen de métodos manuales como cuadernos o Excel, lo que incrementa el riesgo de errores y pérdidas.
+- **Edad**: 30 a 60 años
 
-Ejemplos: Productores de alimentos, reposteros, emprendedores de cosmética natural, farmacéuticos artesanales, artesanos textiles, emprendedores de ecommerce y pequeños fabricantes.
+- **Género**: Masculino y femenino
 
-Necesidad principal: Contar con una solución digital que permita monitorear continuamente las condiciones ambientales de los insumos y automatizar el control de stock, facilitando la toma de decisiones oportunas, reduciendo errores y evitando pérdidas económicas.
+- **Ocupación**: Dueños de pequeñas y medianas empresas.
 
-Sustento estadístico: Según el INEI (2023), el 67% de microempresas del sector alimentos y bebidas no utiliza sistemas digitales para la gestión de insumos. Además, un estudio del BID (2022) indica que el 74% de las microempresas en LATAM no tiene un sistema automatizado de control de inventarios.# Capitulo II: Requeriments Elicitation & Analysis
+- **Nivel educativo**: Técnico o universitario
+
+- **Ubicación**: Ciudades con actividad industrial o comercial (ej. Lima Metropolitana, Arequipa, Trujillo)
+
+- **Necesidades**:
+
+Prevenir pérdidas económicas por mal manejo de temperatura, humedad o deterioro de productos.
+
+Acceder a información confiable en tiempo real para una mejor gestión del inventario.
+
+Optimizar procesos logísticos y evitar errores humanos.
+
+Mejorar la trazabilidad y el control operativo para auditorías o exportaciones.
+
+- **Datos estadísticos**:
+
+Según el MINCETUR, el 50% de las pymes agroindustriales pierde entre el 5% y 15% de su stock por condiciones ambientales inadecuadas.
+
+Más del 40% de los emprendimientos en Perú aún gestionan su inventario de forma manual (Fuente: Produce, 2023).
+
+### Segmento 2: Personal operativo encargado de monitoreo
+
+- **Edad**: 20 a 45 años
+
+- **Género**: Masculino y femenino
+
+- **Ocupación**: Operarios logísticos, técnicos de control de calidad, asistentes de almacén, supervisores de producción
+
+- **Nivel educativo**: Secundaria completa, formación técnica o capacitación interna
+
+- **Ubicación**: Áreas de producción, almacenamiento o distribución dentro de empresas que gestionan inventario sensible
+
+- **Necesidades**:
+
+Disminuir el trabajo manual y los errores humanos en el registro de datos.
+
+Recibir alertas rápidas para prevenir incidentes y tomar decisiones inmediatas.
+
+Usar herramientas simples y visuales que no requieran formación avanzada.
+
+Ahorrar tiempo y esfuerzo en tareas rutinarias de monitoreo.
+
+- **Datos estadísticos**:
+
+Según la Cámara de Comercio de Lima, el 65% del personal operativo reporta sobrecarga de trabajo por procesos manuales en almacenes.
+
+El 48% de las empresas peruanas considera que la automatización de inventarios es una prioridad en los próximos dos años (PwC, 2023).
+
 
 ## 2.1. Competidores 
 
@@ -458,5 +505,13 @@ Sustento estadístico: Según el INEI (2023), el 67% de microempresas del sector
 ## Video About-the-Team
 
 ## Bibliografía
+
+1. Cámara de Comercio de Lima. (2022). *Estudio sobre eficiencia logística en almacenes peruanos*. Recuperado de https://www.camaralima.org.pe
+
+2. Ministerio de Comercio Exterior y Turismo del Perú (MINCETUR). (2022). *Informe de desempeño de las pymes exportadoras*. Recuperado de https://www.gob.pe/mincetur
+
+3. Ministerio de la Producción del Perú (Produce). (2023). *Diagnóstico de capacidades digitales en mypes manufactureras*. Recuperado de https://www.gob.pe/produce
+
+4. PricewaterhouseCoopers (PwC). (2023). *Encuesta sobre transformación digital en empresas peruanas*. Recuperado de https://www.pwc.com/pe/es/publicaciones.html
 
 ## Anexos
