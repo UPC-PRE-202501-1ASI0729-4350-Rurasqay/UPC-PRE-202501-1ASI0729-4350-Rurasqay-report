@@ -1,4 +1,3 @@
-
 # <center>COURSE PROJECT<center>
 
 <p align="center">
@@ -13,49 +12,54 @@
 <center>
 
 #### Startup: **RurasqaySoft**
+
 #### Product: **EasyStock**
 
 </center>
 
 ### <center>Team Members</center>
+
 <center>
 
-| Member                       | Code       |
-|------------------------------|------------|
+| Member                           | Code       |
+| -------------------------------- | ---------- |
 | Alvarado De La Cruz, Juan Carlos | u202216150 |
-| Barrientos Quispe, Marcelo | u20221e646 |
-| Rioja Nuñez, Franco Diego | u202221597 |
-| Nakasone Gomes, Marco Antonio | u202210790 |
-| Rivera Ticllacuri, Omar Harold | u202214214 |
+| Barrientos Quispe, Marcelo       | u20221e646 |
+| Rioja Nuñez, Franco Diego        | u202221597 |
+| Nakasone Gomes, Marco Antonio    | u202210790 |
+| Rivera Ticllacuri, Omar Harold   | u202214214 |
 
 <br> ABRIL 2025
+
 </center>
 
 <center>
 
 # Registro de Versiones del Informe
 
-| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
-|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
-|0.0    | 02/04/2025 |  Grupo 3|   Creación del documento                             |
-|   | 04/04/2025 |        |                            |
-|   | 04/04/2025 |     |                         |
+| Version | Fecha      | Autor   | Descripción de Modificación |
+| ------- | ---------- | ------- | --------------------------- |
+| 0.0     | 02/04/2025 | Grupo 3 | Creación del documento      |
+|         | 04/04/2025 |         |                             |
+|         | 04/04/2025 |         |                             |
 
 </center>
 
 # Project Report Collaboration Insights
+
 Analiza cómo la colaboración y la gestión de tareas influyeron en los resultados del proyecto, destacando fortalezas y áreas de mejora para optimizar futuras estrategias.
 
 # Contenido
+
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
-[Student Outcome](#student-outcome)  
+[Student Outcome](#student-outcome)
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
 
 [1.1 Startup Profile](#11-startup-profile)  
 [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
-[1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)  
+[1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 
 [1.2. Solution Profile](#12-solution-profile)  
 [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)  
@@ -63,81 +67,81 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)  
 [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)  
 [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)  
-[1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)  
+[1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
 
-[1.3. Segmentos objetivo.](#13-segmentos-objetivo)  
+[1.3. Segmentos objetivo.](#13-segmentos-objetivo)
 
-[Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)  
+[Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)
 
 [2.1. Competidores](#21-competidores)  
 [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
-[2.1.2. Estrategias y tácticas frente a competidores](#211-análisis-competitivo)  
+[2.1.2. Estrategias y tácticas frente a competidores](#211-análisis-competitivo)
 
 [2.2. Entrevistas](#22-entrevistas)  
 [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)  
 [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)  
-[2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)  
+[2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
 
 [2.3. Needfinding](#23-needfinding)  
 [2.3.1. User Personas](#231-user-personas)  
 [2.3.2. User Task Matrix](#232-user-task-matrix)  
 [2.3.3. User Journey Mapping](#233-user-journey-mapping)  
 [2.3.4. Empathy Mapping](#234-empathy-mapping)  
-[2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping) 
+[2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
-[2.4. Ubiquitous Language](#24-ubiquitous-language)  
+[2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)  
+[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)
 
-[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)    
+[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
 [3.2. User Stories](#32-user-stories)  
 [3.3. Impact Mapping](#33-impact-mapping)  
-[3.4. Product Backlog](#34-product-backlog)  
+[3.4. Product Backlog](#34-product-backlog)
 
-[Capítulo IV: Product Design](#capítulo-iv-product-design)  
+[Capítulo IV: Product Design](#capítulo-iv-product-design)
 
 [4.1. Style Guidelines.](#41-style-guidelines)  
 [4.1.1. General Style Guidelines.](#411-general-style-guidelines)  
-[4.1.2. Web Style Guidelines.](#412-web-style-guidelines)  
+[4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
 
 [4.2. Information Architecture.](#42-information-architecture)  
 [4.2.1. Organization Systems.](#421-organization-systems)  
 [4.2.2. Labeling Systems.](#422-labeling-systems)  
 [4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)  
 [4.2.4. Searching Systems.](#424-searching-systems)  
-[4.2.5. Navigation Systems.](#425-navigation-systems)  
+[4.2.5. Navigation Systems.](#425-navigation-systems)
 
 [4.3. Landing Page UI Design.](#43-landing-page-ui-design)  
 [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)  
-[4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)  
+[4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
 
 [4.4. Web Applications UX/UI Design.](#44-web-applications-ux-ui-design)  
 [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)  
 [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)  
 [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)  
-[4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)  
+[4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
 
-[4.5. Web Applications Prototyping.](#45-web-applications-prototyping)  
+[4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
 
 [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)  
 [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)  
 [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)  
-[4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)  
+[4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
 
 [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)  
 [4.7.1. Class Diagrams.](#471-class-diagrams)  
-[4.7.2. Class Dictionary.](#472-class-dictionary)  
+[4.7.2. Class Dictionary.](#472-class-dictionary)
 
 [4.8. Database Design.](#48-database-design)  
-[4.8.1. Database Diagram.](#481-database-diagram)  
+[4.8.1. Database Diagram.](#481-database-diagram)
 
-[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-deployment)  
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-deployment)
 
 [5.1. Software Configuration Management.](#51-software-configuration-management)  
 [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)  
 [5.1.2. Source Code Management.](#512-source-code-management)  
 [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
-[5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)  
+[5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
 
 [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
 [5.2.1. Sprint n.](#521-sprint-n)  
@@ -148,13 +152,13 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
 [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
 [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)  
-[5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)  
+[5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)  
-[Video About-the-Team.](#video-about-the-team)  
+[Video About-the-Team.](#video-about-the-team)
 
-[Bibliografía](#bibliografía)  
+[Bibliografía](#bibliografía)
 
 [Anexos](#anexos)
 
@@ -162,58 +166,57 @@ Analiza cómo la colaboración y la gestión de tareas influyeron en los resulta
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br>|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.| 
+| Criterio Especifico                                                    | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.                                                                                     |
 
 # Capítulo I: Introduccion
+
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
 
-***Mision:***
+**_Mision:_**
 
-***Visión:***
+**_Visión:_**
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                                                                   | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
-|-------------------------------------------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
-| |  | Ingeniería de Software | Escribir aqui | Escribir aqui |
+|     | Apellido y Nombre | Carrera                | Acerca de     | Habilidades   |
+| --- | ----------------- | ---------------------- | ------------- | ------------- |
+|     |                   | Ingeniería de Software | Escribir aqui | Escribir aqui |
+|     |                   | Ingeniería de Software | Escribir aqui | Escribir aqui |
+|     |                   | Ingeniería de Software | Escribir aqui | Escribir aqui |
+|     |                   | Ingeniería de Software | Escribir aqui | Escribir aqui |
+|     |                   | Ingeniería de Software | Escribir aqui | Escribir aqui |
 
 ## 1.2. Solution Profile
 
-Product Name: 
+Product Name:
 
 ### 1.2.1. Antecedentes y problemática
+
 **Antecedentes:**
 
 **Problematicas:**
 
 **What**
-* 
 
-**Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
+- **Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
 
-**Who: ¿Quienes se ven afectados?**
-*
+  **Who: ¿Quienes se ven afectados?**
 
-**When: ¿Cuándo sucede la problemática?**
-* 
+- **When: ¿Cuándo sucede la problemática?**
 
-**Where: ¿Dondé implementaríamos nuestra solución?**
-*
+- **Where: ¿Dondé implementaríamos nuestra solución?**
 
-**How: ¿Cómo ayudará nuestra solución?**
+- **How: ¿Cómo ayudará nuestra solución?**
 
-**How much: ¿Cúanto costará?**
+  **How much: ¿Cúanto costará?**
 
 ### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 #### 1.2.2.2. Lean UX Assumptions
@@ -226,7 +229,7 @@ Product Name:
 
 # Capitulo II: Requeriments Elicitation & Analysis
 
-## 2.1. Competidores 
+## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
 
@@ -235,34 +238,43 @@ Product Name:
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
 ### 2.2.2. Registro de entrevistas
+
 ### 2.2.3. Análisis de entrevistas
 
-## 2.3. Needfinding 
+## 2.3. Needfinding
 
 ### 2.3.1. User Personas
-### 2.3.2. User Task Matrix 
+
+### 2.3.2. User Task Matrix
+
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
+
 ### 2.3.5. As-Is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
 
 # Capitulo III: Requeriments Specification
 
-## 3.1. To-Be Scenario Mapping 
+## 3.1. To-Be Scenario Mapping
+
 ## 3.2. User Stories
 
-
 ## 3.3. Impact Mapping
+
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
+
 En esta sección, se presentarán de forma estructurada los estilos y herramientas que se emplearán para llevar a cabo el diseño de nuestra solución.
 
 ### 4.1.1. General Style Guidelines
+
 **Brand Overiew**
 Administrar un inventario puede convertirse en una tarea compleja para muchos emprendedores, especialmente cuando se trata de productos sensibles o de alto volumen. La falta de herramientas accesibles para monitorear el estado de los insumos y automatizar procesos genera errores, pérdidas económicas y una gran carga de trabajo. EasyStock nace como una solución pensada para optimizar la gestión de almacenes en pequeños y medianos emprendimientos. Utilizando sensores inteligentes que miden temperatura, peso y otros parámetros clave, nuestra plataforma permite monitorear inventarios en tiempo real y recibir alertas automáticas, garantizando la conservación de productos y mejorando la eficiencia operativa.
 **Brand Name**
@@ -278,7 +290,6 @@ La tipografía en EasyStock ha sido cuidadosamente seleccionada para transmitir 
 ![Typography](Images/Fonts.png)
 **Colors**
 La paleta de colores de EasyStock está diseñada para generar confianza, orden y eficiencia. Cada color fue seleccionado considerando su impacto emocional y su funcionalidad en la interfaz desarrollada.
-
 
 - **Color Primario (#C60619):** Este rojo vibrante y profundo transmite urgencia, acción inmediata y control. Es el color principal de la marca, usado en botones clave y encabezados importantes, reforzando la necesidad de monitoreo en tiempo real y decisiones ágiles.
 
@@ -297,11 +308,12 @@ La paleta de colores de EasyStock está diseñada para generar confianza, orden 
 - **Colores de apoyo adicionales:** También se utilizan tonos como `#950015`, `#DE2E03`, `#C00000`, `#FF703A`, `#FF733F`, y `#BD2A11` en detalles específicos para enriquecer visualmente la interfaz sin perder coherencia.
 
 - **Colores para texto y contraste:** Se emplea el **negro (#000000)** y el **blanco (#FFFFFF)** para garantizar legibilidad en títulos, párrafos, botones y fondos según el contexto. Estos colores aseguran un contraste claro y accesible en la interfaz.
-![Paleta de Colores](Images/ColorsStyle.png)
-*Colores realizados en el figma: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=74-247&p=f&t=je4Qxg6oNKqqpHSI-0*
+  ![Paleta de Colores](Images/ColorsStyle.png)
+  _Colores realizados en el figma: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=74-247&p=f&t=je4Qxg6oNKqqpHSI-0_
 
 **Spacing**
 El spacing a considerar para mantener el contenido entendible será:
+
 - Button padding: 8 px (vertical), 16–38 px (horizontal)
 - Input fields: auto (sin altura fija), 16 px (espacio entre campos usando margin-top)
 - Margin entre secciones: 60 px
@@ -309,7 +321,9 @@ El spacing a considerar para mantener el contenido entendible será:
 
 **Dimensions**
 En EasyStock se optó por una comunicación clara, accesible y profesional, pero sin dejar de ser cercana. La marca busca transmitir confianza y eficiencia, usando un lenguaje directo que oriente al usuario sin resultar frío o impersonal. Queremos que nuestros clientes sientan que tienen el control de su inventario con una herramienta moderna, útil y fácil de entender, evitando tecnicismos innecesarios y manteniendo siempre un tono amable y resolutivo.
+
 ### 4.1.2. Web Style Guidelines
+
 Se estableció una guía detallada para la presentación de los productos, la cual define los componentes que deben utilizarse en la página web. Esta guía considera la paleta de colores previamente mencionada, con el objetivo de captar la atención de los usuarios y fomentar una navegación más atractiva e intuitiva por los productos. Enlace al esquema:
 
 ![Components](Images/Components.png)
@@ -319,7 +333,9 @@ Se ha optado por implementar el patrón Z, que guía la mirada del usuario a tra
 
 Los colores y espacios están pensados para reducir la fatiga visual, mientras que las animaciones suaves y las alertas visuales permiten que el usuario reaccione rápidamente ante cualquier cambio en su inventario.
 ![alt text](Images/PatronZ.jpg)
+
 ## 4.2. Information Architecture
+
 A lo largo de esta sección, se expondrán los criterios y fundamentos que respaldan la forma en que se estructura el contenido en las versiones web y móvil de EasyStock, incluyendo tanto la página principal como la aplicación. La propuesta busca garantizar una experiencia de navegación clara y sencilla, permitiendo que los usuarios localicen de manera rápida y eficiente la información y las herramientas disponibles.
 
 ### 4.2.1. Organization Systems
@@ -340,13 +356,11 @@ Los productos dentro del inventario se presentan de forma alfabética en las sec
 
 **Cronológico**
 
-Los movimientos de inventario  como entradas y salidas de productos se registran y muestran de manera cronológica, lo cual facilita el seguimiento de la trazabilidad del stock. Así, los usuarios pueden verificar fácilmente qué productos han sido ingresados o retirados más recientemente.
+Los movimientos de inventario como entradas y salidas de productos se registran y muestran de manera cronológica, lo cual facilita el seguimiento de la trazabilidad del stock. Así, los usuarios pueden verificar fácilmente qué productos han sido ingresados o retirados más recientemente.
 
 **Audiencia**
 
 Dado que EasyStock está pensado tanto para gerentes como para operarios de almacén, la interfaz adapta el contenido mostrado según el tipo de usuario. Por ejemplo, los gerentes acceden a reportes analíticos y gráficos de rendimiento, mientras que los operarios visualizan opciones más operativas como el escaneo de productos y el control diario del inventario. Esta separación asegura que cada grupo de usuarios reciba información relevante a sus necesidades, evitando sobrecarga de datos y mejorando la eficiencia del uso de la aplicación.
-
-
 
 ### 4.2.2. Labeling Systems
 
@@ -354,7 +368,7 @@ Para etiquetar visualmente los botones y funcionalidades dentro de nuestra aplic
 
 Estos íconos se incorporarán en todos los módulos de la aplicación Angular a través de los componentes de PrimeNG, asegurando una experiencia de usuario fluida, accesible y visualmente coherente. La integración se realizará directamente en las plantillas HTML utilizando las clases de íconos que proporciona PrimeNG, lo que permite una implementación rápida y estandarizada en el proyecto.
 
-En la landing page del sistema, se utilizarán exclusivamente íconos de redes sociales como Instagram, Facebook y X (Twitter) para facilitar canales de contacto directo con los usuarios. 
+En la landing page del sistema, se utilizarán exclusivamente íconos de redes sociales como Instagram, Facebook y X (Twitter) para facilitar canales de contacto directo con los usuarios.
 
 ### Etiquetas de Encabezados (Headings)
 
@@ -402,42 +416,54 @@ Estas etiquetas se encuentran en la barra de navegación principal, paneles late
 Los **SEO Tags** y **Meta Tags** son fundamentales para que la **Landing Page** y la **Aplicación Web** de **EasyStock** sean correctamente indexadas por los motores de búsqueda, mejorando su posicionamiento y accesibilidad.
 
 **Landing Page**
+
 ```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- for mobile -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- for mobile -->
 <title>EasyStock - Gestión de inventario inteligente</title>
-<meta name="description" content="Optimiza el control de tus productos con EasyStock, la solución inteligente para la gestión de inventario de tu negocio.">
-<meta name="keywords" content="gestión de inventario, control de stock, sistema de inventario, administración de productos, EasyStock">
-<meta name="author" content="Rurasqay">
-
+<meta
+  name="description"
+  content="Optimiza el control de tus productos con EasyStock, la solución inteligente para la gestión de inventario de tu negocio."
+/>
+<meta
+  name="keywords"
+  content="gestión de inventario, control de stock, sistema de inventario, administración de productos, EasyStock"
+/>
+<meta name="author" content="Rurasqay" />
 ```
-
 
 **Aplicaiones Web**
+
 ```html
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>EasyStock - Plataforma de control de inventario</title>
-<meta name="description" content="Registra productos, gestiona movimientos, revisa reportes y mantén tu inventario actualizado con EasyStock. La solución para PYMES.">
-<meta name="keywords" content="gestión de stock, inventario en tiempo real, control de productos, reportes de inventario, EasyStock">
-<meta name="author" content="Rurasqay">
-
+<meta
+  name="description"
+  content="Registra productos, gestiona movimientos, revisa reportes y mantén tu inventario actualizado con EasyStock. La solución para PYMES."
+/>
+<meta
+  name="keywords"
+  content="gestión de stock, inventario en tiempo real, control de productos, reportes de inventario, EasyStock"
+/>
+<meta name="author" content="Rurasqay" />
 ```
-
 
 **Explicación**
 
-```<meta charset="UTF-8">```: Define la codificación de caracteres utilizada, permitiendo el uso correcto de acentos, símbolos y caracteres especiales.
+`<meta charset="UTF-8">`: Define la codificación de caracteres utilizada, permitiendo el uso correcto de acentos, símbolos y caracteres especiales.
 
-```<meta name="viewport" content="width=device-width, initial-scale=1.0">```: Hace que el diseño de la página sea responsive, adaptándose a diferentes tamaños de pantalla y dispositivos móviles.
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Hace que el diseño de la página sea responsive, adaptándose a diferentes tamaños de pantalla y dispositivos móviles.
 
-```<title>```: Es el título que aparece en la pestaña del navegador y es uno de los elementos más relevantes para el SEO.
+`<title>`: Es el título que aparece en la pestaña del navegador y es uno de los elementos más relevantes para el SEO.
 
-```<meta name="description" content="...">```: Proporciona una descripción corta y clara de la página que aparecerá en los resultados de búsqueda, atrayendo a los usuarios a hacer clic.
+`<meta name="description" content="...">`: Proporciona una descripción corta y clara de la página que aparecerá en los resultados de búsqueda, atrayendo a los usuarios a hacer clic.
 
-```<meta name="keywords" content="...">```: Incluye palabras claves relevantes para que los motores de búsqueda relacionen mejor el contenido de EasyStock con las búsquedas de los usuarios.
+`<meta name="keywords" content="...">`: Incluye palabras claves relevantes para que los motores de búsqueda relacionen mejor el contenido de EasyStock con las búsquedas de los usuarios.
 
-```<meta name="author" content="...">```: Identifica al equipo responsable del desarrollo de la aplicación y la página web.
+`<meta name="author" content="...">`: Identifica al equipo responsable del desarrollo de la aplicación y la página web.
+
 ### 4.2.4. Searching Systems
 
 Los sistemas de búsqueda en **EasyStock** están diseñados para facilitar al usuario el acceso inmediato a la información que necesita, sin generar confusión o pérdida de tiempo. Estos métodos permiten filtrar, localizar y consultar datos de forma eficiente, incluso dentro de un inventario complejo o distribuido en múltiples ubicaciones.
@@ -513,11 +539,12 @@ Los usuarios con rol de propietario pueden acceder a módulos adicionales como:
 
 Todo el sistema de navegación ha sido desarrollado con un enfoque **responsive**, permitiendo que la experiencia sea coherente en **computadoras, tablets y móviles**. Los elementos visuales como **colores**, **íconos intuitivos** y **etiquetas claras** refuerzan la orientación dentro de la aplicación incluso para usuarios sin experiencia previa en software de gestión.
 
-
-
 ## 4.3. Landing Page UI Design
+
 Presentamos los resultados del diseño de la Aplicación Web en Figma.
+
 ### 4.3.1. Landing Page Wireframe
+
 En esta sección se mostrarán los wireframes de la landing page, los cuales son representaciones de baja fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
@@ -526,17 +553,20 @@ Para Mobile Browser:
 ![MobileBrowser](Images/EasyStock_page-0069.jpg)
 
 ### 4.3.2. Landing Page Mock-up
-En esta sección se mostrarán los Mock-ups de la landing page, los cuales son representaciones de alta  fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
+
+En esta sección se mostrarán los Mock-ups de la landing page, los cuales son representaciones de alta fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
 ![DeskopBrowser](Images/LandingM.jpg)
 Para Mobile Browser:
 ![MobileBrowser](Images/Mobile.png)
+
 ## 4.4. Web Applications UX/UI Design
+
 En esta sección se describe el proceso de diseño de la aplicación web, abarcando desde la elaboración de los wireframes hasta la creación de los mock-ups. Durante este desarrollo se consideraron las guías de estilo y los principios de arquitectura de la información previamente definidos, con el objetivo de asegurar una coherencia visual adecuada con la landing page del proyecto.
 
-
 ### 4.4.1. Web Applications Wireframes
+
 Iniciar Sesión / Registro
 ![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0070.jpg)
 ![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0077.jpg)
@@ -570,22 +600,25 @@ Pantalla de alertas activas de los sensores
 <img src="Images/EasyStock/EasyStock_page-0100.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0104.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0105.jpg" alt="Informacion" width="200"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
-![WireflowDiagrams](Images/WireFlows%20(7).png)
-![WireflowDiagrams](Images/WireFlows%20(6).png)
+![WireflowDiagrams](<Images/WireFlows%20(7).png>)
+![WireflowDiagrams](<Images/WireFlows%20(6).png>)
 
 User Goal: El usuario necesita acceder a su cuenta en EasyStock.
-![WireflowDiagrams](Images/WireFlows%20(5).png)
+![WireflowDiagrams](<Images/WireFlows%20(5).png>)
 User Goal: El usuario ha olvidado su contraseña y desea restablecerla.
-![WireflowDiagrams](Images/WireFlows%20(2).png)
+![WireflowDiagrams](<Images/WireFlows%20(2).png>)
 User Goal: El usuario desea añadir un nuevo producto a su inventario.
-![WireflowDiagrams](Images/WireFlows%20(4).png)
+![WireflowDiagrams](<Images/WireFlows%20(4).png>)
 User Goal: El usuario desea ver el historial de entradas y salidas de un producto específico.
 
-![WireflowDiagrams](Images/WireFlows%20(1).png)
+![WireflowDiagrams](<Images/WireFlows%20(1).png>)
 User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
-![WireflowDiagrams](Images/WireFlows%20(3).png)
+![WireflowDiagrams](<Images/WireFlows%20(3).png>)
+
 ### 4.4.3. Web Applications Mock-ups
+
 En esta parte se mostrarán los wireframes de la aplicación web, los cuales representan esquemas de baja fidelidad que funcionan como un plano inicial. Su propósito es definir la estructura general de la interfaz antes de avanzar hacia la aplicación de guías de estilo e incorporación de elementos visuales.
 
 Iniciar Sesión / Registro
@@ -620,68 +653,81 @@ Pantalla de historial de movimientos por grupo o área
 Pantalla de alertas activas de los sensores
 <img src="Images/EasyStock/EasyStock_page-0036.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0019.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0020.jpg" alt="Informacion" width="200"/>
 
-
 ### 4.4.4. Web Applications User Flow Diagrams
+
 User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
-![FlowDiagramas](Images/UserFlow%20(7).png)
-![FlowDiagramas](Images/UserFlow%20(6).png)
+![FlowDiagramas](<Images/UserFlow%20(7).png>)
+![FlowDiagramas](<Images/UserFlow%20(6).png>)
 
 User Goal: El usuario necesita acceder a su cuenta en EasyStock.
-![FlowDiagramas](Images/UserFlow%20(5).png)
+![FlowDiagramas](<Images/UserFlow%20(5).png>)
 User Goal: El usuario ha olvidado su contraseña y desea restablecerla.
-![FlowDiagramas](Images/UserFlow%20(3).png)
+![FlowDiagramas](<Images/UserFlow%20(3).png>)
 User Goal: El usuario desea añadir un nuevo producto a su inventario.
-![FlowDiagramas](Images/UserFlow%20(4).png)
+![FlowDiagramas](<Images/UserFlow%20(4).png>)
 User Goal: El usuario desea ver el historial de entradas y salidas de un producto específico.
 
-![FlowDiagramas](Images/UserFlow%20(2).png)
+![FlowDiagramas](<Images/UserFlow%20(2).png>)
 User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
-![FlowDiagramas](Images/UserFlow%20(1).png)
+![FlowDiagramas](<Images/UserFlow%20(1).png>)
+
 ## 4.5. Web Applications Prototyping
+
 En esta sección se presentará el prototipo interactivo de nuestra aplicación web, el cual servirá para ilustrar su funcionamiento previsto. Esto nos permitirá contar con una referencia visual y funcional de lo que aspiramos a desarrollar, brindando una idea concreta del comportamiento que tendrá la aplicación en su versión final.
 
 Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EaBBRoukLtxFnUDCHRyeV7UBEX5jB5Lu4pN8vgtUFk_RAg?e=Mitknb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
 
 ## Context Diagram
-<img src='./Images/context.png'/>
+
+![Context](./Images/context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
+
 ## Container Diagram
-<img src='./Images/container.png' />
+
+![Container](./Images/container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-## Components Diagram
-<img src='./Images/component.png' />
 
+## Components Diagram
+
+![Components](./Images/component.png)
 
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
-<img src='./Images/classDiagram.jpg'/>
+
+![Class](./Images/classDiagram.jpg)
 
 ### 4.7.2. Class Dictionary
-| Clase             | Posible Función                                                                                                                                                                                             |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Usuario** | Representa a los usuarios del sistema, almacenando su información personal y permitiendo la gestión de sus suscripciones.                                                                                    |
-| **Suscripcion** | Define la suscripción de un usuario a un plan, incluyendo detalles como la fecha de inicio, fin y estado.                                                                                                 |
-| **PlanSuscripcion** | Describe los diferentes planes de suscripción disponibles, con información sobre su nombre, precio, duración y características.                                                                               |
-| **Emprendimiento** | Representa las unidades de negocio o emprendimientos dentro del sistema, con información sobre su nombre, sector y ubicación.                                                                             |
-| **Almacen** | Define los almacenes donde se gestionan los insumos, incluyendo su nombre, ubicación y capacidad.                                                                                                        |
-| **Insumo** | Representa los diferentes tipos de insumos o materiales utilizados, con detalles como su nombre, descripción, unidad de medida, precio y fecha de vencimiento.                                               |
-| **Alerta** | Almacena información sobre las alertas generadas por el sistema, posiblemente relacionadas con niveles bajos de stock o condiciones ambientales fuera de rango.                                                  |                                                                     | **AlquilerSensor** |Define la instancia del tiempo y fecha del alquiler de un sensor                  |                                                                          
-| **AsigcionSensor** | Representa los sensores, registrando su ID, almacén asociado, fecha de asignacion                  |
-| **CondicionesIdealess** | Registra las condiciones ambientales medidas, como temperatura y humedad, posiblemente asociadas a un almacén.                                                                                             |
-| **Sensor** | Representa un sensor genérico, con atributos como su ID, tipo, estado y ubicación.                                                                                                                   |
-| **LecturaSensor** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.                                                      |                                                    
-| **HistorialOptimizacion** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.    |     
-| **TipoInsumo** | Define los diferentes tipos de insumos que se manejan en el sistema, con un ID y un nombre descriptivo. |                                                      
+
+| Clase                     | Posible Función                                                                                                                                                 |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------ | ---------------------------------------------------------------- |
+| **Usuario**               | Representa a los usuarios del sistema, almacenando su información personal y permitiendo la gestión de sus suscripciones.                                       |
+| **Suscripcion**           | Define la suscripción de un usuario a un plan, incluyendo detalles como la fecha de inicio, fin y estado.                                                       |
+| **PlanSuscripcion**       | Describe los diferentes planes de suscripción disponibles, con información sobre su nombre, precio, duración y características.                                 |
+| **Emprendimiento**        | Representa las unidades de negocio o emprendimientos dentro del sistema, con información sobre su nombre, sector y ubicación.                                   |
+| **Almacen**               | Define los almacenes donde se gestionan los insumos, incluyendo su nombre, ubicación y capacidad.                                                               |
+| **Insumo**                | Representa los diferentes tipos de insumos o materiales utilizados, con detalles como su nombre, descripción, unidad de medida, precio y fecha de vencimiento.  |
+| **Alerta**                | Almacena información sobre las alertas generadas por el sistema, posiblemente relacionadas con niveles bajos de stock o condiciones ambientales fuera de rango. |     | **AlquilerSensor** | Define la instancia del tiempo y fecha del alquiler de un sensor |
+| **AsigcionSensor**        | Representa los sensores, registrando su ID, almacén asociado, fecha de asignacion                                                                               |
+| **CondicionesIdealess**   | Registra las condiciones ambientales medidas, como temperatura y humedad, posiblemente asociadas a un almacén.                                                  |
+| **Sensor**                | Representa un sensor genérico, con atributos como su ID, tipo, estado y ubicación.                                                                              |
+| **LecturaSensor**         | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.          |
+| **HistorialOptimizacion** | Almacena las lecturas o mediciones realizadas por los sensores, incluyendo el valor leído, la fecha y hora de la lectura y el sensor al que pertenece.          |
+| **TipoInsumo**            | Define los diferentes tipos de insumos que se manejan en el sistema, con un ID y un nombre descriptivo.                                                         |
 
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
+
 ## Database diagram:
-<img src='./Images/diagram.jpg'/>
+
+![Data base diagrram](./Images/data-base-diagram.jpg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -712,6 +758,7 @@ Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal
 8. StarUML: Esta herrmiendo fue usada para poder realizar el Diagrama de clases
 
 ### 5.1.2. Source Code Management
+
 Para llevar un seguimiento ordenado de las diversas modificaciones del proyecto, se implementó una organización en GitHub. Esto simplificó el control de las diferentes versiones del código y permitió una colaboración más fluida entre los colaboradores.
 
 - [Organización en GitHub](https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay)
@@ -742,36 +789,43 @@ Para mantener claridad y coherencia en el historial de cambios, se adopta una co
 Los tipos más utilizados son:
 
 - **fix**: Corrección de errores.  
-  Se utiliza cuando se soluciona un bug o comportamiento no deseado en el sistema.  
-   
+  Se utiliza cuando se soluciona un bug o comportamiento no deseado en el sistema.
 
 - **chore**: Tareas de mantenimiento o configuraciones que no afectan directamente el código de producción.  
-  Incluye cambios como configuración de linters, ajustes de dependencias o scripts auxiliares.  
+  Incluye cambios como configuración de linters, ajustes de dependencias o scripts auxiliares.
 
 - **feat**: Implementación de una nueva funcionalidad o característica.  
-  Se utiliza para añadir capacidades nuevas al sistema.  
+  Se utiliza para añadir capacidades nuevas al sistema.
 
 - **docs**: Cambios relacionados exclusivamente con la documentación.  
-  Incluye actualizaciones en archivos README, comentarios o guías del proyecto.  
-
+  Incluye actualizaciones en archivos README, comentarios o guías del proyecto.
 
 ### 5.1.3. Source Code Style Guide & Conventions
-
 
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint n
+
 #### 5.2.1.1. Sprint Planning n
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
 #### 5.2.1.3. Sprint Backlog n
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
+
 ## Conclusiones y recomendaciones
 
 ## Video About-the-Team
