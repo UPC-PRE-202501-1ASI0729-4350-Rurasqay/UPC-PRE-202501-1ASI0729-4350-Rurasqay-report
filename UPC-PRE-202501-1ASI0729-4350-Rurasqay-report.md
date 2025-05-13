@@ -801,8 +801,56 @@ Los tipos más utilizados son:
   Incluye actualizaciones en archivos README, comentarios o guías del proyecto.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+#### Diseño y Construcción de la Landing Page
 
+<<<<<<< HEAD
+=======
+Durante el desarrollo de la landing page, empleamos tecnologías como HTML, CSS y JavaScript, guiándonos por los principios establecidos en las guías de estilo de Google para mantener un código limpio, organizado y conforme a los estándares web modernos.
+
+### HTML y CSS
+
+Nos basamos en los lineamientos descritos en el archivo `styles.txt`, que recoge buenas prácticas orientadas a mejorar la calidad del código CSS. Algunas de las directrices que seguimos fueron:
+
+- **Declaración del tipo de documento**: Indicamos el tipo de documento al inicio (`<!DOCTYPE html>`) para asegurar una interpretación adecuada en todos los navegadores.
+- **Uso de minúsculas en las etiquetas HTML**: Usamos etiquetas HTML en minúscula como `<section>`, `<nav>` o `<footer>`, garantizando una escritura coherente y ordenada.
+- **Atributos entre comillas**: Colocamos entre comillas los valores de todos los atributos HTML, por ejemplo: `<div class="contenedor">`, lo que previene errores de análisis del código.
+- **Atributos esenciales en las imágenes**: Añadimos atributos como `alt`, `width` y `height` en las imágenes, favoreciendo la accesibilidad y la eficiencia en la carga del sitio.
+- **Reglas CSS bien estructuradas**: Escribimos reglas CSS bien comentadas y estructuradas, agrupando estilos relacionados para mejorar la comprensión del archivo.
+- **Orden lógico de propiedades CSS**: Ordenamos las propiedades CSS de forma lógica (por ejemplo: primero propiedades de caja como `display`, `margin`, luego `color`, `font`, etc.), según lo sugerido en `css.txt`.
+- **Uso de nombres descriptivos en selectores**: Usamos selectores con nombres claros en formato kebab-case (`.btn-secundario`, `.contenedor-principal`) para facilitar su identificación.
+- **Metaetiquetas en el `<head>`**: Incorporamos etiquetas `<meta>` dentro del `<head>` del documento para configurar correctamente la codificación, el diseño en móviles y otros parámetros relevantes.
+
+#### JavaScript
+
+En cuanto al uso de JavaScript, aplicamos las recomendaciones de la guía de estilo de Google, lo que nos ayudó a mantener un código legible y robusto. Las prácticas más relevantes incluyeron:
+
+- **Uso de `let` y `const`**: Se usa `let` para declarar la variable `currentLang`, ya que su valor puede cambiar. Esto mejora la previsibilidad del código. Si fuera una constante, se usaría `const`.
+  
+- **Formato `camelCase`**: Los nombres de las funciones y variables siguen el estilo `camelCase` (como `switchLanguage` y `currentLang`), lo que mejora la claridad y la consistencia del código.
+
+- **Uso de comillas simples**: Todas las cadenas de texto están delimitadas por comillas simples, en línea con las recomendaciones de estilo.
+
+- **Punto y coma al final de las sentencias**: Cada declaración termina con un punto y coma, lo que ayuda a evitar errores de ejecución en JavaScript.
+
+- **Funciones pequeñas y reutilizables**: La función `switchLanguage` es pequeña y clara, lo que facilita su mantenimiento y reutilización.
+
+>>>>>>> caac8ab69e38032a6561f3ae0a2747f6ba85e3b3
 ### 5.1.4. Software Deployment Configuration
+En esta sección se describe cómo llevamos a cabo el despliegue de nuestra landing page utilizando el servicio automatizado de GitHub Pages. A continuación, se presentan los pasos necesarios para completar este proceso.
+
+- Es fundamental contar con un repositorio que contenga la landing page que se desea publicar.
+ ![Report Repository](Images/P2.png)
+- Ingresamos al repositorio y agregamos los archivos HTML, CSS y JavaScript correspondientes según sea necesario.
+ ![Report Repository](Images/P3.png)
+- Es necesario acceder a la sección de configuración dentro del repositorio.
+ ![Report Repository](Images/P4.png)
+- En la configuración, debemos ubicar y seleccionar la sección correspondiente a GitHub Pages.
+ ![Report Repository](Images/P6.png)
+- Una vez dentro de la sección de GitHub Pages, seleccionamos la rama del repositorio que queremos desplegar y hacemos clic en el botón de "guardar" para iniciar el proceso de despliegue.
+ ![Report Repository](Images/P5.png)
+- Cuando el proceso de compilación haya finalizado, se generará un enlace que nos permitirá acceder y visualizar nuestra landing page ya desplegada.
+ ![Report Repository](Images/P7.png)
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
