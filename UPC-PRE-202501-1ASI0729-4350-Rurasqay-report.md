@@ -1414,25 +1414,103 @@ Esta sección reúne la documentación de los servicios que gestionan la vincula
 
 También se incluyen endpoints que permiten acceder a valoraciones y recomendaciones emitidas por marcas que han trabajado con dichos influencers.
 
-<img src="./Images/service for sprints, este era.png"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/service%20for%20sprints,%20este%20era.png?raw=true"/>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Utilizando la funcionalidad de GitHub Pages, llevamos a cabo el proceso de despliegue del sitio web correspondiente a este Sprint. Para ello, accedimos a la configuración del repositorio y completamos los campos requeridos por la plataforma.
 
-<img src="./Images/despliegue 1.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/despliegue%201.png?raw=true">
 
 ## Pagina Desplegada
 
-<img src="./Images/despliegue 2.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/despliegue%202.png?raw=true">
 
 link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-PRE-202501-1ASI0729-4350-Rurasqay-landing-page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<img src="./Images/service for sprints.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/service%20for%20sprints.png?raw=true">
 
-<img src="./Images/insight.png"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insight.png?raw=true"/>
+
+
+## 5.2.2. Sprint 2
+### 5.2.2.1.Sprint Planning 2.
+
+En la siguiente sección se presenta el sprint #2, centrado en la implementación de la aplicación WebResponsive de EasyStock, donde se integraron funcionalidades clave priorizadas de las épicas principales, como la gestión de productos, sensores y sistema de alertas.
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+| :- | :- | :- | :- | :- | :- |
+|2|24/04/2025|6:30 pm|Reunión mediante Meet|Alvarado De La Cruz, Juan Carlos|<p>Barrientos Quispe, Marcelo.</p><p>Nakasone Gomes, Marco.</p><p>Franco Diego.</p><p>Rivera Ticllacuri, Omar Harold</p><p>Alvarado De La Cruz, Juan Carlos</p>|
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points||||
+|Desarrollar la aplicación WebResponsive con funcionalidades clave: agregar/editar productos, visualización de sensores y activación de alertas.|<p>25</p>|25||||
+
+### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3. Sprint Backlog 2
+
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra página web.|4|Barrientos Quispe, Marcelo|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Rioja Nuñez, Franco|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Rivera Ticllacuri, Omar Harold|Done|
+|Sprint #||Sprint 2||||||
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US03|Aplicación WebResponsive con funcionalidades clave|UT04|Desarrollo base de la app responsive|Estructura inicial de la app con soporte responsive y navegación general.|6|Equipo completo|Done|
+|US04|Gestión de productos|UT05|Agregar productos|Permitir a los usuarios agregar productos con nombre, precio y descripción.|4|Marco Nakasone|Done|
+|US04|Gestión de productos|UT06|Editar productos|Funcionalidad para modificar información de productos existentes.|4|Marco Nakasone|Done|
+|US04|Gestión de productos|UT07|Detalle de producto|Visualizar los detalles individuales de cada producto.|3|Marco Nakasone|Done|
+|US05|Alertas del sistema|UT08|Activación de alertas|Módulo para activar alertas ante eventos relevantes del sistema.|3|Marcelo Barrientos Quispe|Done|
+|US06|Gestión de sensores|UT09|Asignar sensor|Funcionalidad para asociar sensores a ubicaciones o productos.|5|Diego Franco|Done|
+|US06|Gestión de sensores|UT10|Vista de sensores|Vista que permite visualizar los sensores activos y sus datos.|4|Juan Alvarado|Done|
+
+#### 5.2.2.4. Development Evidence for Sprint 2 Review
+Evidencia del desarrollo mediante commits:
+Commits de la rama inventory:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-inventory.PNG?raw=true"/>
+
+Commits de la rama master:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-master.PNG?raw=true"/>
+
+Commits de la rama products-sensors-view:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-products.PNG?raw=true"/>
+
+Commits de la rama sensors-view:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-sensors.PNG?raw=true"/>
+
+#### 5.2.2.5. Execution Evidence for Sprint 2 Review
+
+Durante este sprint se logró desplegar exitosamente el frontend de la aplicación web EasyStock, incorporando las funcionalidades esenciales priorizadas. Entre las principales características implementadas se encuentran: el registro y edición de productos, la visualización de la lista completa de productos, la vista detallada de sensores disponibles, así como la asignación de sensores a productos específicos. Además, se incluyó el módulo de gestión del producto por parte del rol correspondiente y el sistema de alertas activas, permitiendo una supervisión eficiente del estado de los productos almacenados. Estas funcionalidades representan un avance significativo en el desarrollo del sistema, alineándose con los objetivos establecidos en las épicas clave del proyecto.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/addproduct.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/editproduct.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/productDetails.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/sensors%20view.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/asignar%20sensores.jpg?raw=true"/>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
+Durante el segundo Sprint, se continuó con el desarrollo y documentación de los servicios que forman parte de la lógica de negocio de la plataforma. Se detallaron nuevos endpoints orientados a facilitar la interacción entre usuarios emprendedores y las funcionalidades de monitoreo. Entre estos, se incluyeron servicios que permiten consultar información ambiental histórica, gestionar suscripciones, y visualizar recomendaciones generadas por el sistema.
+
+La documentación de estos servicios describe los métodos disponibles, los parámetros necesarios y las respuestas esperadas en cada uno. Además, se definieron rutas seguras mediante autenticación para garantizar el acceso autorizado a los datos. Esta documentación fue elaborada en paralelo con las pruebas funcionales para validar la integridad de los servicios implementados, asegurando su correcto funcionamiento dentro del entorno de pruebas del proyecto.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
+Para el Sprint 2, se realizó el despliegue actualizado del sitio web utilizando nuevamente GitHub Pages. Se integraron las nuevas funcionalidades desarrolladas durante el sprint, como mejoras visuales y la incorporación de formularios dinámicos. El despliegue consistió en realizar un push desde la rama principal (main) hacia la configuración activa de GitHub Pages dentro del repositorio del equipo.
+
+El proceso incluyó la validación del sitio en navegadores modernos y dispositivos móviles, comprobando que las nuevas secciones fueran accesibles y operativas. Se verificó también el rendimiento y la velocidad de carga tras el despliegue. Finalmente, el equipo validó la visibilidad del nuevo contenido a través del enlace público generado por GitHub Pages, confirmando el éxito del despliegue y su disponibilidad para pruebas y retroalimentación.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint 2
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insights1.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insigths2.png?raw=true"/>
+
+front:
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insightsfront.png?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insightsfront2.png?raw=true">
 
 # Conclusiones
 
