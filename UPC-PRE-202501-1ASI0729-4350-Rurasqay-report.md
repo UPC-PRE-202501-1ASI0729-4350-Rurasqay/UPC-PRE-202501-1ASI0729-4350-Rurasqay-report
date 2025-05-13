@@ -376,6 +376,19 @@ link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-P
 
 <img src="./Images/insight.png"/>
 
+
+## 5.2.2. Sprint 2
+### 5.2.2.1.Sprint Planning 2.
+
+En la siguiente sección se presenta el sprint #2, centrado en la implementación de la aplicación WebResponsive de EasyStock, donde se integraron funcionalidades clave priorizadas de las épicas principales, como la gestión de productos, sensores y sistema de alertas.
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+| :- | :- | :- | :- | :- | :- |
+|2|24/04/2025|6:30 pm|Reunión mediante Meet|Alvarado De La Cruz, Juan Carlos|<p>Barrientos Quispe, Marcelo.</p><p>Nakasone Gomes, Marco.</p><p>Franco Diego.</p><p>Rivera Ticllacuri, Omar Harold</p><p>Alvarado De La Cruz, Juan Carlos</p>|
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points||||
+|Desarrollar la aplicación WebResponsive con funcionalidades clave: agregar/editar productos, visualización de sensores y activación de alertas.|<p>25</p>|25||||
+
+### 5.2.2.2. Aspect Leaders and Collaborators.
 #### 5.2.2.3. Sprint Backlog 2
 
 
