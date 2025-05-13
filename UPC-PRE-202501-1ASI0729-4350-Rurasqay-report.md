@@ -432,6 +432,7 @@ Durante este sprint se logr√≥ desplegar exitosamente el frontend de la aplicaci√
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/editproduct.png?raw=true"/>
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-products.PNG?raw=true"/>
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/sensors%20view.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/asignar%20sensores.jpg?raw=true"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
 
