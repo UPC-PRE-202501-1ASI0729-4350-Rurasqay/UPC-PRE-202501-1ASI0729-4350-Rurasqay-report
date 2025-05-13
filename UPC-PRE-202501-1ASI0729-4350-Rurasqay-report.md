@@ -188,142 +188,237 @@ Landing Page:
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                                                                                                                                     | Apellido y Nombre                | Carrera                 | Acerca de                                                                                                                                                                                                                                                                             | Código    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio    | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | u202210790 |
-| <img src="Images/Omar.jpeg"/>                                                                                                                                                        | Omar Harold Rivera Ticllacuri    | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto.            | u202214214 |
-| <img src='./Images/marcelo.png'/>                                                                                                                                                    | Marcelo Barrientos Quispe        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo.                                  | u20221e646 |
-| <img src='./Images/diego.jpg'/>                                                                                                                                                      | Franco Diego Rioja Nuñez        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos.                               | u202221597 |
-| <img src="Images/juan.jpg">                                                                                                                                                          | Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                              | u202216150 |
+| Foto | Apellido y Nombre | Carrera | Acerca de | Código |
+|------|-------------------|---------|-----------|--------|
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | u202210790 |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/Omar.jpeg?raw=true" width="300"/>| Omar Harold Rivera Ticllacuri | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto. |  u202214214 |
+|<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marcelo.png?raw=true" width="300"/>| Marcelo Barrientos Quispe | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo. | u20221e646 |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/diego.jpg?raw=true" width="300"/>| Franco Diego Rioja Nuñez | Ingeniería de Software |Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos. | u202221597 |
+|<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/juan.jpg?raw=true" width="300"/>| Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python. | u202216150 |
 
 ## 1.2. Solution Profile
+EasyStock es una solución tecnológica innovadora que transforma la gestión de inventarios para emprendedores que trabajan con productos sensibles o en grandes cantidades. A través de una plataforma digital intuitiva, EasyStock permite controlar el stock de insumos y monitorear en tiempo real las condiciones del entorno en que se almacenan, asegurando que se mantengan en óptimas condiciones.
+
+Además, ofrece un plan premium con sensores inteligentes que supervisan constantemente la materia prima. Estos dispositivos generan alertas y notificaciones cuando se detectan variaciones que puedan comprometer la calidad o cantidad de los productos, permitiendo a los responsables actuar de inmediato. En resumen, EasyStock no solo reduce el riesgo de pérdidas, sino que optimiza el control logístico y fortalece la eficiencia operativa de los emprendimientos.
 
 ### 1.2.1. Antecedentes y problemática
+Muchos emprendedores que gestionan productos sensibles o en grandes volúmenes enfrentan dificultades constantes para mantener un control eficiente de sus inventarios. La ausencia de herramientas accesibles y automatizadas para monitorear el stock y las condiciones ambientales de los insumos genera un entorno propenso a errores humanos, desperdicio de materia prima y pérdidas económicas significativas. Además esta situación se agrava cuando los procesos son manuales o poco estandarizados, lo que incrementa la carga operativa y reduce la capacidad de respuesta ante imprevistos.
 
-**Enunciado del problema:**
-Emprendedores que gestionan productos sensibles o en grandes cantidades carecen de herramientas accesibles para monitorear y controlar sus inventarios de forma eficiente. Esto genera pérdidas económicas, errores humanos y sobrecarga operativa.
-
-**Objetivo general del sistema:**
-Diseñar e implementar una solución digital que facilite la gestión inteligente del inventario, incluyendo monitoreo en tiempo real de condiciones ambientales, alertas automáticas y recomendaciones personalizadas para la optimización del almacenamiento.
-
-**Objetivos específicos:**
-
-- Digitalizar la gestión de inventarios para reducir errores y tiempos operativos.
-- Implementar monitoreo en tiempo real mediante sensores.
-- Emitir alertas ante condiciones críticas (temperatura, humedad, peso).
-- Proporcionar reportes gráficos y recomendaciones para optimización.
-
-**Restricciones:**
-
-- La solución debe ser accesible desde la web y dispositivos móviles.
-- El sistema debe permitir integración con sensores de bajo costo.
-- Se debe ofrecer como servicio (SaaS) con planes escalables.
+Con el objetivo de comprender a fondo las necesidades de nuestros usuarios y enfocar nuestro trabajo conforme a los principios de Lean UX, llevamos a cabo un análisis del contexto y la problemática mediante la técnica de las "5W’s & 2H’s". Esta herramienta, fundamental en Lean UX, nos permitió identificar oportunidades clave para desarrollar un diseño verdaderamente centrado en el usuario. A continuación, se expone la información obtenida.
 
 #### Análisis con técnica de The 5 W’s and 2 H’s
 
-**Who (¿Quiénes son los afectados?)**
+#### **What**
+**¿Cuál es el problema?**  
+EasyStock busca resolver una serie de desafíos que afectan directamente a emprendedores que gestionan productos sensibles o en grandes cantidades. Entre estos problemas se encuentran las pérdidas económicas causadas por el deterioro de insumos mal almacenados, el uso de métodos manuales e ineficientes para el control de inventario como cuadernos o planillas de Excel, la falta de alertas oportunas ante cambios críticos en las condiciones ambientales, y la escasa visibilidad en tiempo real que dificulta la toma de decisiones operativas, generando errores humanos y una mayor carga de trabajo.
 
-- Emprendedores que gestionan productos sensibles al ambiente (alimentos, cosméticos, farmacéuticos).
-- Emprendedores que manipulan grandes volúmenes de inventario sin automatización.
-- Personal operativo y dueños de negocios que pierden insumos por mala gestión.
+#### **When**
+**¿Cuándo sucede?**  
+A lo largo de todo el ciclo operativo del negocio, incluyendo el almacenamiento, la distribución, la recepción y el despacho de productos, el problema se vuelve crítico  en momentos en los que no hay personal disponible para supervisar el estado del inventario.
 
-**What (¿Qué sucede?)**
+**¿Cuándo utiliza el cliente el producto?** 
+Los clientes utilizan EasyStock cuando necesitan realizar tareas operativas como verificar niveles de stock, o monitorear las condiciones ambientales de los insumos almacenados. Especialmente útil durante actividades críticas como el cierre del día, ausencia de personal supervisando, ya que permite automatizar alertas y tomar decisiones inmediatas basadas en datos actualizados al instante.
 
-- Pérdidas económicas por deterioro de productos mal almacenados.
-- Control manual ineficiente del inventario (cuadernos, Excel).
-- Falta de alertas oportuna ante cambios en condiciones críticas.
-- Dificultad para tomar decisiones operativas por falta de visibilidad en tiempo real.
+#### **Where**
+**¿Dónde surge el problema?**  
+El problema ocurre en almacenes de pequeños negocios, tiendas físicas, cocinas industriales o centros de distribución informales, donde la falta de monitoreo de insumos
+es ineficiente.
 
-**Where (¿Dónde ocurre?)**
+#### **Who (¿Quiénes son los afectados?)**  
+**¿Quiénes están involucrados?**
+Los principales involucrados son emprendedores que trabajan con productos sensibles a factores ambientales, como alimentos, plástico o materia prima, así como aquellos que manejan grandes volúmenes de inventario sin sistemas automatizados de control. Además, el problema impacta al personal operativo y a los propietarios de negocios, quienes enfrentan pérdidas recurrentes de insumos debido a una gestión inadecuada del inventario.
 
-- Almacenes de pequeños negocios, tiendas físicas, cocinas industriales, centros de distribución informales.
+**¿A quiénes le sucede el problema?**
+El problema afecta a emprendedores que poseen dificultades para gestionar sus productos.
 
-**When (¿Cuándo sucede?)**
+**¿Quién utilizará el producto?**
+El producto será utilizado por emprendedores que trabajan con insumos y el personal encargado de gestionar los inventarios, supervisar las condiciones de almacenamiento y recibir alertas en tiempo real.
 
-- Durante todo el ciclo operativo del negocio: almacenamiento, distribución, recepción de productos, despacho.
-- De forma crítica en horarios de cierre, cambios de turno, o cuando no hay personal atento al estado del inventario.
+#### **Why**  
+**¿Por qué sucede el problema?**
+El problema surge debido a la falta de eficiencia en el control y monitoreo de insumos, que impiden una respuesta adecuada a cualquier situación crítica como un cambio
+drástico en el ambiente, generando perdidas económicas para los emprendedores.
 
-**Why (¿Por qué ocurre?)**
+**¿Qué llevó al usuario a esta situación?**
+La falta de herramientas actalizadas y eficientes que ayuden a automatizar dichos procesos en tiempo real para así evitar perdidas de material y facilitar la gestión de los insumos. 
 
-- Porque no existe una solución accesible, automatizada y adaptada al contexto de emprendedores peruanos.
-- Porque los sensores inteligentes suelen ser costosos o difíciles de integrar sin soporte técnico.
-- Porque la mayoría de herramientas actuales están pensadas para empresas grandes.
+#### **How**  
+**¿En qué condiciones los clientes usan nuestro producto?**
+Los clientes de EasyStock usan el producto cuando necesitan gestionar su inventario de productos sensibles o en grandes volúmenes, especialmente en situaciones donde no pueden supervisar manualmente las condiciones de almacenamiento.  
 
-**How (¿Cómo se resuelve?)**
+**¿Cómo nos conocerán los usuarios?**
+Los usuarios conocerán el producto a través de estrategias de marketing digital, como anuncios en redes sociales o recomendaciones en el sector. También podrán conocerlo por medio de testimonios de otros emprendedores, demostraciones en eventos o a través de asociaciones con entidades que apoyen a emprendedores y pequeñas empresas.
 
-- Con una plataforma web fácil de usar, que permita registrar productos, vincular sensores y visualizar alertas en tiempo real.
-- Implementando dashboards, reportes y recomendaciones basadas en datos históricos.
-- Permitiendo la administración remota del inventario y condiciones de almacenamiento.
-
-**How much (¿Cuánto cuesta o cuánto implica?)**
-
-- Los usuarios podrán elegir entre planes mensuales accesibles con funcionalidades escalables. *(Precio por definir)*.
-- Se ofrecerá el alquiler de sensores como servicio para reducir la inversión inicial.
-- El modelo de negocio será por suscripción tipo SaaS.
+#### **How much**
+**¿En qué cantidad sucede el problema?** 
+El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, generando pérdidas económicas y errores operativos de manera frecuente. Esto sucede a diario, particularmente en momentos críticos de gestión, como la recepción, almacenamiento y despacho de productos.
 
 ### 1.2.2. Lean UX Process
+En esta sección se desarrollará el proceso de Lean UX, el cual contempla la visión del modelo de negocio que respaldará nuestro producto de software. Este enfoque metodológico nos permite enfocar los esfuerzos en el diseño de la solución y en la comprensión profunda de los problemas detectados a través del pensamiento de diseño. Utilizaremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como guía para enfocar al equipo en el desarrollo de un servicio libre de limitaciones que frenen la innovación y la rapidez. Esta metodología nos permite abordar el proyecto desde las necesidades reales del cliente, favoreciendo un proceso más ágil y enfocado hacia un lanzamiento exitoso.
 
-### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Dominio:** Gestión de inventarios en pequeños negocios.
-**Segmento inicial:** Emprendedores con productos sensibles o de gran volumen.
-**Punto de dolor (pain point):** Pérdida de productos y sobrecarga operativa.
-**Brecha (gap):** Ausencia de soluciones adaptadas al contexto local.
-**Visión:** Brindar control en tiempo real y eficiencia operativa con bajo costo.
-**Estrategia:** Implementar sensores inteligentes, visualización en dashboards, alertas y recomendaciones.
+**Domain:** 
+Nos enfocamos en el sector de la gestión y monitoreo de inventarios para empresas y negocios, un ámbito fundamental que abarca desde pequeños emprendimientos hasta medianas empresas con operaciones más complejas. Cada negocio tiene necesidades particulares relacionadas con el control de sus insumos, especialmente cuando se trata de productos sensibles al ambiente o de alto volumen. 
+
+**Customers Segment** 
+Nuestro público objetivo incluye tanto a empresarios y emprendedores como al personal encargado de monitorear y gestionar los insumos dentro de sus negocios. Reconocemos que cada empresa trabaja con distintos tipos de insumos, lo que representa un desafío en términos de conservación, control y seguimiento. Por ello, hemos desarrollado una plataforma adaptable y fácil de usar que facilita una gestión eficiente y precisa, brindando a los responsables una herramienta confiable para tomar decisiones oportunas y reducir riesgos operativos.
+
+**Paint point:** 
+- **Pérdidas económicas por deterioro o vencimiento de insumos mal almacenados:**
+Muchos negocios sufren pérdidas debido al deterioro de insumos sensibles que no son almacenados en condiciones adecuadas, donde la temperatura y humedad son factores críticos. La falta de monitoreo en tiempo real impide detectar a tiempo problemas ambientales que afectan la calidad del producto.
+
+- **Falta de control y visibilidad en tiempo real:**
+La ausencia de herramientas automatizadas dificulta tener una visión actualizada del inventario. Esto impide tomar decisiones informadas de reposición o despacho, generando retrasos y errores. La visibilidad en tiempo real es clave para reaccionar rápidamente ante cualquier cambio en el stock o las condiciones de los insumos.
+
+- **Uso de métodos manuales e ineficientes:**
+Muchos emprendedores siguen utilizando cuadernos o planillas Excel para gestionar sus insumos, lo que aumenta el riesgo de errores humanos. Estos métodos no escalan con el crecimiento del negocio y dificultan el análisis de datos. Además, requieren tiempo y esfuerzo constante para mantenerse actualizados.
+
+- **Sobrecarga operativa en horarios críticos como cierres, cambios de turno o ausencia de personal:**
+Durante los cierres de jornada o cambios de turno, es común que el inventario quede sin supervisión. Esto incrementa el riesgo de pérdidas, robos o deterioro de productos sin que nadie lo detecte a tiempo. La falta de alertas automáticas o monitoreo constante deja al negocio expuesto en momentos críticos.
+
+**Gap:** 
+La principal brecha para implementar nuestro producto en los emprendimientos radica en la falta de digitalización y cultura tecnológica en la gestión de inventarios. Muchos emprendedores aún utilizan métodos manuales como cuadernos o hojas de cálculo, lo que representa una barrera de adopción y confianza hacia soluciones automatizadas. Esta brecha se refleja en la resistencia al cambio por temor a lo desconocido, la limitación de recursos tecnológicos en pequeños negocios, y el desconocimiento del impacto real que una mala gestión de insumos puede tener en la rentabilidad. Superar esta brecha implica concientizar sobre los beneficios de la automatización y ofrecer una solución accesible, adaptable y fácil de usar.
+
+**Vision:** 
+Nuestra vision es ofrecer una plataforma de calidad, integral y de facil acceso para que nuestros usuarios gestionen de forma eficiente sus insumos.  
+
+**Strategy:** 
+Implementaremos sensores inteligentes, datos reales y a tiempo real que se podran visualizar en el dashboard, alertas y recomendaciones.
+
+**Initial Segment:** 
+Inicialmente, nos dirigimos a los empresarios y emprendedores que buscan gestionar y monitorear de manera eficiente sus insumos o materia prima. Dichos usuarios o clientes, necesitan acceso a una plataforma amigable y sencilla para un uso sin dificultad. 
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- Los usuarios enfrentan dificultades para mantener condiciones adecuadas de almacenamiento sin supervisión constante.
-- Los usuarios estarían dispuestos a pagar por una solución que reduzca sus pérdidas.
-- Los sensores pueden ser integrados sin requerir conocimientos técnicos avanzados.
-- El mercado objetivo usa dispositivos móviles o laptops para sus operaciones.
+#### **Users:**
+- Empresarios o emprendedores que buscar monitorear y gestionar sus insumos
+- Personal del emprendimiento encargado de gestionar y monitorear los insumos
+
+#### **Users Outcomes:**
+
+**Segmento de Empresarios o Emprendedores:**
+- Acceder a una plataforma digital que les permita monitorear y gestionar sus insumos de manera eficiente y en tiempo real.
+
+- Recibir alertas automáticas ante cambios críticos en el ambiente (como temperatura o humedad) que puedan afectar la calidad de los productos.
+
+- Visualizar reportes y análisis del estado del inventario para tomar decisiones informadas sobre compras, reposición o almacenamiento.
+
+-Reducir pérdidas económicas por deterioro o mal manejo de insumos gracias al monitoreo inteligente y continuo.
+
+**Segmento de Personal Encargado del Inventario:**
+- Utilizar la plataforma para verificar niveles de stock y condiciones ambientales de forma rápida y sencilla desde cualquier dispositivo.
+
+- Recibir notificaciones inmediatas cuando los insumos requieren atención, evitando errores y retrasos.
+
+- Registrar movimientos de inventario sin necesidad de métodos manuales, mejorando la precisión y reduciendo la carga operativa.
+
+- Automatizar tareas repetitivas y contar con una herramienta que los apoye durante cambios de turno o ausencias de supervisión.
+
+**Suposiciones de Negocio:**
+- Creemos que existe una creciente demanda por soluciones eficientes que permitan a negocios y emprendimientos controlar y monitorear sus inventarios en tiempo real, reduciendo pérdidas y mejorando la gestión operativa.
+
+- Reconocemos la presencia de competidores en el sector de gestión de inventarios, pero confiamos en que nuestra propuesta innovadora, basada en monitoreo inteligente y automatización, nos permitirá diferenciarnos y destacar en el mercado.
+
+- Estamos convencidos de que nuestros clientes valorarán la funcionalidad y practicidad de nuestro producto, adoptándolo con facilidad y adaptándose rápidamente a los beneficios que ofrece para una gestión óptima de sus insumos.
+
+**Suposiciones de Usuarios:**
+- **¿Quién utiliza nuestra plataforma?** 
+Nuestra plataforma está dirigida a empresarios, emprendedores y su personal encargado de la gestión de insumos, especialmente aquellos que manejan productos sensibles o en grandes volúmenes y requieren un control eficiente y automatizado de su inventario.
+
+- **¿Cómo se integra nuestro producto en la rutina diaria?** 
+EasyStock se incorpora a las actividades operativas como la verificación de stock, supervisión del estado de los insumos y generación de alertas en tiempo real.
+
+- **¿Cuáles son los desafíos que aborda nuestro producto?**
+Aborda problemas críticos como el deterioro de insumos por mala conservación, errores humanos en el control manual del inventario, falta de visibilidad en tiempo real y la ausencia de alertas preventivas ante cambios en condiciones ambientales.
+
+- **¿Qué imagen deseamos proyectar con nuestro producto?** 
+Queremos proyectar una imagen de innovación, confiabilidad y eficiencia, posicionándonos como una solución tecnológica de vanguardia que facilita la gestión inteligente de inventarios en emprendimientos y negocios.
+
+- **¿Cuál es el propósito fundamental de nuestra aplicación?** 
+El propósito de EasyStock es prevenir pérdidas económicas mediante el monitoreo automatizado de inventarios. Ademas de facilitar su facil monitoreo.
+
+- **¿Qué funcionalidades destacan en nuestra aplicación?** 
+Entre sus principales funcionalidades se encuentran el monitoreo ambiental en tiempo real, generación automática de alertas, reportes de stock, historial de inventario y una interfaz intuitiva que facilita el uso por parte del personal operativo.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** si implementamos sensores que monitorean temperatura, humedad y peso en tiempo real, **entonces** los usuarios podrán prevenir pérdidas de productos sensibles, **lo que resultará** en una mayor satisfacción y retención.
-- **Creemos que** si ofrecemos recomendaciones y reportes visuales, **entonces** los emprendedores podrán tomar decisiones informadas, **lo que resultará** en una mejora operativa y reducción de errores.
-- **Creemos que** si facilitamos el registro de productos mediante escaneo o importación de archivos, **entonces** los usuarios podrán adoptar la plataforma rápidamente, **lo que resultará** en una mayor adopción inicial.
+- Hipótesis 1:
+Creemos que si implementamos sensores que monitoreen en tiempo real la temperatura, humedad y peso de los insumos, esto permitirá a los usuarios prevenir pérdidas de productos sensibles, logrando un aumento del 25% en la retención de clientes dentro de los primeros seis meses de uso.
+Sabremos que estamos en lo cierto cuando observemos una disminución del 30% en incidentes reportados por deterioro de productos y un incremento sostenido en el número de usuarios activos mensualmente.
+
+- Hipótesis 2:
+Creemos que si ofrecemos recomendaciones automatizadas y reportes visuales basados en los datos recolectados, esto permitirá a los emprendedores tomar decisiones más informadas, logrando una reducción del 20% en errores de gestión y mejoras en la eficiencia operativa.
+Sabremos que estamos en lo cierto cuando observemos una disminución en las modificaciones manuales posteriores a registros iniciales y un aumento en la precisión de inventario reportado.
+
+- Hipótesis 3:
+Creemos que si facilitamos el registro de productos mediante escaneo o importación de archivos, esto permitirá a los usuarios comenzar a utilizar la plataforma de forma rápida y sin fricciones, logrando un aumento del 35% en la tasa de adopción durante el primer mes.
+Sabremos que estamos en lo cierto cuando observemos que al menos el 70% de los nuevos usuarios completan el registro inicial de su inventario en los primeros tres días de uso.
 
 #### 1.2.2.4. Lean UX Canvas
+El Lean UX Canvas de EasyStock identifica los problemas de los emprendedores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
-| Elemento                       | Descripción                                                                            |
-| ------------------------------ | --------------------------------------------------------------------------------------- |
-| **Usuarios**             | Emprendedores que trabajan con productos perecibles o con inventario de alto volumen.   |
-| **Problemas**            | Pérdidas por mal almacenamiento, errores humanos, falta de visibilidad.                |
-| **Solución propuesta**  | Plataforma con sensores conectados, dashboards, alertas y recomendaciones automáticas. |
-| **Resultados esperados** | Conservación óptima de productos, reducción de errores, mayor control operativo.     |
-| **Métricas clave**      | Reducción de mermas, ahorro de tiempo, tasa de alertas atendidas, nivel de adopción.  |
-
----
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/lean-ux-canvas.png?raw=true" />
 
 ## 1.3. Segmentos Objetivo
 
-### Segmento 1: Emprendedores que gestionan productos sensibles al ambiente
+### Segmento 1: Emprendedores que gestionan productos sensibles o grandes volúmenes de inventario
 
-**Descripción:** Personas que elaboran, almacenan o venden productos que requieren condiciones específicas para mantenerse en buen estado, como temperatura, humedad o peso controlado.
+- **Edad**: 30 a 60 años
 
-**Ejemplos:** Productores de alimentos, reposteros, emprendedores de cosmética natural, farmacéuticos artesanales.
+- **Género**: Masculino y femenino
 
-**Necesidad principal:** Monitorear de forma continua las condiciones ambientales de almacenamiento, recibir alertas automáticas y actuar rápidamente para evitar pérdidas.
+- **Ocupación**: Dueños de pequeñas y medianas empresas.
 
-**Sustento estadístico:** Según el INEI, el 67% de microempresas del sector alimentos y bebidas no utiliza sistemas digitales para la gestión de insumos (2023).
+- **Nivel educativo**: Técnico o universitario
 
----
+- **Ubicación**: Ciudades con actividad industrial o comercial (ej. Lima Metropolitana, Arequipa, Trujillo)
 
-### Segmento 2: Emprendedores que manejan altos volúmenes de inventario manualmente
+- **Necesidades**:
 
-**Descripción:** Personas que, a pesar de manejar muchos productos, siguen utilizando métodos manuales (papel, Excel) para controlar entradas, salidas y stock.
+Prevenir pérdidas económicas por mal manejo de temperatura, humedad o deterioro de productos.
 
-**Ejemplos:** Artesanos textiles, emprendedores de ecommerce, vendedores por redes sociales, pequeños fabricantes.
+Acceder a información confiable en tiempo real para una mejor gestión del inventario.
 
-**Necesidad principal:** Digitalizar el control de inventario para reducir errores, ahorrar tiempo y mejorar la trazabilidad de los productos.
+Optimizar procesos logísticos y evitar errores humanos.
 
-**Sustento estadístico:** Un estudio del BID (2022) indica que el 74% de las microempresas en LATAM no tiene un sistema automatizado de control de inventarios.
+Mejorar la trazabilidad y el control operativo para auditorías o exportaciones.
 
-# Capitulo II: Requeriments Elicitation & Analysis
+- **Datos estadísticos**:
+
+Según el MINCETUR, el 50% de las pymes agroindustriales pierde entre el 5% y 15% de su stock por condiciones ambientales inadecuadas.
+
+Más del 40% de los emprendimientos en Perú aún gestionan su inventario de forma manual (Fuente: Produce, 2023).
+
+### Segmento 2: Personal operativo encargado de monitoreo
+
+- **Edad**: 20 a 45 años
+
+- **Género**: Masculino y femenino
+
+- **Ocupación**: Operarios logísticos, técnicos de control de calidad, asistentes de almacén, supervisores de producción
+
+- **Nivel educativo**: Secundaria completa, formación técnica o capacitación interna
+
+- **Ubicación**: Áreas de producción, almacenamiento o distribución dentro de empresas que gestionan inventario sensible
+
+- **Necesidades**:
+
+Disminuir el trabajo manual y los errores humanos en el registro de datos.
+
+Recibir alertas rápidas para prevenir incidentes y tomar decisiones inmediatas.
+
+Usar herramientas simples y visuales que no requieran formación avanzada.
+
+Ahorrar tiempo y esfuerzo en tareas rutinarias de monitoreo.
+
+- **Datos estadísticos**:
+
+Según la Cámara de Comercio de Lima, el 65% del personal operativo reporta sobrecarga de trabajo por procesos manuales en almacenes.
+
+El 48% de las empresas peruanas considera que la automatización de inventarios es una prioridad en los próximos dos años (PwC, 2023).
+
 
 ## 2.1. Competidores
 
@@ -1353,5 +1448,13 @@ link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-P
 ## Video About-the-Team
 
 ## Bibliografía
+
+1. Cámara de Comercio de Lima. (2022). *Estudio sobre eficiencia logística en almacenes peruanos*. Recuperado de https://www.camaralima.org.pe
+
+2. Ministerio de Comercio Exterior y Turismo del Perú (MINCETUR). (2022). *Informe de desempeño de las pymes exportadoras*. Recuperado de https://www.gob.pe/mincetur
+
+3. Ministerio de la Producción del Perú (Produce). (2023). *Diagnóstico de capacidades digitales en mypes manufactureras*. Recuperado de https://www.gob.pe/produce
+
+4. PricewaterhouseCoopers (PwC). (2023). *Encuesta sobre transformación digital en empresas peruanas*. Recuperado de https://www.pwc.com/pe/es/publicaciones.html
 
 ## Anexos
