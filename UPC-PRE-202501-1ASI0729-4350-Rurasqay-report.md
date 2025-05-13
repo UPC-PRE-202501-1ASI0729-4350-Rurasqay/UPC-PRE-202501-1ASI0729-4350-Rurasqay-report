@@ -365,7 +365,7 @@ Product Name:
 
 ### Segmento 2:
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/Segmento%202.png?raw=true" style="width: 100%;"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/Segmento%202%20(1).png?raw=true" style="width: 100%;"/>
 
 ## 3.4. Product Backlog
 
