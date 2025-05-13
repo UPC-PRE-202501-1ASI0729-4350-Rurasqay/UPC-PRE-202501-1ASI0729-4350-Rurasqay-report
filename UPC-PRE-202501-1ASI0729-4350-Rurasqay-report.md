@@ -455,7 +455,7 @@ El 48% de las empresas peruanas considera que la automatización de inventarios 
 
 |                        Competidores                        | EasyStock                                                                                                                    | Sensitech                                                                                                                   | Sistema Borea de Torsa                                                                                                    | Bambu B2B                                                                                                               |
 | :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-|                          **Logo**                          | ![LogoEasyStock](./Images/LogoEasyStock.png)                                                                                 | ![LogoSensiTech](./Images/sensitech.png)                                                                                    | ![LogoTorsa](./Images/torsa.png)                                                                                          | ![LogoBambuB2B](./Images/bambub2b.png)                                                                                  |
+|                          **Logo**                          | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/LogoEasyStock.png?raw=true" width="300px"/>                                                                                 | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/sensitech.png?raw=true" width="300px"/>                                                                                    | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/torsa.png?raw=true" width="300px"/>                                                                                              | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/bambub2b.png?raw=true" width="300px"/>                                                                                 |
 |                         **Perfil**                         |
 |                          Overview                          | Startup enfocada en la gestión de inventarios para emprendedores mediante sensores de temperatura y peso.                    | Empresa global especializada en soluciones de visibilidad de la cadena de frío para productos sensibles a la temperatura.   | Sistema de monitoreo continuo de temperatura y humedad para almacenes y transporte, con enfoque en eficiencia energética. | Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real para el sector retail. |
 | Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | Modelo flexible de suscripción y alquiler de sensores, interfaz amigable y enfoque en emprendedores de sectores específicos. | Amplia experiencia global, cumplimiento de normativas internacionales y soluciones integrales para la cadena de suministro. | Reducción significativa del consumo energético y climatización autónoma de almacenes.                                     | Personalización avanzada, previsión de demanda y compatibilidad con tecnologías como RFID y códigos de barras.          |
@@ -558,7 +558,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 25 años
 - Empresa: Respostería Familiar
 
-![FotoEntrevista](./Images/e1.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e1.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
@@ -578,7 +578,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 23 años
 - Empresa: Textil Familiar
 
-![FotoEntrevista](./Images/e2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e2.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
@@ -598,7 +598,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 35 años
 - Empresa: Publicidad y producción
 
-![FotoEntrevista](./Images/e3.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e3.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
@@ -616,7 +616,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 21 años
 - Empresa: Fiambres
 
-![FotoEntrevista](./Images/e4.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e4.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/personal/u202214214_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214214%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D20%2015%2D59%2D56%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E36ad953e%2Ddf8c%2D426e%2D8784%2D072c8ad3a637)
@@ -642,7 +642,7 @@ Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños neg
 - Edad: 21 años
 - Empresa: Familiar Textil
 
-![FotoEntrevista](./Images/entrevista-1-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/entrevista-1-s2.jpg?raw=true"/>
 
 - Acerca de la entrevista:
 
@@ -661,7 +661,7 @@ Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños neg
 - Edad: 23 años
 - Empresa: LogiPerú SAC
 
-![FotoEntrevista](./Images/entrevista-2-s2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/entrevista-2-s2.png?raw=true"/>
 
 - Acerca de la entrevista:
 
@@ -680,7 +680,7 @@ Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños neg
 - Edad: 22 años
 - Empresa: ColaReal
 
-![FotoEntrevista](./Images/entrevista-3-s2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/entrevista-3-s2.png?raw=true"/>
 
 - Acerca de la entrevista:
 
@@ -708,17 +708,17 @@ Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados
 
 ## Segmento Objetivo 1
 
-![User Persona](./Images/Luis%20Gálvez_User%20Persona.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Luis%20G%C3%A1lvez_User%20Persona.png?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![User Persona](./Images/user-persona-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/user-persona-s2.jpg?raw=true"/>
 
 ### 2.3.2. User Task Matrix
 
 ## Segmento Objetivo 1
 
-![User Task Matrix](./Images/task%20matrix%201.PNG)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/task%20matrix%201.PNG?raw=true"/>
 
 ## Segmento Objetivo 2
 
@@ -727,31 +727,31 @@ Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados
 
 ## Segmento Objetivo 1
 
-![User Persona](./Images/Segmento%201%20journey%20map%201.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Segmento%201%20journey%20map%201.png?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![User Persona](./Images/use-journey-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/use-journey-s2.jpg?raw=true"/>
 
 ### 2.3.4. Empathy Mapping
 
 ## Segmento Objetivo 1
 
-![Empathy Mapping](./Images/Empathy%20map%20segmento%201.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Empathy%20map%20segmento%201.png?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![Empathy Mapping](./Images/empathy-map-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Empathy%20map%20segmento%202.png?raw=true"/>
 
 ### 2.3.5. As-Is Scenario Mapping
 
 ## Segmento Objetivo 1
 
-![As-Is Scenario Mapping](./Images/Scenario%20Mapping%20Segmento%201.PNG)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Scenario%20Mapping%20Segmento%201.PNG?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![As-Is Scenario Mapping](./Images/scenari-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Scenario%20Mapping%20Segmento%202.PNG?raw=true"/>
 
 ## 2.4. Ubiquitous Language
 
