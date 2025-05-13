@@ -356,25 +356,25 @@ Esta sección reúne la documentación de los servicios que gestionan la vincula
 
 También se incluyen endpoints que permiten acceder a valoraciones y recomendaciones emitidas por marcas que han trabajado con dichos influencers.
 
-<img src="./Images/service for sprints, este era.png"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/service%20for%20sprints,%20este%20era.png?raw=true"/>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Utilizando la funcionalidad de GitHub Pages, llevamos a cabo el proceso de despliegue del sitio web correspondiente a este Sprint. Para ello, accedimos a la configuración del repositorio y completamos los campos requeridos por la plataforma.
 
-<img src="./Images/despliegue 1.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/despliegue%201.png?raw=true">
 
 ## Pagina Desplegada
 
-<img src="./Images/despliegue 2.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/despliegue%202.png?raw=true">
 
 link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-PRE-202501-1ASI0729-4350-Rurasqay-landing-page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<img src="./Images/service for sprints.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/service%20for%20sprints.png?raw=true">
 
-<img src="./Images/insight.png"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insight.png?raw=true"/>
 
 
 ## 5.2.2. Sprint 2
@@ -411,14 +411,35 @@ En la siguiente sección se presenta el sprint #2, centrado en la implementació
 |US06|Gestión de sensores|UT10|Vista de sensores|Vista que permite visualizar los sensores activos y sus datos.|4|Juan Alvarado|Done|
 
 #### 5.2.2.4. Development Evidence for Sprint 2 Review
+Evidencia del desarrollo mediante commits:
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-inventory.PNG?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-master.PNG?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-products.PNG?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-sensors.PNG?raw=true"/>
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review
+
+Durante este sprint se logró desplegar exitosamente el frontend de la aplicación web EasyStock, incorporando las funcionalidades esenciales priorizadas. Entre las principales características implementadas se encuentran: el registro y edición de productos, la visualización de la lista completa de productos, la vista detallada de sensores disponibles, así como la asignación de sensores a productos específicos. Además, se incluyó el módulo de gestión del producto por parte del rol correspondiente y el sistema de alertas activas, permitiendo una supervisión eficiente del estado de los productos almacenados. Estas funcionalidades representan un avance significativo en el desarrollo del sistema, alineándose con los objetivos establecidos en las épicas clave del proyecto.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/addproduct.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/editproduct.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-products.PNG?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/sensors%20view.png?raw=true"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insights1.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insigths2.png?raw=true"/>
+
+front:
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insightsfront.png?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insightsfront2.png?raw=true">
 
 # Conclusiones
 ## Conclusiones y recomendaciones
