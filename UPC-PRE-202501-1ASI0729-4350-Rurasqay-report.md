@@ -548,18 +548,19 @@ Presentamos los resultados del diseño de la Aplicación Web en Figma.
 En esta sección se mostrarán los wireframes de la landing page, los cuales son representaciones de baja fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
-![DeskopBrowser](Images/LandingW.jpg)
+<img src="Images/EasyStock (6)_page-0017.jpg">
 Para Mobile Browser:
-![MobileBrowser](Images/EasyStock_page-0069.jpg)
+<img src="Images/EasyStock (6)_page-0018.jpg">
 
 ### 4.3.2. Landing Page Mock-up
 
 En esta sección se mostrarán los Mock-ups de la landing page, los cuales son representaciones de alta fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
-![DeskopBrowser](Images/LandingM.jpg)
+<img src="Images/MWeb.png">
 Para Mobile Browser:
-![MobileBrowser](Images/Mobile.png)
+<img src="Images/EasyStock (6)_page-0016.jpg">
+
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -675,7 +676,15 @@ User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el h
 
 En esta sección se presentará el prototipo interactivo de nuestra aplicación web, el cual servirá para ilustrar su funcionamiento previsto. Esto nos permitirá contar con una referencia visual y funcional de lo que aspiramos a desarrollar, brindando una idea concreta del comportamiento que tendrá la aplicación en su versión final.
 
+<img src="Images/PrototypeWeb.png">
+
 Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EaBBRoukLtxFnUDCHRyeV7UBEX5jB5Lu4pN8vgtUFk_RAg?e=Mitknb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+<img src="Images/PrototypeMobile.png">
+Enlace al video del prototipo Mobile Browser: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EfDvQxgtG6JIvF__EsHGw-YB5LCQ-iLEZSrHnguCkrVSTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i68XIg
+
+
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -803,8 +812,6 @@ Los tipos más utilizados son:
 ### 5.1.3. Source Code Style Guide & Conventions
 #### Diseño y Construcción de la Landing Page
 
-<<<<<<< HEAD
-=======
 Durante el desarrollo de la landing page, empleamos tecnologías como HTML, CSS y JavaScript, guiándonos por los principios establecidos en las guías de estilo de Google para mantener un código limpio, organizado y conforme a los estándares web modernos.
 
 ### HTML y CSS
@@ -834,7 +841,6 @@ En cuanto al uso de JavaScript, aplicamos las recomendaciones de la guía de est
 
 - **Funciones pequeñas y reutilizables**: La función `switchLanguage` es pequeña y clara, lo que facilita su mantenimiento y reutilización.
 
->>>>>>> caac8ab69e38032a6561f3ae0a2747f6ba85e3b3
 ### 5.1.4. Software Deployment Configuration
 En esta sección se describe cómo llevamos a cabo el despliegue de nuestra landing page utilizando el servicio automatizado de GitHub Pages. A continuación, se presentan los pasos necesarios para completar este proceso.
 
