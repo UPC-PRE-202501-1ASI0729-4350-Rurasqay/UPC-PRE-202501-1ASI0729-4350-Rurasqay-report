@@ -435,8 +435,14 @@ Durante este sprint se logró desplegar exitosamente el frontend de la aplicaci�
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/asignar%20sensores.jpg?raw=true"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
+Durante el segundo Sprint, se continuó con el desarrollo y documentación de los servicios que forman parte de la lógica de negocio de la plataforma. Se detallaron nuevos endpoints orientados a facilitar la interacción entre usuarios emprendedores y las funcionalidades de monitoreo. Entre estos, se incluyeron servicios que permiten consultar información ambiental histórica, gestionar suscripciones, y visualizar recomendaciones generadas por el sistema.
+
+La documentación de estos servicios describe los métodos disponibles, los parámetros necesarios y las respuestas esperadas en cada uno. Además, se definieron rutas seguras mediante autenticación para garantizar el acceso autorizado a los datos. Esta documentación fue elaborada en paralelo con las pruebas funcionales para validar la integridad de los servicios implementados, asegurando su correcto funcionamiento dentro del entorno de pruebas del proyecto.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
+Para el Sprint 2, se realizó el despliegue actualizado del sitio web utilizando nuevamente GitHub Pages. Se integraron las nuevas funcionalidades desarrolladas durante el sprint, como mejoras visuales y la incorporación de formularios dinámicos. El despliegue consistió en realizar un push desde la rama principal (main) hacia la configuración activa de GitHub Pages dentro del repositorio del equipo.
+
+El proceso incluyó la validación del sitio en navegadores modernos y dispositivos móviles, comprobando que las nuevas secciones fueran accesibles y operativas. Se verificó también el rendimiento y la velocidad de carga tras el despliegue. Finalmente, el equipo validó la visibilidad del nuevo contenido a través del enlace público generado por GitHub Pages, confirmando el éxito del despliegue y su disponibilidad para pruebas y retroalimentación.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
 
