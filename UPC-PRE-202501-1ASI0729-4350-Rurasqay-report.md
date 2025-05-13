@@ -1,4 +1,5 @@
-# `<center>`COURSE PROJECT`<center>`
+# <center>COURSE PROJECT<center>
+
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
@@ -17,7 +18,8 @@
 
 </center>
 
-### `<center>`Team Members`</center>`
+### Team Members
+
 
 <center>
 
@@ -25,11 +27,11 @@
 | -------------------------------- | ---------- |
 | Alvarado De La Cruz, Juan Carlos | u202216150 |
 | Barrientos Quispe, Marcelo       | u20221e646 |
-| Rioja Nuñez, Franco Diego       | u202221597 |
+| Rioja Nuñez, Franco Diego        | u202221597 |
 | Nakasone Gomes, Marco Antonio    | u202210790 |
 | Rivera Ticllacuri, Omar Harold   | u202214214 |
 
-`<br>` ABRIL 2025
+<br> ABRIL 2025
 
 </center>
 
@@ -37,12 +39,23 @@
 
 # Registro de Versiones del Informe
 
-| Version | Fecha      | Autor   | Descripción de Modificación |
-| ------- | ---------- | ------- | ----------------------------- |
-| 0.0     | 02/04/2025 | Grupo 3 | Creación del documento       |
-|         | 04/04/2025 |         |                               |
-|         | 04/04/2025 |         |                               |
-
+| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
+|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
+|0.0    | 02/04/2025 |   Marco Nakasone|   Creación del documento                             |
+|   0.1| 04/04/2025 |      Marco Nakasone   |  Creación de las branches                           |
+|   0.2| 07/04/2025 |  Juan Alvarado  |      Avance del Capitulo 1 en feature/project-report                   |
+|   0.3| 07/04/2025 |   Marco Nakasone  |     Avance del Capitulo 3 en feature/requirement-specification                   |
+|   0.4| 07/04/2025 |    Omar Rivera |       Avance del Capitulo 4                 |
+|   0.5| 07/04/2025 |    Marcelo Barrientos    |      Avance del Capitulo 2                     |
+|   0.6| 20/04/2025 |   Marco Nakasone  |    Finalización del Capitulo 3 en feature/requirement-specification                       |
+|   0.7| 22/04/2025 |    Marcelo Barrientos    |      Finalización del Capitulo 4                     |
+|   0.8| 22/04/2025 |  Juan Alvarado   | Finalización del Capitulo 1 en feature/project-report    |
+|   0.9| 22/04/2025 |    Omar Rivera |      Finalización del Capitulo 4                    |
+|   1.0| 24/04/2025 | Franco    |         Finalización del Capitulo 2              |
+|   1.1| 24/04/2025 |    Grupo 3 | Revisiones y correcciones                        |
+|   1.2| 24/04/2025 |  Grupo 3   |         Finalización del Capitulo 5                  |
+|   1.3| 24/04/2025 |    Grupo 3 | Versión para TB1                         |
+                             
 </center>
 
 # Project Report Collaboration Insights
@@ -55,111 +68,108 @@ Landing Page:
 
 # Contenido
 
-[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-[Project Report Collaboration Insights](#project-report-collaboration-insights)
+[Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
+[Project Report Collaboration Insights](#project-report-collaboration-insights)  
 [Student Outcome](#student-outcome)
 
 [Capítulo I: Introducción](#capítulo-i-introducción)
 
-[1.1 Startup Profile](#11-startup-profile)
-[1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+[1.1 Startup Profile](#11-startup-profile)  
+[1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
 [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-
-[1.2. Solution Profile](#12-solution-profile)
-[1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-[1.2.2 Lean UX Process.](#122-lean-ux-process)
-[1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-[1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-[1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+[1.2. Solution Profile](#12-solution-profile)  
+[1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)  
+[1.2.2 Lean UX Process.](#122-lean-ux-process)  
+[1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)  
+[1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)  
+[1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)  
 [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
 
 [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
 
-[Capítulo II: Requirements Elicitation &amp; Analysi](#capítulo-ii-requirements-elicitation--analysis)
+[Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)
 
-[2.1. Competidores](#21-competidores)
-[2.1.1. Análisis competitivo](#211-análisis-competitivo)
+[2.1. Competidores](#21-competidores)  
+[2.1.1. Análisis competitivo](#211-análisis-competitivo)  
 [2.1.2. Estrategias y tácticas frente a competidores](#211-análisis-competitivo)
 
-[2.2. Entrevistas](#22-entrevistas)
-[2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-[2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+[2.2. Entrevistas](#22-entrevistas)  
+[2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)  
+[2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)  
 [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
 
-[2.3. Needfinding](#23-needfinding)
-[2.3.1. User Personas](#231-user-personas)
-[2.3.2. User Task Matrix](#232-user-task-matrix)
-[2.3.3. User Journey Mapping](#233-user-journey-mapping)
-[2.3.4. Empathy Mapping](#234-empathy-mapping)
+[2.3. Needfinding](#23-needfinding)  
+[2.3.1. User Personas](#231-user-personas)  
+[2.3.2. User Task Matrix](#232-user-task-matrix)  
+[2.3.3. User Journey Mapping](#233-user-journey-mapping)  
+[2.3.4. Empathy Mapping](#234-empathy-mapping)  
 [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
 [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 [Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)
 
-[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-[3.2. User Stories](#32-user-stories)
-[3.3. Impact Mapping](#33-impact-mapping)
+[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
+[3.2. User Stories](#32-user-stories)  
+[3.3. Impact Mapping](#33-impact-mapping)  
 [3.4. Product Backlog](#34-product-backlog)
 
 [Capítulo IV: Product Design](#capítulo-iv-product-design)
 
-[4.1. Style Guidelines.](#41-style-guidelines)
-[4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+[4.1. Style Guidelines.](#41-style-guidelines)  
+[4.1.1. General Style Guidelines.](#411-general-style-guidelines)  
 [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
 
-[4.2. Information Architecture.](#42-information-architecture)
-[4.2.1. Organization Systems.](#421-organization-systems)
-[4.2.2. Labeling Systems.](#422-labeling-systems)
-[4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)
-[4.2.4. Searching Systems.](#424-searching-systems)
+[4.2. Information Architecture.](#42-information-architecture)  
+[4.2.1. Organization Systems.](#421-organization-systems)  
+[4.2.2. Labeling Systems.](#422-labeling-systems)  
+[4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)  
+[4.2.4. Searching Systems.](#424-searching-systems)  
 [4.2.5. Navigation Systems.](#425-navigation-systems)
 
-[4.3. Landing Page UI Design.](#43-landing-page-ui-design)
-[4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+[4.3. Landing Page UI Design.](#43-landing-page-ui-design)  
+[4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)  
 [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
 
-[4.4. Web Applications UX/UI Design.](#44-web-applications-ux-ui-design)
-[4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
-[4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-[4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
+[4.4. Web Applications UX/UI Design.](#44-web-applications-ux-ui-design)  
+[4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)  
+[4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)  
+[4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)  
 [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
-
 [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
-
-[4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
-[4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
-[4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+[4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)  
+[4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)  
+[4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)  
 [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
 
-[4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-[4.7.1. Class Diagrams.](#471-class-diagrams)
+[4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)  
+[4.7.1. Class Diagrams.](#471-class-diagrams)  
 [4.7.2. Class Dictionary.](#472-class-dictionary)
 
-[4.8. Database Design.](#48-database-design)
+[4.8. Database Design.](#48-database-design)  
 [4.8.1. Database Diagram.](#481-database-diagram)
 
-[Capítulo V: Product Implementation, Validation &amp; Deployment](#capítulo-v-product-implementation-validation-deployment)
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-deployment)
 
-[5.1. Software Configuration Management.](#51-software-configuration-management)
-[5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-[5.1.2. Source Code Management.](#512-source-code-management)
-[5.1.3. Source Code Style Guide &amp; Conventions.](#513-source-code-style-guide--conventions)
+[5.1. Software Configuration Management.](#51-software-configuration-management)  
+[5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)  
+[5.1.2. Source Code Management.](#512-source-code-management)  
+[5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
 [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
 
-[5.2. Landing Page, Services &amp; Applications Implementation.](#52-landing-page-services--applications-implementation)
-[5.2.1. Sprint n.](#521-sprint-n)
-[5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
-[5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-[5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
-[5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
-[5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-[5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-[5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+[5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
+[5.2.1. Sprint n.](#521-sprint-n)  
+[5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)  
+[5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)  
+[5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)  
+[5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)  
+[5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)  
 [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 
-[Conclusiones](#conclusiones)
-[Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
+[Conclusiones](#conclusiones)  
+[Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)  
 [Video About-the-Team.](#video-about-the-team)
 
 [Bibliografía](#bibliografía)
@@ -172,8 +182,8 @@ Landing Page:
 
 | Criterio Especifico                                                    | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | `<br>` **Marco Nakasone:** `<br>` **TB1:** `<br>` Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. `<br>` `<br>` **Omar Rivera:**`<br>`**TB1:**`<br>` Durante el desarrollo del proyecto, me enfoqué en el Capítulo 4, contribuyendo activamente en el product design, especialmente en la creación y estructura de la Landing Page, así como en los elementos visuales que garantizan una experiencia coherente y atractiva para el usuario.`<br>` `<br>` **Juan Carlos Alvarado:** `<br>` **TB1:** `<br>` Participé activamente en las presentaciones del equipo, explicando la problemática identificada a partir de los segmentos objetivo y las entrevistas. Me encargué de comunicar con claridad el enfoque de EasyStock y sus beneficios para distintos perfiles de emprendedores. Esto me ayudó a reforzar mis habilidades para comunicar ideas técnicas a audiencias no técnicas. `<br>` `<br>` **Marcelo Barrientos Quispe:** `<br>` **TB1:** `<br>` Durante la primera entrega me encargue del C4 model, el data base diagram, class diagram que son necesarias para el funcionamiento del producto a realizar.`<br>` `<br>` **Franco Diego Rioja Nuñez:** `<br>` **TB1:** `<br>` Durante esta entrega me encargue de hacer el Capitulo 2 en el cual analicé a la competencia y vi las posibles oportunidades contra ellos.                                                                                              | TB1: el equipo demostró un enfoque integral combinando estrategia, diseño, análisis técnico y comunicación efectiva, lo que permitió sentar las `<br>`bases sólidas para el desarrollo de EasyStock como una solución viable y centrada en las necesidades reales de los emprendedores.                                                          |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | `<br>` **Marco Nakasone:** `<br>` **TB1:** `<br>` Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos.`<br>`**Omar Rivera:** `<br>` **TB1:** `<br>` En el Capítulo 4, me encargué del diseño UI, incluyendo la elaboración de las Style Guidelines y la estructura visual de la Landing Page. Mi trabajo se centró en brindar una experiencia clara, intuitiva y estéticamente cuidada para los usuarios de la aplicación web.`<br><br>` **Juan Carlos Alvarado:** `<br>` **TB1:** `<br>` Me encargué de redactar el Capítulo I del informe, incluyendo la descripción de la startup, antecedentes y problemática, análisis 5W2H, Lean UX Process y Lean UX Canvas. También elaboré respuestas realistas basadas en user stories para entrevistas simuladas. Esto me permitió aplicar una comunicación escrita técnica y estructurada, manteniendo claridad para lectores con o sin experiencia técnica. `<br>` `<br>` **Marcelo Barrientos Quispe:** `<br>` **TB1:** `<br>` En el transcurso de la entrega me enfoque en un desarrollo estructurado y organizado para tenerlo como base necesaria para el proyecto siendo esta la guía básica para realizar con la cual guiarnos y avanzar dicho proyecto `<br>` `<br>` **Franco Diego Rioja Nuñez:** `<br>` **TB1:** `<br>` Durante esta entrega me encargue de la revisión de las entrevistas de las personas relacionadas con el segmento objetivo y ver cuales son nuestras debilidades y usar el feedback de los entrevistados para poder seguir progresando. | Tb1: El equipo combinó investigación profunda, diseño centrado en el usuario y una sólida base estructural,`<br>`permitiendo construir una propuesta coherente y alineada con las necesidades reales del segmento objetivo,`<br>` a través de un trabajo colaborativo que integra análisis, diseño, redacción técnica y validación continua. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br><br> **Marco Nakasone:** <br> **TP1:** <br> Durante la entrega parcial me encargue de corregir el capitulo 3, agregando las epics, las technical stories, los impact mapping en UXpressia y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. Tambien me encargue implementar las funcionalidades de agregar, editar y enlistar los productos. <br> <br> **Omar Rivera:**<br>**TB1:**<br> Durante el desarrollo del proyecto, me enfoqué en el Capítulo 4, contribuyendo activamente en el product design, especialmente en la creación y estructura de la Landing Page, así como en los elementos visuales que garantizan una experiencia coherente y atractiva para el usuario.<br> <br> **Juan Carlos Alvarado:** <br> **TB1:** <br> Participé activamente en las presentaciones del equipo, explicando la problemática identificada a partir de los segmentos objetivo y las entrevistas. Me encargué de comunicar con claridad el enfoque de EasyStock y sus beneficios para distintos perfiles de emprendedores. Esto me ayudó a reforzar mis habilidades para comunicar ideas técnicas a audiencias no técnicas. <br> <br> **Marcelo Barrientos Quispe:** <br> **TB1:** <br> Durante la primera entrega me encargue del C4 model, el data base diagram, class diagram que son necesarias para el funcionamiento del producto a realizar.<br> <br> **Franco Diego Rioja Nuñez:** <br> **TB1:** <br> Durante esta entrega me encargue de hacer el Capitulo 2 en el cual analicé a la competencia y vi las posibles oportunidades contra ellos.                                                                                              | TB1: el equipo demostró un enfoque integral combinando estrategia, diseño, análisis técnico y comunicación efectiva, lo que permitió sentar las <br>bases sólidas para el desarrollo de EasyStock como una solución viable y centrada en las necesidades reales de los emprendedores.                                                          |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:**<br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos. <br> **Marco Nakasone:** <br> **TP1:**<br> Durante esta entrega pude llevar a cabo la implementación de algunas funcionalidades importantes para nuestra aplicación web, tales colo las de añadir producto, editar producto y enlistar los productos.<br>**Omar Rivera:** <br> **TB1:** <br> En el Capítulo 4, me encargué del diseño UI, incluyendo la elaboración de las Style Guidelines y la estructura visual de la Landing Page. Mi trabajo se centró en brindar una experiencia clara, intuitiva y estéticamente cuidada para los usuarios de la aplicación web.<br><br>**Juan Carlos Alvarado:** <br> **TB1:** <br> Me encargué de redactar el Capítulo I del informe, incluyendo la descripción de la startup, antecedentes y problemática, análisis 5W2H, Lean UX Process y Lean UX Canvas. También elaboré respuestas realistas basadas en user stories para entrevistas simuladas. Esto me permitió aplicar una comunicación escrita técnica y estructurada, manteniendo claridad para lectores con o sin experiencia técnica. <br> <br> **Marcelo Barrientos Quispe:** <br> **TB1:** <br> En el transcurso de la entrega me enfoque en un desarrollo estructurado y organizado para tenerlo como base necesaria para el proyecto siendo esta la guía básica para realizar con la cual guiarnos y avanzar dicho proyecto <br> <br> **Franco Diego Rioja Nuñez:**<br> **TB1:** <br> Durante esta entrega me encargue de la revisión de las entrevistas de las personas relacionadas con el segmento objetivo y ver cuales son nuestras debilidades y usar el feedback de los entrevistados para poder seguir progresando. | Tb1: El equipo combinó investigación profunda, diseño centrado en el usuario y una sólida base estructural,<br>permitiendo construir una propuesta coherente y alineada con las necesidades reales del segmento objetivo,<br> a través de un trabajo colaborativo que integra análisis, diseño, redacción técnica y validación continua. |
 
 # Capítulo I: Introduccion
 
@@ -189,142 +199,237 @@ Landing Page:
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                                                                                                                                     | Apellido y Nombre                | Carrera                 | Acerca de                                                                                                                                                                                                                                                                             | Código    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio    | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | u202210790 |
-| <img src="Images/Omar.jpeg"/>                                                                                                                                                        | Omar Harold Rivera Ticllacuri    | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto.            | u202214214 |
-| <img src='./Images/marcelo.png'/>                                                                                                                                                    | Marcelo Barrientos Quispe        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo.                                  | u20221e646 |
-| <img src='./Images/diego.jpg'/>                                                                                                                                                      | Franco Diego Rioja Nuñez        | Ingeniería de Software | Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos.                               | u202221597 |
-| <img src="Images/juan.jpg">                                                                                                                                                          | Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python.                                                                                                              | u202216150 |
+| Foto | Apellido y Nombre | Carrera | Acerca de | Código |
+|------|-------------------|---------|-----------|--------|
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marco.jpg?raw=true" width="300"/> | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y también soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | u202210790 |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/Omar.jpeg?raw=true" width="300"/>| Omar Harold Rivera Ticllacuri | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 20 años. Me considero una persona disciplinada y responsable, con experiencia en el desarrollo de software de entretenimiento. Estoy comprometido a aportar al grupo para cumplir con éxito los objetivos del proyecto. |  u202214214 |
+|<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/marcelo.png?raw=true" width="300"/>| Marcelo Barrientos Quispe | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo 19 años. Me considero alguien muy a fin a las tecnologías de Javascript y sus frameworks como React, Angular y Node. Me considero buen compañero y muy compretido con el curso y con el trabajo. | u20221e646 |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/diego.jpg?raw=true" width="300"/>| Franco Diego Rioja Nuñez | Ingeniería de Software |Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y la formación autodidacta. Me destaco por mi buena disposición para el trabajo en equipo y mi habilidad para desenvolverme eficazmente en entornos colaborativos. | u202221597 |
+|<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/juan.jpg?raw=true" width="300"/>| Alvarado De La Cruz, Juan Carlos | Ingeniería de Software | Soy estudiante de la carrera de Ing. de Software. Me gusta resolver problemas y aprender cosas que son de mi interés, tengo experiencia programando en C++ y en Python. | u202216150 |
 
 ## 1.2. Solution Profile
+EasyStock es una solución tecnológica innovadora que transforma la gestión de inventarios para emprendedores que trabajan con productos sensibles o en grandes cantidades. A través de una plataforma digital intuitiva, EasyStock permite controlar el stock de insumos y monitorear en tiempo real las condiciones del entorno en que se almacenan, asegurando que se mantengan en óptimas condiciones.
+
+Además, ofrece un plan premium con sensores inteligentes que supervisan constantemente la materia prima. Estos dispositivos generan alertas y notificaciones cuando se detectan variaciones que puedan comprometer la calidad o cantidad de los productos, permitiendo a los responsables actuar de inmediato. En resumen, EasyStock no solo reduce el riesgo de pérdidas, sino que optimiza el control logístico y fortalece la eficiencia operativa de los emprendimientos.
 
 ### 1.2.1. Antecedentes y problemática
+Muchos emprendedores que gestionan productos sensibles o en grandes volúmenes enfrentan dificultades constantes para mantener un control eficiente de sus inventarios. La ausencia de herramientas accesibles y automatizadas para monitorear el stock y las condiciones ambientales de los insumos genera un entorno propenso a errores humanos, desperdicio de materia prima y pérdidas económicas significativas. Además esta situación se agrava cuando los procesos son manuales o poco estandarizados, lo que incrementa la carga operativa y reduce la capacidad de respuesta ante imprevistos.
 
-**Enunciado del problema:**
-Emprendedores que gestionan productos sensibles o en grandes cantidades carecen de herramientas accesibles para monitorear y controlar sus inventarios de forma eficiente. Esto genera pérdidas económicas, errores humanos y sobrecarga operativa.
-
-**Objetivo general del sistema:**
-Diseñar e implementar una solución digital que facilite la gestión inteligente del inventario, incluyendo monitoreo en tiempo real de condiciones ambientales, alertas automáticas y recomendaciones personalizadas para la optimización del almacenamiento.
-
-**Objetivos específicos:**
-
-- Digitalizar la gestión de inventarios para reducir errores y tiempos operativos.
-- Implementar monitoreo en tiempo real mediante sensores.
-- Emitir alertas ante condiciones críticas (temperatura, humedad, peso).
-- Proporcionar reportes gráficos y recomendaciones para optimización.
-
-**Restricciones:**
-
-- La solución debe ser accesible desde la web y dispositivos móviles.
-- El sistema debe permitir integración con sensores de bajo costo.
-- Se debe ofrecer como servicio (SaaS) con planes escalables.
+Con el objetivo de comprender a fondo las necesidades de nuestros usuarios y enfocar nuestro trabajo conforme a los principios de Lean UX, llevamos a cabo un análisis del contexto y la problemática mediante la técnica de las "5W’s & 2H’s". Esta herramienta, fundamental en Lean UX, nos permitió identificar oportunidades clave para desarrollar un diseño verdaderamente centrado en el usuario. A continuación, se expone la información obtenida.
 
 #### Análisis con técnica de The 5 W’s and 2 H’s
 
-**Who (¿Quiénes son los afectados?)**
+#### **What**
+**¿Cuál es el problema?**  
+EasyStock busca resolver una serie de desafíos que afectan directamente a emprendedores que gestionan productos sensibles o en grandes cantidades. Entre estos problemas se encuentran las pérdidas económicas causadas por el deterioro de insumos mal almacenados, el uso de métodos manuales e ineficientes para el control de inventario como cuadernos o planillas de Excel, la falta de alertas oportunas ante cambios críticos en las condiciones ambientales, y la escasa visibilidad en tiempo real que dificulta la toma de decisiones operativas, generando errores humanos y una mayor carga de trabajo.
 
-- Emprendedores que gestionan productos sensibles al ambiente (alimentos, cosméticos, farmacéuticos).
-- Emprendedores que manipulan grandes volúmenes de inventario sin automatización.
-- Personal operativo y dueños de negocios que pierden insumos por mala gestión.
 
-**What (¿Qué sucede?)**
+#### **When**
+**¿Cuándo sucede?**  
+A lo largo de todo el ciclo operativo del negocio, incluyendo el almacenamiento, la distribución, la recepción y el despacho de productos, el problema se vuelve crítico  en momentos en los que no hay personal disponible para supervisar el estado del inventario.
 
-- Pérdidas económicas por deterioro de productos mal almacenados.
-- Control manual ineficiente del inventario (cuadernos, Excel).
-- Falta de alertas oportuna ante cambios en condiciones críticas.
-- Dificultad para tomar decisiones operativas por falta de visibilidad en tiempo real.
+**¿Cuándo utiliza el cliente el producto?** 
+Los clientes utilizan EasyStock cuando necesitan realizar tareas operativas como verificar niveles de stock, o monitorear las condiciones ambientales de los insumos almacenados. Especialmente útil durante actividades críticas como el cierre del día, ausencia de personal supervisando, ya que permite automatizar alertas y tomar decisiones inmediatas basadas en datos actualizados al instante.
 
-**Where (¿Dónde ocurre?)**
+#### **Where**
+**¿Dónde surge el problema?**  
+El problema ocurre en almacenes de pequeños negocios, tiendas físicas, cocinas industriales o centros de distribución informales, donde la falta de monitoreo de insumos
+es ineficiente.
 
-- Almacenes de pequeños negocios, tiendas físicas, cocinas industriales, centros de distribución informales.
+#### **Who (¿Quiénes son los afectados?)**  
+**¿Quiénes están involucrados?**
+Los principales involucrados son emprendedores que trabajan con productos sensibles a factores ambientales, como alimentos, plástico o materia prima, así como aquellos que manejan grandes volúmenes de inventario sin sistemas automatizados de control. Además, el problema impacta al personal operativo y a los propietarios de negocios, quienes enfrentan pérdidas recurrentes de insumos debido a una gestión inadecuada del inventario.
 
-**When (¿Cuándo sucede?)**
+**¿A quiénes le sucede el problema?**
+El problema afecta a emprendedores que poseen dificultades para gestionar sus productos.
 
-- Durante todo el ciclo operativo del negocio: almacenamiento, distribución, recepción de productos, despacho.
-- De forma crítica en horarios de cierre, cambios de turno, o cuando no hay personal atento al estado del inventario.
+**¿Quién utilizará el producto?**
+El producto será utilizado por emprendedores que trabajan con insumos y el personal encargado de gestionar los inventarios, supervisar las condiciones de almacenamiento y recibir alertas en tiempo real.
 
-**Why (¿Por qué ocurre?)**
+#### **Why**  
+**¿Por qué sucede el problema?**
+El problema surge debido a la falta de eficiencia en el control y monitoreo de insumos, que impiden una respuesta adecuada a cualquier situación crítica como un cambio
+drástico en el ambiente, generando perdidas económicas para los emprendedores.
 
-- Porque no existe una solución accesible, automatizada y adaptada al contexto de emprendedores peruanos.
-- Porque los sensores inteligentes suelen ser costosos o difíciles de integrar sin soporte técnico.
-- Porque la mayoría de herramientas actuales están pensadas para empresas grandes.
+**¿Qué llevó al usuario a esta situación?**
+La falta de herramientas actalizadas y eficientes que ayuden a automatizar dichos procesos en tiempo real para así evitar perdidas de material y facilitar la gestión de los insumos. 
 
-**How (¿Cómo se resuelve?)**
+#### **How**  
+**¿En qué condiciones los clientes usan nuestro producto?**
+Los clientes de EasyStock usan el producto cuando necesitan gestionar su inventario de productos sensibles o en grandes volúmenes, especialmente en situaciones donde no pueden supervisar manualmente las condiciones de almacenamiento.  
 
-- Con una plataforma web fácil de usar, que permita registrar productos, vincular sensores y visualizar alertas en tiempo real.
-- Implementando dashboards, reportes y recomendaciones basadas en datos históricos.
-- Permitiendo la administración remota del inventario y condiciones de almacenamiento.
+**¿Cómo nos conocerán los usuarios?**
+Los usuarios conocerán el producto a través de estrategias de marketing digital, como anuncios en redes sociales o recomendaciones en el sector. También podrán conocerlo por medio de testimonios de otros emprendedores, demostraciones en eventos o a través de asociaciones con entidades que apoyen a emprendedores y pequeñas empresas.
 
-**How much (¿Cuánto cuesta o cuánto implica?)**
-
-- Los usuarios podrán elegir entre planes mensuales accesibles con funcionalidades escalables. *(Precio por definir)*.
-- Se ofrecerá el alquiler de sensores como servicio para reducir la inversión inicial.
-- El modelo de negocio será por suscripción tipo SaaS.
+#### **How much**
+**¿En qué cantidad sucede el problema?** 
+El problema ocurre en una gran cantidad de pequeños negocios y emprendedores, generando pérdidas económicas y errores operativos de manera frecuente. Esto sucede a diario, particularmente en momentos críticos de gestión, como la recepción, almacenamiento y despacho de productos.
 
 ### 1.2.2. Lean UX Process
+En esta sección se desarrollará el proceso de Lean UX, el cual contempla la visión del modelo de negocio que respaldará nuestro producto de software. Este enfoque metodológico nos permite enfocar los esfuerzos en el diseño de la solución y en la comprensión profunda de los problemas detectados a través del pensamiento de diseño. Utilizaremos la plantilla de Business Opportunity Statements (Gothelf, 2022) como guía para enfocar al equipo en el desarrollo de un servicio libre de limitaciones que frenen la innovación y la rapidez. Esta metodología nos permite abordar el proyecto desde las necesidades reales del cliente, favoreciendo un proceso más ágil y enfocado hacia un lanzamiento exitoso.
 
-### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Dominio:** Gestión de inventarios en pequeños negocios.
-**Segmento inicial:** Emprendedores con productos sensibles o de gran volumen.
-**Punto de dolor (pain point):** Pérdida de productos y sobrecarga operativa.
-**Brecha (gap):** Ausencia de soluciones adaptadas al contexto local.
-**Visión:** Brindar control en tiempo real y eficiencia operativa con bajo costo.
-**Estrategia:** Implementar sensores inteligentes, visualización en dashboards, alertas y recomendaciones.
+**Domain:** 
+Nos enfocamos en el sector de la gestión y monitoreo de inventarios para empresas y negocios, un ámbito fundamental que abarca desde pequeños emprendimientos hasta medianas empresas con operaciones más complejas. Cada negocio tiene necesidades particulares relacionadas con el control de sus insumos, especialmente cuando se trata de productos sensibles al ambiente o de alto volumen. 
+
+**Customers Segment** 
+Nuestro público objetivo incluye tanto a empresarios y emprendedores como al personal encargado de monitorear y gestionar los insumos dentro de sus negocios. Reconocemos que cada empresa trabaja con distintos tipos de insumos, lo que representa un desafío en términos de conservación, control y seguimiento. Por ello, hemos desarrollado una plataforma adaptable y fácil de usar que facilita una gestión eficiente y precisa, brindando a los responsables una herramienta confiable para tomar decisiones oportunas y reducir riesgos operativos.
+
+**Paint point:** 
+- **Pérdidas económicas por deterioro o vencimiento de insumos mal almacenados:**
+Muchos negocios sufren pérdidas debido al deterioro de insumos sensibles que no son almacenados en condiciones adecuadas, donde la temperatura y humedad son factores críticos. La falta de monitoreo en tiempo real impide detectar a tiempo problemas ambientales que afectan la calidad del producto.
+
+- **Falta de control y visibilidad en tiempo real:**
+La ausencia de herramientas automatizadas dificulta tener una visión actualizada del inventario. Esto impide tomar decisiones informadas de reposición o despacho, generando retrasos y errores. La visibilidad en tiempo real es clave para reaccionar rápidamente ante cualquier cambio en el stock o las condiciones de los insumos.
+
+- **Uso de métodos manuales e ineficientes:**
+Muchos emprendedores siguen utilizando cuadernos o planillas Excel para gestionar sus insumos, lo que aumenta el riesgo de errores humanos. Estos métodos no escalan con el crecimiento del negocio y dificultan el análisis de datos. Además, requieren tiempo y esfuerzo constante para mantenerse actualizados.
+
+- **Sobrecarga operativa en horarios críticos como cierres, cambios de turno o ausencia de personal:**
+Durante los cierres de jornada o cambios de turno, es común que el inventario quede sin supervisión. Esto incrementa el riesgo de pérdidas, robos o deterioro de productos sin que nadie lo detecte a tiempo. La falta de alertas automáticas o monitoreo constante deja al negocio expuesto en momentos críticos.
+
+**Gap:** 
+La principal brecha para implementar nuestro producto en los emprendimientos radica en la falta de digitalización y cultura tecnológica en la gestión de inventarios. Muchos emprendedores aún utilizan métodos manuales como cuadernos o hojas de cálculo, lo que representa una barrera de adopción y confianza hacia soluciones automatizadas. Esta brecha se refleja en la resistencia al cambio por temor a lo desconocido, la limitación de recursos tecnológicos en pequeños negocios, y el desconocimiento del impacto real que una mala gestión de insumos puede tener en la rentabilidad. Superar esta brecha implica concientizar sobre los beneficios de la automatización y ofrecer una solución accesible, adaptable y fácil de usar.
+
+**Vision:** 
+Nuestra vision es ofrecer una plataforma de calidad, integral y de facil acceso para que nuestros usuarios gestionen de forma eficiente sus insumos.  
+
+**Strategy:** 
+Implementaremos sensores inteligentes, datos reales y a tiempo real que se podran visualizar en el dashboard, alertas y recomendaciones.
+
+**Initial Segment:** 
+Inicialmente, nos dirigimos a los empresarios y emprendedores que buscan gestionar y monitorear de manera eficiente sus insumos o materia prima. Dichos usuarios o clientes, necesitan acceso a una plataforma amigable y sencilla para un uso sin dificultad. 
 
 #### 1.2.2.2. Lean UX Assumptions
 
-- Los usuarios enfrentan dificultades para mantener condiciones adecuadas de almacenamiento sin supervisión constante.
-- Los usuarios estarían dispuestos a pagar por una solución que reduzca sus pérdidas.
-- Los sensores pueden ser integrados sin requerir conocimientos técnicos avanzados.
-- El mercado objetivo usa dispositivos móviles o laptops para sus operaciones.
+#### **Users:**
+- Empresarios o emprendedores que buscar monitorear y gestionar sus insumos
+- Personal del emprendimiento encargado de gestionar y monitorear los insumos
+
+#### **Users Outcomes:**
+
+**Segmento de Empresarios o Emprendedores:**
+- Acceder a una plataforma digital que les permita monitorear y gestionar sus insumos de manera eficiente y en tiempo real.
+
+- Recibir alertas automáticas ante cambios críticos en el ambiente (como temperatura o humedad) que puedan afectar la calidad de los productos.
+
+- Visualizar reportes y análisis del estado del inventario para tomar decisiones informadas sobre compras, reposición o almacenamiento.
+
+-Reducir pérdidas económicas por deterioro o mal manejo de insumos gracias al monitoreo inteligente y continuo.
+
+**Segmento de Personal Encargado del Inventario:**
+- Utilizar la plataforma para verificar niveles de stock y condiciones ambientales de forma rápida y sencilla desde cualquier dispositivo.
+
+- Recibir notificaciones inmediatas cuando los insumos requieren atención, evitando errores y retrasos.
+
+- Registrar movimientos de inventario sin necesidad de métodos manuales, mejorando la precisión y reduciendo la carga operativa.
+
+- Automatizar tareas repetitivas y contar con una herramienta que los apoye durante cambios de turno o ausencias de supervisión.
+
+**Suposiciones de Negocio:**
+- Creemos que existe una creciente demanda por soluciones eficientes que permitan a negocios y emprendimientos controlar y monitorear sus inventarios en tiempo real, reduciendo pérdidas y mejorando la gestión operativa.
+
+- Reconocemos la presencia de competidores en el sector de gestión de inventarios, pero confiamos en que nuestra propuesta innovadora, basada en monitoreo inteligente y automatización, nos permitirá diferenciarnos y destacar en el mercado.
+
+- Estamos convencidos de que nuestros clientes valorarán la funcionalidad y practicidad de nuestro producto, adoptándolo con facilidad y adaptándose rápidamente a los beneficios que ofrece para una gestión óptima de sus insumos.
+
+**Suposiciones de Usuarios:**
+- **¿Quién utiliza nuestra plataforma?** 
+Nuestra plataforma está dirigida a empresarios, emprendedores y su personal encargado de la gestión de insumos, especialmente aquellos que manejan productos sensibles o en grandes volúmenes y requieren un control eficiente y automatizado de su inventario.
+
+- **¿Cómo se integra nuestro producto en la rutina diaria?** 
+EasyStock se incorpora a las actividades operativas como la verificación de stock, supervisión del estado de los insumos y generación de alertas en tiempo real.
+
+- **¿Cuáles son los desafíos que aborda nuestro producto?**
+Aborda problemas críticos como el deterioro de insumos por mala conservación, errores humanos en el control manual del inventario, falta de visibilidad en tiempo real y la ausencia de alertas preventivas ante cambios en condiciones ambientales.
+
+- **¿Qué imagen deseamos proyectar con nuestro producto?** 
+Queremos proyectar una imagen de innovación, confiabilidad y eficiencia, posicionándonos como una solución tecnológica de vanguardia que facilita la gestión inteligente de inventarios en emprendimientos y negocios.
+
+- **¿Cuál es el propósito fundamental de nuestra aplicación?** 
+El propósito de EasyStock es prevenir pérdidas económicas mediante el monitoreo automatizado de inventarios. Ademas de facilitar su facil monitoreo.
+
+- **¿Qué funcionalidades destacan en nuestra aplicación?** 
+Entre sus principales funcionalidades se encuentran el monitoreo ambiental en tiempo real, generación automática de alertas, reportes de stock, historial de inventario y una interfaz intuitiva que facilita el uso por parte del personal operativo.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** si implementamos sensores que monitorean temperatura, humedad y peso en tiempo real, **entonces** los usuarios podrán prevenir pérdidas de productos sensibles, **lo que resultará** en una mayor satisfacción y retención.
-- **Creemos que** si ofrecemos recomendaciones y reportes visuales, **entonces** los emprendedores podrán tomar decisiones informadas, **lo que resultará** en una mejora operativa y reducción de errores.
-- **Creemos que** si facilitamos el registro de productos mediante escaneo o importación de archivos, **entonces** los usuarios podrán adoptar la plataforma rápidamente, **lo que resultará** en una mayor adopción inicial.
+- Hipótesis 1:
+Creemos que si implementamos sensores que monitoreen en tiempo real la temperatura, humedad y peso de los insumos, esto permitirá a los usuarios prevenir pérdidas de productos sensibles, logrando un aumento del 25% en la retención de clientes dentro de los primeros seis meses de uso.
+Sabremos que estamos en lo cierto cuando observemos una disminución del 30% en incidentes reportados por deterioro de productos y un incremento sostenido en el número de usuarios activos mensualmente.
+
+- Hipótesis 2:
+Creemos que si ofrecemos recomendaciones automatizadas y reportes visuales basados en los datos recolectados, esto permitirá a los emprendedores tomar decisiones más informadas, logrando una reducción del 20% en errores de gestión y mejoras en la eficiencia operativa.
+Sabremos que estamos en lo cierto cuando observemos una disminución en las modificaciones manuales posteriores a registros iniciales y un aumento en la precisión de inventario reportado.
+
+- Hipótesis 3:
+Creemos que si facilitamos el registro de productos mediante escaneo o importación de archivos, esto permitirá a los usuarios comenzar a utilizar la plataforma de forma rápida y sin fricciones, logrando un aumento del 35% en la tasa de adopción durante el primer mes.
+Sabremos que estamos en lo cierto cuando observemos que al menos el 70% de los nuevos usuarios completan el registro inicial de su inventario en los primeros tres días de uso.
 
 #### 1.2.2.4. Lean UX Canvas
+El Lean UX Canvas de EasyStock identifica los problemas de los emprendedores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
-| Elemento                       | Descripción                                                                            |
-| ------------------------------ | --------------------------------------------------------------------------------------- |
-| **Usuarios**             | Emprendedores que trabajan con productos perecibles o con inventario de alto volumen.   |
-| **Problemas**            | Pérdidas por mal almacenamiento, errores humanos, falta de visibilidad.                |
-| **Solución propuesta**  | Plataforma con sensores conectados, dashboards, alertas y recomendaciones automáticas. |
-| **Resultados esperados** | Conservación óptima de productos, reducción de errores, mayor control operativo.     |
-| **Métricas clave**      | Reducción de mermas, ahorro de tiempo, tasa de alertas atendidas, nivel de adopción.  |
-
----
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/lean-ux-canvas.png?raw=true" />
 
 ## 1.3. Segmentos Objetivo
 
-### Segmento 1: Emprendedores que gestionan productos sensibles al ambiente
+### Segmento 1: Emprendedores que gestionan productos sensibles o grandes volúmenes de inventario
 
-**Descripción:** Personas que elaboran, almacenan o venden productos que requieren condiciones específicas para mantenerse en buen estado, como temperatura, humedad o peso controlado.
+- **Edad**: 30 a 60 años
 
-**Ejemplos:** Productores de alimentos, reposteros, emprendedores de cosmética natural, farmacéuticos artesanales.
+- **Género**: Masculino y femenino
 
-**Necesidad principal:** Monitorear de forma continua las condiciones ambientales de almacenamiento, recibir alertas automáticas y actuar rápidamente para evitar pérdidas.
+- **Ocupación**: Dueños de pequeñas y medianas empresas.
 
-**Sustento estadístico:** Según el INEI, el 67% de microempresas del sector alimentos y bebidas no utiliza sistemas digitales para la gestión de insumos (2023).
+- **Nivel educativo**: Técnico o universitario
 
----
+- **Ubicación**: Ciudades con actividad industrial o comercial (ej. Lima Metropolitana, Arequipa, Trujillo)
 
-### Segmento 2: Emprendedores que manejan altos volúmenes de inventario manualmente
+- **Necesidades**:
 
-**Descripción:** Personas que, a pesar de manejar muchos productos, siguen utilizando métodos manuales (papel, Excel) para controlar entradas, salidas y stock.
+Prevenir pérdidas económicas por mal manejo de temperatura, humedad o deterioro de productos.
 
-**Ejemplos:** Artesanos textiles, emprendedores de ecommerce, vendedores por redes sociales, pequeños fabricantes.
+Acceder a información confiable en tiempo real para una mejor gestión del inventario.
 
-**Necesidad principal:** Digitalizar el control de inventario para reducir errores, ahorrar tiempo y mejorar la trazabilidad de los productos.
+Optimizar procesos logísticos y evitar errores humanos.
 
-**Sustento estadístico:** Un estudio del BID (2022) indica que el 74% de las microempresas en LATAM no tiene un sistema automatizado de control de inventarios.
+Mejorar la trazabilidad y el control operativo para auditorías o exportaciones.
 
-# Capitulo II: Requeriments Elicitation & Analysis
+- **Datos estadísticos**:
+
+Según el MINCETUR, el 50% de las pymes agroindustriales pierde entre el 5% y 15% de su stock por condiciones ambientales inadecuadas.
+
+Más del 40% de los emprendimientos en Perú aún gestionan su inventario de forma manual (Fuente: Produce, 2023).
+
+### Segmento 2: Personal operativo encargado de monitoreo
+
+- **Edad**: 20 a 45 años
+
+- **Género**: Masculino y femenino
+
+- **Ocupación**: Operarios logísticos, técnicos de control de calidad, asistentes de almacén, supervisores de producción
+
+- **Nivel educativo**: Secundaria completa, formación técnica o capacitación interna
+
+- **Ubicación**: Áreas de producción, almacenamiento o distribución dentro de empresas que gestionan inventario sensible
+
+- **Necesidades**:
+
+Disminuir el trabajo manual y los errores humanos en el registro de datos.
+
+Recibir alertas rápidas para prevenir incidentes y tomar decisiones inmediatas.
+
+Usar herramientas simples y visuales que no requieran formación avanzada.
+
+Ahorrar tiempo y esfuerzo en tareas rutinarias de monitoreo.
+
+- **Datos estadísticos**:
+
+Según la Cámara de Comercio de Lima, el 65% del personal operativo reporta sobrecarga de trabajo por procesos manuales en almacenes.
+
+El 48% de las empresas peruanas considera que la automatización de inventarios es una prioridad en los próximos dos años (PwC, 2023).
 
 ## 2.1. Competidores
 
@@ -348,31 +453,31 @@ Diseñar e implementar una solución digital que facilite la gestión inteligent
 
 ### Comprender el entorno competitivo de EasyStock nos permitirá evaluar qué tan alineados estamos con las necesidades del mercado, identificar elementos clave que nos diferencien y detectar áreas de mejora en comparación con soluciones similares
 
-|                          Competidores                          | EasyStock                                                                                                                      | Sensitech                                                                                                                   | Sistema Borea de Torsa                                                                                                     | Bambu B2B                                                                                                               |
-| :-------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-|                         **Logo**                         | `<img src="Images/LogoEasyStock.png" width="100px"/>`                                                                        | `<img src="/Images/sensitech.png" width="100px">`                                                                         | `<img src="/Images/torsa.png" width="100px" />`                                                                          | `<img src="/Images/bambub2b.png" width="100px" />`                                                                    |
-|                        **Perfil**                        |                                                                                                                                |                                                                                                                             |                                                                                                                            |                                                                                                                         |
-|                            Overview                            | Startup enfocada en la gestión de inventarios para emprendedores mediante sensores de temperatura y peso.                     | Empresa global especializada en soluciones de visibilidad de la cadena de frío para productos sensibles a la temperatura.  | Sistema de monitoreo continuo de temperatura y humedad para almacenes y transporte, con enfoque en eficiencia energética. | Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real para el sector retail. |
-| Ventaja competitiva`<br>` ¿Qué valor ofrece a los clientes? | Modelo flexible de suscripción y alquiler de sensores, interfaz amigable y enfoque en emprendedores de sectores específicos. | Amplia experiencia global, cumplimiento de normativas internacionales y soluciones integrales para la cadena de suministro. | Reducción significativa del consumo energético y climatización autónoma de almacenes.                                  | Personalización avanzada, previsión de demanda y compatibilidad con tecnologías como RFID y códigos de barras.      |
-|                   **Perfil Marketing**                   |                                                                                                                                |                                                                                                                             |                                                                                                                            |                                                                                                                         |
-|                        Mercado objetivo                        | Emprendedores en sectores alimentario, textil y manufacturero en Perú.                                                        | Empresas globales en sectores de alimentos, ciencias de la vida, bienes de consumo e industrial.                            | Empresas en sectores logístico, farmacéutico y agroalimentario en España y América Latina.                             | Empresas del sector retail que buscan optimizar la gestión de ventas e inventarios.                                    |
-|                    Estrategias de marketing                    | Enfoque en educación y soporte al cliente, recursos educativos y soporte continuo.                                            | Participación en ferias internacionales, contenido educativo y alianzas estratégicas.                                     | Casos de estudio, contenido técnico y presencia en eventos del sector logístico.                                         | Campañas de marketing digital, webinars y contenido personalizado para el sector retail.                               |
-|                  **Perfil de Producto**                  |                                                                                                                                |                                                                                                                             |                                                                                                                            |                                                                                                                         |
-|                      Productos & Servicios                      | Monitoreo en tiempo real de inventarios, alertas automáticas y optimización de recursos.                                     | Monitores de temperatura, indicadores electrónicos, registradores de datos y soluciones de monitoreo de instalaciones.     | Sensores y registradores de temperatura, humedad y gases, con plataforma de gestión de datos.                             | Automatización de reportes, consolidación de datos de ventas e inventarios, y previsión de demanda.                  |
-|                        Precios & Costos                        | Modelo de suscripción mensual con opciones de alquiler de sensores.                                                           | Precios personalizados según necesidades del cliente y alcance del proyecto.                                               | Inversión inicial con retorno estimado en menos de un año gracias al ahorro energético.                                 | Planes de suscripción adaptados al tamaño y necesidades de la empresa.                                                |
-|        Canales de distribución`<br>` (Web y/o Móvil)        | Plataforma web y aplicación móvil.                                                                                           | Plataforma web con acceso a través de dispositivos móviles.                                                               | Plataforma web con acceso a través de dispositivos móviles.                                                              | Plataforma web con integración a sistemas de punto de venta y dispositivos móviles.                                   |
-|                    **Análisis SWOT**                    |                                                                                                                                |                                                                                                                             |                                                                                                                            |                                                                                                                         |
-|                           Fortalezas                           | Flexibilidad en el modelo de negocio, enfoque en emprendedores y facilidad de uso.                                             | Experiencia global, cumplimiento de normativas y soluciones integrales.                                                     | Eficiencia energética, monitoreo en tiempo real y climatización autónoma.                                               | Personalización, previsión de demanda y compatibilidad tecnológica.                                                  |
-|                           Debilidades                           | Presencia limitada en el mercado internacional                                                                                 | Costos elevados para pequeñas empresas y complejidad en la implementación.                                                | Enfoque limitado a sectores específicos y necesidad de inversión inicial.                                                | Enfoque en el sector retail, lo que puede limitar su aplicabilidad en otros sectores.                                   |
-|                          Oportunidades                          | Expansión a otros mercados de América Latina y desarrollo de nuevas funcionalidades.                                         | Integración con tecnologías emergentes y expansión a nuevos mercados.                                                    | Aplicación en nuevos sectores y desarrollo de nuevas funcionalidades.                                                     | Expansión a otros sectores y mejora continua de la plataforma.                                                         |
-|                            Amenazas                            | Competencia creciente en el mercado de gestión de inventarios y cambios en las regulaciones locales.                          | Competencia de nuevas empresas tecnológicas y cambios en las regulaciones internacionales.                                 | Avances tecnológicos de la competencia y cambios en las regulaciones del sector.                                          | Cambios en las tendencias del retail y aparición de nuevas soluciones tecnológicas.                                   |
+|                        Competidores                        | EasyStock                                                                                                                    | Sensitech                                                                                                                   | Sistema Borea de Torsa                                                                                                    | Bambu B2B                                                                                                               |
+| :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+|                          **Logo**                          | ![LogoEasyStock](./Images/LogoEasyStock.png)                                                                                 | ![LogoSensiTech](./Images/sensitech.png)                                                                                    | ![LogoTorsa](./Images/torsa.png)                                                                                          | ![LogoBambuB2B](./Images/bambub2b.png)                                                                                  |
+|                         **Perfil**                         |
+|                          Overview                          | Startup enfocada en la gestión de inventarios para emprendedores mediante sensores de temperatura y peso.                    | Empresa global especializada en soluciones de visibilidad de la cadena de frío para productos sensibles a la temperatura.   | Sistema de monitoreo continuo de temperatura y humedad para almacenes y transporte, con enfoque en eficiencia energética. | Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real para el sector retail. |
+| Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | Modelo flexible de suscripción y alquiler de sensores, interfaz amigable y enfoque en emprendedores de sectores específicos. | Amplia experiencia global, cumplimiento de normativas internacionales y soluciones integrales para la cadena de suministro. | Reducción significativa del consumo energético y climatización autónoma de almacenes.                                     | Personalización avanzada, previsión de demanda y compatibilidad con tecnologías como RFID y códigos de barras.          |
+|                    **Perfil Marketing**                    |
+|                      Mercado objetivo                      | Emprendedores en sectores alimentario, textil y manufacturero en Perú.                                                       | Empresas globales en sectores de alimentos, ciencias de la vida, bienes de consumo e industrial.                            | Empresas en sectores logístico, farmacéutico y agroalimentario en España y América Latina.                                | Empresas del sector retail que buscan optimizar la gestión de ventas e inventarios.                                     |
+|                  Estrategias de marketing                  | Enfoque en educación y soporte al cliente, recursos educativos y soporte continuo.                                           | Participación en ferias internacionales, contenido educativo y alianzas estratégicas.                                       | Casos de estudio, contenido técnico y presencia en eventos del sector logístico.                                          | Campañas de marketing digital, webinars y contenido personalizado para el sector retail.                                |
+|                   **Perfil de Producto**                   |
+|                   Productos & Servicios                    | Monitoreo en tiempo real de inventarios, alertas automáticas y optimización de recursos.                                     | Monitores de temperatura, indicadores electrónicos, registradores de datos y soluciones de monitoreo de instalaciones.      | Sensores y registradores de temperatura, humedad y gases, con plataforma de gestión de datos.                             | Automatización de reportes, consolidación de datos de ventas e inventarios, y previsión de demanda.                     |
+|                      Precios & Costos                      | Modelo de suscripción mensual con opciones de alquiler de sensores.                                                          | Precios personalizados según necesidades del cliente y alcance del proyecto.                                                | Inversión inicial con retorno estimado en menos de un año gracias al ahorro energético.                                   | Planes de suscripción adaptados al tamaño y necesidades de la empresa.                                                  |
+|        Canales de distribución <br> (Web y/o Móvil)        | Plataforma web y aplicación móvil.                                                                                           | Plataforma web con acceso a través de dispositivos móviles.                                                                 | Plataforma web con acceso a través de dispositivos móviles.                                                               | Plataforma web con integración a sistemas de punto de venta y dispositivos móviles.                                     |
+|                     **Análisis SWOT**                      |
+|                         Fortalezas                         | Flexibilidad en el modelo de negocio, enfoque en emprendedores y facilidad de uso.                                           | Experiencia global, cumplimiento de normativas y soluciones integrales.                                                     | Eficiencia energética, monitoreo en tiempo real y climatización autónoma.                                                 | Personalización, previsión de demanda y compatibilidad tecnológica.                                                     |
+|                        Debilidades                         | Presencia limitada en el mercado internacional                                                                               | Costos elevados para pequeñas empresas y complejidad en la implementación.                                                  | Enfoque limitado a sectores específicos y necesidad de inversión inicial.                                                 | Enfoque en el sector retail, lo que puede limitar su aplicabilidad en otros sectores.                                   |
+|                       Oportunidades                        | Expansión a otros mercados de América Latina y desarrollo de nuevas funcionalidades.                                         | Integración con tecnologías emergentes y expansión a nuevos mercados.                                                       | Aplicación en nuevos sectores y desarrollo de nuevas funcionalidades.                                                     | Expansión a otros sectores y mejora continua de la plataforma.                                                          |
+|                          Amenazas                          | Competencia creciente en el mercado de gestión de inventarios y cambios en las regulaciones locales.                         | Competencia de nuevas empresas tecnológicas y cambios en las regulaciones internacionales.                                  | Avances tecnológicos de la competencia y cambios en las regulaciones del sector.                                          | Cambios en las tendencias del retail y aparición de nuevas soluciones tecnológicas.                                     |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-| **MATRIZ FODA y C.A.M.E**                                                                          | **Oportunidades: Creciente necesidad de digitalización y automatización de inventarios**                                                                                                                 | **Amenazas: Aumento de competidores tecnológicos y cambios en regulación de dispositivos IoT**                                                                                                  |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Fortalezas:** `<br>` Tecnología accesible, modelo por suscripción y enfoque en emprendedores | Potenciar la fidelización mediante un soporte constante y personalizado para evitar la migración a soluciones más complejas o costosas. Resaltar el valor de los sensores físicos como diferenciador único. | Mantener vigilancia activa sobre regulaciones y adaptar los sensores a normativas. Aprovechar la simplicidad de EasyStock para posicionarse como alternativa más fácil frente a soluciones complejas. |
-| **Debilidades:** `<br>` Poca presencia internacional                                             | Intensificar campañas de visibilidad en redes, ferias locales y alianzas con incubadoras para construir reputación y reconocimiento.                                                                           | Mostrar que la solución es adaptable a cualquier sector y escala. Resaltar que no requiere infraestructura costosa como otras opciones del mercado.                                                    |
+| **MATRIZ FODA y C.A.M.E**                                                                    | **Oportunidades: Creciente necesidad de digitalización y automatización de inventarios**                                                                                                                    | **Amenazas: Aumento de competidores tecnológicos y cambios en regulación de dispositivos IoT**                                                                                                        |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fortalezas:** <br> Tecnología accesible, modelo por suscripción y enfoque en emprendedores | Potenciar la fidelización mediante un soporte constante y personalizado para evitar la migración a soluciones más complejas o costosas. Resaltar el valor de los sensores físicos como diferenciador único. | Mantener vigilancia activa sobre regulaciones y adaptar los sensores a normativas. Aprovechar la simplicidad de EasyStock para posicionarse como alternativa más fácil frente a soluciones complejas. |
+| **Debilidades:** <br> Poca presencia internacional                                           | Intensificar campañas de visibilidad en redes, ferias locales y alianzas con incubadoras para construir reputación y reconocimiento.                                                                        | Mostrar que la solución es adaptable a cualquier sector y escala. Resaltar que no requiere infraestructura costosa como otras opciones del mercado.                                                   |
 
 ## 2.2. Entrevistas
 
@@ -380,91 +485,222 @@ Diseñar e implementar una solución digital que facilite la gestión inteligent
 
 #### En esta sección se presentan las preguntas realizadas a los entrevistados, organizadas en tres partes: introducción, preguntas centrales y cierre.
 
-### 1. Introducción
+### Preguntas para el segmento de emprendedores:
 
-#### Aquí es donde se recopila la información clave para validar la problemática y evaluar el interés en una solución como EasyStock.
+- Preguntas de presentación:
 
-1. ¿Podrías contarme brevemente sobre tu emprendimiento y los productos que manejas?
-2. ¿Cuánto tiempo llevas operando con tu emprendimiento?
-3. ¿Cuál es tu rol principal dentro del emprendimiento?
+¿Cuál es su nombre y el nombre de su negocio?
 
----
+¿A qué rubro pertenece su negocio? (Ej. alimentos, moda, ferretería, etc.)
 
-### 2. Preguntas centrales
+¿Cuánto tiempo lleva operando su negocio?
 
-#### Estas preguntas sirven para establecer confianza y comprender el entorno general del emprendimiento.
+¿Cuántas personas trabajan actualmente en su negocio?
 
-4. ¿Qué tipo de insumos o productos suelen almacenar con más frecuencia?
-5. ¿Te apoyas en tecnología para automatizar procesos o prefieres hacerlo todo manualmente?
-6. ¿Cómo gestionas actualmente el inventario de tus productos o insumos?
-7. ¿Qué tan frecuente es que pierdas productos por mal almacenamiento (por ejemplo, por temperatura o caducidad)?
-8. ¿Has tenido dificultades para saber cuándo reponer stock o qué productos ya no están en condiciones óptimas?
-9. ¿Con qué frecuencia realizas controles físicos de tu inventario? ¿Te toma mucho tiempo?
+¿Tiene usted experiencia previa en gestión de inventarios?
 
----
+- Preguntas sobre el inventario:
 
-### 3. Cierre
+¿Qué tipo de inventario maneja su negocio (productos perecibles, tecnología, ropa, herramientas, etc.)?
 
-#### Estas preguntas ayudan a validar la propuesta de valor y entender qué funcionalidades serían más útiles para el usuario.
+¿Cómo realiza actualmente el control de su inventario?
 
-10. ¿Te interesaría tener sensores que te alerten si un alimento o insumo está fuera de su temperatura ideal?
-11. ¿Qué tan útil crees que sería tener un sistema que te notifique automáticamente sobre irregularidades en tus almacenes?
-12. ¿Qué características te parecerían imprescindibles en una herramienta de gestión de inventario como esta?
-13. ¿Qué nivel de dificultad o curva de aprendizaje estarías dispuesto a aceptar para usar una nueva plataforma?
+¿Con qué frecuencia realiza un inventario completo?
+
+¿Utiliza algún software o herramienta digital para la gestión de su inventario? ¿Cuál?
+
+¿Ha tenido pérdidas o problemas por un mal manejo del inventario? ¿Puede darme un ejemplo?
+
+¿Qué aspectos del manejo de inventario le resultan más complicados o molestos?
+
+¿Qué tan importante es para usted tener información actualizada y precisa sobre el inventario?
+
+Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
+
+### Preguntas para el segmento de gestores de inventario:
+
+- Preguntas de presentación:
+
+¿Cuál es su nombre y su rol en el negocio?
+
+¿Desde hace cuánto tiempo trabaja gestionando el inventario?
+
+
+¿Cuántas personas trabajan con usted en el área de inventario?
+
+¿Qué conocimientos o herramientas utiliza en su trabajo diario?
+
+- Preguntas sobre el inventario:
+
+¿Qué tipo de productos o materiales gestiona diariamente?
+
+¿Cómo es el proceso actual para ingresar o retirar productos del inventario?
+
+¿Cuáles son las herramientas (digitales o manuales) que utiliza para gestionar el inventario?
+
+¿Cuáles son los errores más comunes que ocurren al trabajar con el inventario?
+
+¿Qué tan fácil le resulta encontrar un producto específico en el sistema?
+
+¿Cómo se entera de que un producto está por agotarse o vencerse?
+
+¿Considera que el sistema actual le permite trabajar de forma eficiente?
+
+¿Qué mejoras le gustaría implementar en la gestión del inventario?
 
 ### 2.2.2. Registro de entrevistas
 
+# Segmento: Emprendedores que gestionan productos sensibles o grandes volúmenes de inventario
+
 # Entrevista 1 - Bryan Espejo
 
-<img src="/Images/e1.png">
+- Sexo: Masculino
+- Edad: 25 años
+- Empresa: Respostería Familiar
 
-## Conclusion
+![FotoEntrevista](./Images/e1.png)
 
-Bryan tiene una repostería artesanal y gestiona su inventario manualmente,
-lo que le ha causado pérdidas por fallas en refrigeración. Prefiere métodos simples
-y busca una herramienta fácil de usar que le ofrezca alertas, escaneo de productos y reportes. Está dispuesto a aprender si la plataforma le ahorra tiempo y reduce errores.
+- Acerca de la entrevista:
+  **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
 
-**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
+
+- Instante en el que inicia: 0:02
+
+- Duración: 05:30
+
+- Resumen:
+  Bryan tiene una repostería artesanal y gestiona su inventario manualmente,
+  lo que le ha causado pérdidas por fallas en refrigeración. Prefiere métodos simples y busca una herramienta fácil de usar que le ofrezca alertas, escaneo de productos y reportes. Está dispuesto a aprender si la plataforma le ahorra tiempo y reduce errores.
 
 # Entrevista 2 - Joan Teves
 
-<img src="/Images/e2.png">
+- Sexo: Masculino
+- Edad: 23 años
+- Empresa: Textil Familiar
 
-## Conclusion
+![FotoEntrevista](./Images/e2.png)
 
-Joan dirige un taller textil y usa Google Sheets para controlar inventario,
-pero enfrenta pérdidas por desactualización. Busca una herramienta visual y
-fácil de usar que le ofrezca alertas, escaneo, importación de datos e historiales,
-y que incluya soporte como tutoriales.
+- Acerca de la entrevista:
+  **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
 
-**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
+- Instante en el que inicia: 0:05
+
+- Duración: 06:30
+
+- Resumen:
+  Joan dirige un taller textil y usa Google Sheets para controlar inventario,
+  pero enfrenta pérdidas por desactualización. Busca una herramienta visual y
+  fácil de usar que le ofrezca alertas, escaneo, importación de datos e historiales, y que incluya soporte como tutoriales.
 
 # Entrevista 3 - Cyndi Ortega
 
-<img src="/Images/e3.png">
+- Sexo: Femenino
+- Edad: 35 años
+- Empresa: Publicidad y producción
 
-## Conclusion
+![FotoEntrevista](./Images/e3.png)
 
-Cyndi Ortega, con 9 años en publicidad y producción, almacena insumos como acrílico y
-cartón. Usa Excel para el inventario, pero ha tenido problemas de control que afectan
-su productividad. Está interesada en una solución precisa, con sensores que monitoreen
-stock y temperatura para evitar pérdidas.
+- Acerca de la entrevista:
+  **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
 
-**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
+- Instante en el que inicia: 0:12
 
-# Entrevista 3 - Tahily Esparta
+- Duración: 06:30
 
-<img src="/Images/e4.png">
+- Resumen:
+  Cyndi Ortega, con 9 años en publicidad y producción, almacena insumos como acrílico y cartón. Usa Excel para el inventario, pero ha tenido problemas de control que afectan su productividad. Está interesada en una solución precisa, con sensores que monitoreen stock y temperatura para evitar pérdidas.
 
-## Conclusion
+# Entrevista 4 - Tahily Esparta
 
-Tahily Esparta, emprendedora de 21 años en Chorrillos, gestiona un negocio de fiambres y
-enfrenta dificultades con el control manual de inventario, por lo que valora una herramienta
-fácil de usar con alertas automáticas que le ahorre tiempo y reduzca pérdidas por mal almacenamiento.
+- Sexo: Femenino
+- Edad: 21 años
+- Empresa: Fiambres
+
+![FotoEntrevista](./Images/e4.png)
+
+- Acerca de la entrevista:
+  **Link de la entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/personal/u202214214_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214214%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D20%2015%2D59%2D56%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E36ad953e%2Ddf8c%2D426e%2D8784%2D072c8ad3a637)
+
+- Instante en el que inicia: 0:12
+
+- Duración: 05:20
+
+- Resumen:
+  Tahily Esparta, emprendedora de 21 años en Chorrillos, gestiona un negocio de fiambres y enfrenta dificultades con el control manual de inventario, por lo que valora una herramienta fácil de usar con alertas automáticas que le ahorre tiempo y reduzca pérdidas por mal almacenamiento.
+
+# Conclusión:
+
+Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños negocios enfrentan retos significativos al gestionar inventarios con métodos manuales o herramientas limitadas como Excel o Google Sheets. Las pérdidas por errores humanos, desactualización o fallas en almacenamiento son recurrentes, afectando directamente la productividad y las ganancias. Todos coinciden en la necesidad de una solución intuitiva, automatizada y visual que les brinde alertas, escaneo, reportes y soporte práctico. Esto confirma la urgencia de implementar sistemas accesibles y eficientes que se adapten a sus rutinas y reduzcan el margen de error.
+
+
+# Segmento: Personal operativo encargado de monitoreo
+
+
+# Entrevistado 1 - Abel Zamora
+
+- Sexo: Masculino
+- Edad: 21 años
+- Empresa: Familiar Textil
+
+![FotoEntrevista](./Images/entrevista-1-s2.jpg)
+
+- Acerca de la entrevista:
+
+**Link de la entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EQcyJvz2UUdHpGqsAPb3YKEBQjssZjwC2LWSF1hwVoodPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DIZkNI)
+
+- Instante en el que inicia: 0:27
+
+- Duración: 04:28
+
+- Resumen:
+  Abel Zamora, joven de 21 años, reside en Puente Piedra y trabaja en una empresa familiar del rubro textil. Desde 2023 se encarga de gestionar el inventario, utilizando principalmente Excel y guías manuales para registrar entradas y salidas de productos como telas, hilos y botones. Aunque el sistema actual es funcional, es muy manual y presenta problemas como pérdida de datos, errores al registrar cantidades, y ausencia de alertas que les adviertan sobre productos por agotarse. Él considera que una solución digital que automatice el proceso y genere alertas sería ideal para mejorar la eficiencia y evitar pérdidas.
+
+# Entrevistas 2 - Andres Coca
+
+- Sexo: Masculino
+- Edad: 23 años
+- Empresa: LogiPerú SAC
+
+![FotoEntrevista](./Images/entrevista-2-s2.png)
+
+- Acerca de la entrevista:
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/11BaK2QCCwnebB9I00XtXKOJnS45-Nbl6/view?usp=sharing)
+
+- Instante en el que inicia: 00:14
+
+- Duración: 08:14
+
+- Resumen:
+  Andres Coca es un trabajador de la empresa LogiPeru encargado de la gestión de inventarios de la empresa LogiPerú SAC, dónde trabaja con un grupo de 4 personas para la gestión correcta de productos de limpieza y alimenticios. Andres menciona que en su trabajo maneja herramientas básicas de ofimática, programación básica y un gestor de tareas automatizado para una mejor asignación de trabajos. Andres, reconoce que necesita de una plataforma capaz que integrar gráficos estadísticos y que la misma esté disponible en una aplicación mobile para una mayor eficiencia de trabajo.
+
+# Entrevista 3 - Kevin Pacotaipe
+
+- Sexo: Masculino
+- Edad: 22 años
+- Empresa: ColaReal
+
+![FotoEntrevista](./Images/entrevista-3-s2.png)
+
+- Acerca de la entrevista:
+
+**Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1fJfd03m_VvrHGpCbv1Ei6BInT79qTqCg/view?usp=drive_link)
+
+- Instante en el que inicia: 00:15
+
+- Duración: 04:03
+
+- Resumen:
+  Kevin Pacotaipe trabaja en la empresa ColaReal, donde ocupa el puesto de responsable de monitoreo de inventarios y reparto de productos, formando parte de un equipo de cuatro personas dedicadas a las mismas funciones. Actualmente, utiliza herramientas de ofimática para llevar a cabo sus tareas. Sin embargo, Kevin reconoce que, para mejorar la eficiencia operativa, es necesario contar con un sistema que permita monitorear el stock de productos
+  de forma más precisa y automatizada.
+
+# Conclusión:
+
+Los testimonios de los entrevistados reflejan una problemática común en la gestión de inventarios dentro de pequeñas y medianas empresas peruanas: la dependencia de herramientas manuales o básicas, que si bien permiten operar, no son suficientes para garantizar eficiencia, precisión ni control en tiempo real. Las dificultades señaladas como pérdida de datos, errores humanos y falta de alertas automatizadas, evidencian la necesidad urgente de soluciones digitales más robustas. Todos coinciden en que una plataforma moderna, automatizada y accesible (idealmente desde dispositivos móviles) no solo optimizaría sus procesos, sino que también reduciría pérdidas y mejoraría la toma de decisiones. Esto refuerza la importancia de implementar tecnologías como EasyStock para transformar la manera en que se gestionan los inventarios.
 
 ### 2.2.3. Análisis de entrevistas
 
-En general, los emprendedores entrevistados comparten la necesidad de una herramienta de gestión de inventario sencilla, visual y funcional que les permita reducir pérdidas por desorganización o mal almacenamiento, optimizar su tiempo y mejorar el control de productos sensibles; todos están dispuestos a adoptar nuevas tecnologías siempre que cuenten con soporte, alertas automáticas y faciliten su trabajo diario.
+Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados de inventario y los empresarios enfrentan dificultades comunes: registros manuales, falta de alertas, errores frecuentes y pérdidas por mala gestión o almacenamiento inadecuado. Ya sea usando Excel, Google Sheets o herramientas básicas de ofimática, los usuarios reconocen la necesidad de una solución digital que automatice procesos, mejore la precisión y ahorre tiempo. La demanda apunta a plataformas accesibles, visuales y fáciles de usar, que incluyan alertas, reportes, escaneo e incluso soporte móvil. Esta necesidad transversal evidencia una clara oportunidad para desarrollar un sistema integral que se adapte a distintos contextos, niveles de experiencia y tipos de negocio.
 
 ## 2.3. Needfinding
 
@@ -472,73 +708,72 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Luis Gálvez_User Persona.png"></img>
+![User Persona](./Images/Luis%20Gálvez_User%20Persona.png)
 
 ## Segmento Objetivo 2
 
-<img src="./Images/Luis Gómez_User Persona.png"></img>
+![User Persona](./Images/user-persona-s2.jpg)
 
 ### 2.3.2. User Task Matrix
 
 ## Segmento Objetivo 1
 
-<img src="./Images/task matrix 1.PNG"></img>
+![User Task Matrix](./Images/task%20matrix%201.PNG)
 
 ## Segmento Objetivo 2
 
-`<img src="./Images/task matrix 2.PNG"></img>
 
 ### 2.3.3. User Journey Mapping
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Segmento 1 journey map 1.png"></img>
+![User Persona](./Images/Segmento%201%20journey%20map%201.png)
 
 ## Segmento Objetivo 2
 
-<img src="./Images/Segmento 2 journey map 2.png"></img>
+![User Persona](./Images/use-journey-s2.jpg)
 
 ### 2.3.4. Empathy Mapping
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Empathy map segmento 1.png"></img>
+![Empathy Mapping](./Images/Empathy%20map%20segmento%201.png)
 
 ## Segmento Objetivo 2
 
-<img src="./Images/Empathy map segmento 2.png"></img>
+![Empathy Mapping](./Images/empathy-map-s2.jpg)
 
 ### 2.3.5. As-Is Scenario Mapping
 
 ## Segmento Objetivo 1
 
-<img src="./Images/Scenario Mapping Segmento 1.PNG"></img>
+![As-Is Scenario Mapping](./Images/Scenario%20Mapping%20Segmento%201.PNG)
 
 ## Segmento Objetivo 2
 
-<img src="./Images/Scenario Mapping Segmento 2.PNG"></img>
+![As-Is Scenario Mapping](./Images/scenari-s2.jpg)
 
 ## 2.4. Ubiquitous Language
 
 ### En esta sección se muestran los términos y conceptos que se usan usualmente en nustro proyecto.
 
-* **Ítem:** Representa cualquier elemento gestionado en el inventario (alimento, materia prima, producto terminado).
-* **Stock:** La cantidad actual disponible de un Ítem.
-* **Alerta:** Notificación sobre cambios importantes en el stock o condiciones.
-* **Condición:** Atributo relevante de un Ítem (ej. temperatura, peso, fecha de caducidad).
-* **Pedido:** Solicitud para adquirir más Ítems.
-* **Reposición:** Acción de reabastecer el stock de un Ítem.
-* **Entrada:** Registro del aumento de stock de un Ítem.
-* **Salida:** Registro de la disminución de stock de un Ítem.
-* **Proveedor:** Entidad que suministra los Ítems.
-* **Ubicación:** Lugar donde se almacena un Ítem.
-* **Informe:** Resumen de datos relevantes del inventario.
-* **Catálogo:** Lista de todos los Ítems gestionados.
-* **Transacción:** Cualquier movimiento que afecta el stock de un Ítem.
-* **Usuario:** Persona que utiliza EasyStock.
-* **Almacén:** Espacio físico de almacenamiento.
-* **Límite:** Valor establecido para generar alertas (ej. stock mínimo, temperatura máxima).
-* **Unidad:** Medida en la que se gestiona el stock (ej. kg, unidades, metros).
+- **Ítem:** Representa cualquier elemento gestionado en el inventario (alimento, materia prima, producto terminado).
+- **Stock:** La cantidad actual disponible de un Ítem.
+- **Alerta:** Notificación sobre cambios importantes en el stock o condiciones.
+- **Condición:** Atributo relevante de un Ítem (ej. temperatura, peso, fecha de caducidad).
+- **Pedido:** Solicitud para adquirir más Ítems.
+- **Reposición:** Acción de reabastecer el stock de un Ítem.
+- **Entrada:** Registro del aumento de stock de un Ítem.
+- **Salida:** Registro de la disminución de stock de un Ítem.
+- **Proveedor:** Entidad que suministra los Ítems.
+- **Ubicación:** Lugar donde se almacena un Ítem.
+- **Informe:** Resumen de datos relevantes del inventario.
+- **Catálogo:** Lista de todos los Ítems gestionados.
+- **Transacción:** Cualquier movimiento que afecta el stock de un Ítem.
+- **Usuario:** Persona que utiliza EasyStock.
+- **Almacén:** Espacio físico de almacenamiento.
+- **Límite:** Valor establecido para generar alertas (ej. stock mínimo, temperatura máxima).
+- **Unidad:** Medida en la que se gestiona el stock (ej. kg, unidades, metros).
 
 # Capitulo III: Requeriments Specification
 
@@ -562,112 +797,89 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 
 ## 3.2. User Stories
 
-| **Epic 1: Gestión de Inventario**                                                                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** emprendedor<br>**Quiero** gestionar y registrar mi inventario de productos de manera eficiente<br>**Para** tener un control preciso del stock disponible, evitar desabastecimientos y facilitar la toma de decisiones operativas |
+### Epics:
 
-| **ID**     | **Título**                                | **Historia de Usuario**                                                                                                            | **Escenarios de Prueba**                                                                                                                                                                                                                                                          | **Prioridad** |
-| ---------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E1 - US001 | Registro Manual de Producto               | Como gestor, quiero registrar productos manualmente, para tener un control actualizado del inventario.                             | **Escenario 1**: El usuario llena un formulario con nombre, cantidad y categoría del producto. <br> **Escenario 2**: El sistema valida que todos los campos estén completos antes de registrar. <br> **Escenario 3**: Si hay un error (e.g., campo vacío), se muestra un mensaje. | Alta          |
-| E1 - US002 | Importación Masiva de Productos           | Como gestor, quiero importar productos desde un archivo Excel, para ahorrar tiempo en el registro inicial del inventario.          | **Escenario 1**: El usuario sube un archivo Excel con productos. <br> **Escenario 2**: El sistema verifica el formato y procesa los datos. <br> **Escenario 3**: Si el archivo tiene errores, se notifican los errores específicos.                                               | Alta          |
-| E1 - US003 | Escaneo de Productos para Registro Rápido | Como gestor, quiero escanear productos para registrarlos rápidamente en el inventario, para mejorar la eficiencia.                 | **Escenario 1**: El sistema detecta un código QR o código de barras válido. <br> **Escenario 2**: El sistema muestra los datos precargados del producto. <br> **Escenario 3**: Si no se reconoce el código, se muestra un mensaje de error.                                       | Media         |
-| E1 - US004 | Búsqueda de Productos por Nombre o Lote   | Como gestor, quiero buscar productos por nombre o lote, para ubicar rápidamente su información en el sistema. Y asignar productos a estanterías.                     | **Escenario 1**: El usuario escribe parte del nombre o código. <br> **Escenario 2**: El sistema sugiere coincidencias. <br> **Escenario 3**: Si no hay resultados, se notifica al usuario.                                                                                        | Alta          |
-| E1 - US005 | Ajuste Rápido de Stock                    | Como gestor, quiero ajustar manualmente el stock de un producto, para corregir diferencias o actualizar cantidades en tiempo real. | **Escenario 1**: El usuario selecciona un producto y cambia la cantidad. <br> **Escenario 2**: El sistema guarda el cambio y actualiza el historial. <br> **Escenario 3**: Si la cantidad ingresada es inválida (e.g., número negativo), se rechaza la acción con un mensaje.     | Alta          |
+| Epic ID | Título                         | Objetivo                                                                                                                      |
+|-------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| E1     | Gestión de Inventario                  | Como emprendedor, quiero gestionar y registrar mi inventario para tener control preciso del stock y evitar desabastecimientos. |
+| E2     | Monitoreo en Tiempo Real con Sensores  | Como gestor, quiero monitorear condiciones ambientales en tiempo real para prevenir daños por cambios de temperatura/humedad. |
+| E3     | Alertas Automáticas                    | Como propietario, quiero recibir alertas cuando las condiciones no sean óptimas para tomar acciones correctivas inmediatas.     |
+| E4     | Visualización de Datos y Reportes      | Como gerente, quiero acceder a reportes visuales para analizar información y mejorar la gestión del inventario.                |
+| E5     | Sistema de Recomendaciones             | Como propietario, quiero recibir recomendaciones basadas en datos para optimizar espacio y condiciones de almacenamiento.      |
+| E6     | Suscripción y Administración de Planes | Como usuario, quiero gestionar mi suscripción para acceder a funcionalidades adecuadas a mi negocio.                          |
+| E7     | Alquiler de Sensores Físicos           | Como propietario, quiero alquilar sensores para monitorear condiciones sin comprarlos permanentemente.                        |
+| E8     | Gestión de Usuarios y Roles            | Como administrador, quiero gestionar usuarios y roles para controlar accesos y garantizar seguridad.                          |
+| E9     | Desarrollo de Landing Page Inicial            | Como visitante de la plataforma, quiero ver una landing page clara y funcional, para entender rápidamente el propósito del producto, el equipo y los valores, desde cualquier dispositivo.                          |
 
-| **Epic 2: Monitoreo en Tiempo Real con Sensores**                                                                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** gestor de inventario<br>**Quiero** monitorear las condiciones ambientales de mis productos en tiempo real a través de sensores<br>**Para** asegurar que se mantengan en las condiciones óptimas de almacenamiento y prevenir daños por cambios de temperatura, humedad o peso |
 
-| **ID**     | **Título**                               | **Historia de Usuario**                                                                                                                                         | **Escenarios de Prueba**                                                                                                                                                                                                                                                                     | **Prioridad** |
-| ---------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E2 - US006 | Visualización en Tiempo Real de Sensores | Como gestor, quiero ver en tiempo real los datos de los sensores asociados a un producto o lote, para asegurarme de que se mantenga en condiciones óptimas.     | **Escenario 1**: El usuario selecciona un producto y lote desde una lista. <br> **Escenario 2**: El sistema muestra temperatura, humedad o peso en tiempo real. <br> **Escenario 3**: Si un sensor se desconecta, se indica con una alerta visual.                                           | Alta          |
-| E2 - US007 | Asignación de Sensores a Productos       | Como gestor, quiero asignar sensores a productos o ubicaciones específicas, para monitorear sus condiciones correctamente.                                      | **Escenario 1**: El usuario selecciona un sensor disponible y lo vincula a un producto. <br> **Escenario 2**: El sistema confirma la asignación y actualiza el estado del sensor. <br> **Escenario 3**: Si un sensor ya está asignado, no se puede volver a vincular hasta que sea liberado. | Alta          |
-| E2 - US008 | Ver Historial de Condiciones Ambientales | Como gestor, quiero consultar el historial de temperaturas o condiciones de un producto, para asegurar la trazabilidad y verificar cumplimiento de condiciones. | **Escenario 1**: El usuario ingresa el nombre del producto o su lote. <br> **Escenario 2**: El sistema muestra un gráfico con las temperaturas registradas durante los últimos días. <br> **Escenario 3**: El sistema permite descargar el historial en formato CSV o PDF.                   | Alta          |
-| E2 - US009 | Monitoreo por Ubicación                  | Como gestor, quiero visualizar los datos de sensores según la ubicación en el almacén, para facilitar la inspección física y el seguimiento.                    | **Escenario 1**: El usuario elige una zona del almacén desde un mapa o lista. <br> **Escenario 2**: Se muestran los sensores activos en esa ubicación. <br> **Escenario 3**: Si no hay sensores activos, se muestra un aviso.                                                                | Media         |
-| E2 - US010 | Estado de Conectividad de Sensores       | Como propietario, quiero saber si un sensor se encuentra inactivo o desconectado, para poder enviar soporte técnico y evitar pérdidas.                          | **Escenario 1**: El sistema detecta si un sensor deja de enviar datos por cierto tiempo. <br> **Escenario 2**: Se muestra una notificación automática en la plataforma. <br> **Escenario 3**: Se envía una alerta por correo o dentro del dashboard indicando el sensor afectado.            | Alta          |
+### User Stories:
 
-| **Epic 3: Alertas Automáticas de Condiciones Anómalas**                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** propietario<br>**Quiero** recibir alertas automáticas cuando las condiciones de los productos no estén dentro del rango óptimo<br>**Para** poder tomar acciones correctivas de inmediato, evitando posibles pérdidas de productos sensibles y manteniendo la calidad |
-
-| **ID**     | **Título**                                    | **Historia de Usuario**                                                                                                                                             | **Escenarios de Prueba**                                                                                                                                                                                                                                               | **Prioridad** |
-| ---------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E3 - US011 | Generación de Alertas por Temperatura Anómala | Como propietario, quiero recibir alertas automáticas cuando un producto sale del rango de temperatura adecuado, para reaccionar a tiempo y evitar daños.            | **Escenario 1**: Un sensor detecta una temperatura fuera del rango. <br> **Escenario 2**: Se genera automáticamente una alerta visual en el dashboard. <br> **Escenario 3**: Se envía una notificación por correo o dentro de la plataforma.                           | Alta          |
-| E3 - US012 | Configuración de Rangos Permitidos            | Como gestor, quiero poder configurar los rangos óptimos de temperatura, humedad o peso por producto, para que las alertas sean precisas según el tipo de mercancía. | **Escenario 1**: El usuario ingresa el producto y define el rango permitido. <br> **Escenario 2**: El sistema guarda la configuración y la asocia al producto. <br> **Escenario 3**: Se muestran errores si se ingresan valores inválidos.                             | Alta          |
-| E3 - US013 | Notificación de Desconexión de Sensor         | Como propietario, quiero ser notificado si un sensor deja de enviar datos, para poder reemplazarlo o repararlo antes de que afecte la calidad de los productos.     | **Escenario 1**: Un sensor deja de emitir datos por más de X minutos. <br> **Escenario 2**: El sistema detecta la desconexión y genera una alerta. <br> **Escenario 3**: El propietario recibe una notificación automática con el nombre del sensor y su ubicación.    | Alta          |
-| E3 - US014 | Registro de Alertas Emitidas                  | Como gestor, quiero revisar un historial de todas las alertas generadas, para llevar control de los eventos anómalos y su resolución.                               | **Escenario 1**: El usuario accede a un módulo de historial de alertas. <br> **Escenario 2**: Se muestran las alertas filtradas por fecha, producto y tipo. <br> **Escenario 3**: El usuario puede exportar el historial a PDF o Excel.                                | Media         |
-| E3 - US015 | Alerta por Producto Crítico en Stock          | Como propietario, quiero recibir alertas si un producto con condiciones anómalas está en stock crítico, para priorizar su salida o reubicación.                     | **Escenario 1**: El sistema detecta un producto en condiciones anómalas y con stock bajo. <br> **Escenario 2**: Se muestra una alerta de doble prioridad en el dashboard. <br> **Escenario 3**: Se sugiere una acción recomendada, como reubicación o revisión manual. | Media         |
-
-| **Epic 4: Visualización de Datos y Reportes**                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** gerente de almacén<br>**Quiero** acceder a reportes visuales y gráficos detallados sobre las condiciones de los productos y el rendimiento de los sensores<br>**Para** analizar la información de manera fácil y tomar decisiones informadas para mejorar la gestión del inventario |
-
-| **ID**     | **Título**                                        | **Historia de Usuario**                                                                                                                                             | **Escenarios de Prueba**                                                                                                                                                                                                                     | **Prioridad** |
-| ---------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E4 - US016 | Visualización de Temperaturas en Gráfica          | Como gerente de almacén, quiero visualizar las temperaturas registradas por los sensores en una gráfica por hora, para analizar tendencias y prevenir incidentes.   | **Escenario 1**: El usuario selecciona un producto o lote.<br>**Escenario 2**: El sistema muestra una gráfica de temperatura por hora.<br>**Escenario 3**: El gráfico cambia si se modifica la fecha o el sensor seleccionado.               | Alta          |
-| E4 - US017 | Reporte Detallado de Sensores Activos             | Como gerente, quiero ver un reporte con todos los sensores activos, para asegurarme de que están funcionando correctamente.                                         | **Escenario 1**: El usuario accede al módulo de sensores.<br>**Escenario 2**: El sistema muestra una tabla con sensores activos, su ubicación y estado.<br>**Escenario 3**: El usuario puede filtrar por tipo de sensor o zona.              | Alta          |
-| E4 - US018 | Descarga de Reportes en PDF                       | Como gerente, quiero poder descargar los reportes de condiciones ambientales y sensores en formato PDF, para compartirlos con otros equipos o para archivarlos.     | **Escenario 1**: El usuario hace clic en “Descargar Reporte”.<br>**Escenario 2**: El sistema genera el PDF con los datos visibles.<br>**Escenario 3**: El archivo se descarga correctamente con el nombre del producto, fecha y hora.        | Media         |
-| E4 - US019 | Historial de Condiciones Ambientales por Producto | Como gestor, quiero consultar el historial de temperatura, humedad o peso de un producto específico, para asegurarme de que se ha mantenido en condiciones óptimas. | **Escenario 1**: El usuario busca un producto por nombre o lote.<br>**Escenario 2**: El sistema muestra un historial detallado por fecha.<br>**Escenario 3**: El usuario puede cambiar el rango de fechas o exportar los datos.              | Alta          |
-| E4 - US020 | Comparación de Ventas vs Stock                     | Como propietario del negocio, quiero visualizar una tabla que compare las ventas de cada producto con su stock disponible, para identificar qué productos requieren reposición o tienen sobreinventario.        | **Escenario 1**: El sistema muestra una tabla con columnas de producto, unidades vendidas y stock actual.<br>**Escenario 2**: SSe destacan los productos con ventas altas y bajo stock (riesgo de quiebre) o ventas bajas y alto stock (riesgo de sobreinventario).<br>**Escenario 3**: El usuario puede ordenar por cualquiera de las columnas y exportar la tabla en formato Excel o PDF. | Media         |
-
-| **Epic 5: Sistema de Recomendaciones para Optimización**                                                                                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** propietario de un negocio<br>**Quiero** recibir recomendaciones basadas en datos para optimizar el uso del espacio de almacenamiento y las condiciones de mis productos<br>**Para** mejorar la eficiencia operativa y reducir los desperdicios, asegurando la calidad de los productos |
-
-| **ID**     | **Título**                                     | **Historia de Usuario**                                                                                                                                                          | **Escenarios de Prueba**                                                                                                                                                                                                                                           | **Prioridad** |
-| ---------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| E5 - US021 | Recomendaciones de Mejora por Producto         | Como propietario, quiero recibir sugerencias sobre cómo mejorar el almacenamiento de un producto específico, para evitar deterioros y pérdidas.                                  | **Escenario 1**: El sistema analiza el historial ambiental del producto.<br>**Escenario 2**: Se generan recomendaciones basadas en desviaciones frecuentes.<br>**Escenario 3**: Las recomendaciones se muestran en una vista clara dentro del perfil del producto. | Alta          |
-| E5 - US022 | Sugerencias para Optimización de Espacio       | Como gestor, quiero recibir sugerencias de reorganización de productos según su rotación, para aprovechar mejor el espacio disponible en el almacén.                             | **Escenario 1**: El sistema evalúa los productos de alta y baja rotación.<br>**Escenario 2**: Se proponen zonas de almacenamiento más eficientes.<br>**Escenario 3**: El usuario puede aceptar o ignorar las sugerencias.                                          | Media         |
-| E5 - US023 | Alertas de Producto con Baja Rotación          | Como administrador, quiero que el sistema me notifique si un producto lleva mucho tiempo sin moverse del inventario, para tomar acciones correctivas como promociones o cambios. | **Escenario 1**: El sistema identifica productos con baja rotación.<br>**Escenario 2**: Se muestra una alerta o sugerencia para revisar su estrategia.<br>**Escenario 3**: El usuario puede acceder a un resumen del historial de ventas o movimientos.            | Alta          |
-| E5 - US024 | Recomendaciones Basadas en Clima               | Como emprendedor, quiero que el sistema me indique en qué momentos del día es mejor almacenar o mover ciertos productos sensibles, según las condiciones climáticas del almacén. | **Escenario 1**: El sistema revisa datos de temperatura y humedad por hora.<br>**Escenario 2**: Se muestran intervalos óptimos sugeridos para operaciones.<br>**Escenario 3**: El usuario puede activar o desactivar esta función.                                 | Media         |
-| E5 - US025 | Evaluación del Cumplimiento de Recomendaciones | Como propietario, quiero saber si las recomendaciones fueron aplicadas y su impacto, para evaluar si ayudaron a mejorar la conservación del inventario.                          | **Escenario 1**: El sistema guarda cambios realizados tras sugerencias.<br>**Escenario 2**: Se compara el estado ambiental antes y después.<br>**Escenario 3**: Se genera un pequeño resumen de impacto en la calidad del almacenamiento.                          | Media         |
-
-| **Epic 6: Suscripción y Administración de Planes**                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** usuario de la plataforma<br>**Quiero** poder gestionar mi suscripción y planes de servicio<br>**Para** seleccionar el plan que mejor se adapte a mis necesidades, asegurando acceso a las funcionalidades y sensores adecuados para mi negocio |
-
-# Epic 6: Suscripción y Administración de Planes
-
-| **ID**     | **Título**                           | **Historia de Usuario**                                                                                                                              | **Escenarios de Prueba**                                                                                                                                                                                                                    | **Prioridad** |
-| ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E6 - US026 | Selección de Plan de Suscripción     | Como usuario nuevo, quiero poder elegir un plan de suscripción al registrarme, para acceder al nivel de funcionalidades que se ajusten a mi negocio. | **Escenario 1**: Se muestra una lista de planes disponibles al registrarse.<br>**Escenario 2**: Al seleccionar un plan, se registran sus beneficios y límites.<br>**Escenario 3**: El plan queda asociado al usuario.                       | Alta          |
-| E6 - US027 | Cambio de Plan en Cualquier Momento  | Como usuario registrado, quiero poder cambiar de plan cuando lo necesite, para ajustar mis necesidades según el crecimiento de mi emprendimiento.    | **Escenario 1**: El usuario accede a su perfil y selecciona cambiar de plan.<br>**Escenario 2**: El sistema valida si hay una diferencia de precio.<br>**Escenario 3**: El nuevo plan se activa y el anterior queda deshabilitado.          | Alta          |
-| E6 - US028 | Visualización de Beneficios por Plan | Como usuario, quiero ver claramente qué incluye cada plan de suscripción, para elegir el que más me conviene.                                        | **Escenario 1**: Se presenta una tabla comparativa de beneficios por plan.<br>**Escenario 2**: El usuario puede filtrar por tipo de uso (emprendedor, gestor, etc.).<br>**Escenario 3**: Se resalta el plan actual del usuario.             | Media         |
-| E6 - US029 | Renovación Automática del Plan       | Como usuario, quiero que mi plan se renueve automáticamente cada mes/año, para no perder acceso a la plataforma.                                     | **Escenario 1**: El sistema registra la fecha de suscripción inicial.<br>**Escenario 2**: Se ejecuta la renovación al llegar la fecha de vencimiento.<br>**Escenario 3**: Se notifica al usuario antes de la renovación.                    | Media         |
-| E6 - US030 | Cancelación de la Suscripción        | Como usuario, quiero poder cancelar mi plan de suscripción cuando lo desee, para no generar más cargos si ya no necesito el servicio.                | **Escenario 1**: El usuario accede al panel de suscripción.<br>**Escenario 2**: Se muestra un mensaje de confirmación con efectos de la cancelación.<br>**Escenario 3**: El acceso se revoca después del vencimiento del periodo ya pagado. | Alta          |
-
-| **Epic 7: Alquiler y Activación de Sensores Físicos**                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** propietario<br>**Quiero** alquilar y activar sensores físicos para monitorear las condiciones de mis productos<br>**Para** asegurar que mis productos estén siempre bajo condiciones controladas sin tener que invertir en la compra de sensores permanentemente |
-
-| **ID**     | **Título**                                    | **Historia de Usuario**                                                                                                                                                          | **Escenarios de Prueba**                                                                                                                                                                                                                                                                                        | **Prioridad** |
-| ---------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E7 - US031 | Alquiler de Sensores Físicos                  | Como propietario, quiero alquilar sensores físicos para monitorear las condiciones de mis productos, para asegurar que mis productos estén siempre bajo condiciones controladas. | **Escenario 1**: El propietario accede a una lista de sensores disponibles para alquilar.<br>**Escenario 2**: Se selecciona un sensor y se muestra el costo por periodo de alquiler.<br>**Escenario 3**: El sensor es agregado al inventario del usuario y se puede activar desde el panel.                     | Alta          |
-| E7 - US032 | Activación de Sensores en Productos           | Como propietario, quiero poder activar sensores en productos específicos, para iniciar el monitoreo en tiempo real de sus condiciones.                                           | **Escenario 1**: El propietario selecciona un producto en su inventario.<br>**Escenario 2**: Se elige el sensor correspondiente.<br>**Escenario 3**: El sistema muestra que el sensor está activado y empieza a registrar datos en tiempo real.                                                                 | Alta          |
-| E7 - US033 | Monitoreo del Estado de los Sensores          | Como propietario, quiero poder ver el estado de los sensores activados (en funcionamiento o inactivos), para verificar que todos están funcionando correctamente.                | **Escenario 1**: El propietario accede al panel de monitoreo de sensores.<br>**Escenario 2**: Se muestran los sensores activos e inactivos.<br>**Escenario 3**: El sistema notifica si un sensor está fuera de servicio o desactivado.                                                                          | Alta          |
-| E7 - US034 | Registro de Alquiler y Activación de Sensores | Como administrador, quiero que se registre automáticamente el alquiler y activación de sensores en el sistema, para llevar un control de las operaciones realizadas.             | **Escenario 1**: El sistema registra cada alquiler de sensor con fecha y producto asignado.<br>**Escenario 2**: El alquiler y activación quedan reflejados en el historial de la cuenta del propietario.<br>**Escenario 3**: El sistema verifica que el sensor esté activado antes de completar la transacción. | Media         |
-| E7 - US035 | Desactivación y Devolución de Sensores        | Como propietario, quiero poder desactivar y devolver sensores cuando ya no los necesite, para liberar espacio y evitar costos adicionales.                                       | **Escenario 1**: El propietario desactiva un sensor desde el panel de control.<br>**Escenario 2**: Se muestra un mensaje de confirmación de desactivación.<br>**Escenario 3**: El sistema actualiza el estado del sensor como "devuelto" y termina el alquiler.                                                 | Alta          |
-
-| **Epic 8: Gestión de Usuarios y Roles**                                                                                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cómo** administrador de la plataforma<br>**Quiero** gestionar los usuarios y asignarles roles dentro de la plataforma<br>**Para** controlar el acceso a las funcionalidades según las responsabilidades de cada miembro del equipo, garantizando la seguridad y eficiencia en la operación |
-
-| **ID**     | **Título**                             | **Historia de Usuario**                                                                                                                                                 | **Escenarios de Prueba**                                                                                                                                                                                                                                                                 | **Prioridad** |
-| ---------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| E8 - US036 | Creación de Usuarios                   | Como administrador, quiero crear nuevos usuarios en la plataforma, para que otros miembros del equipo puedan acceder y utilizar el sistema según sus roles y permisos.  | **Escenario 1**: El administrador accede al panel de gestión de usuarios.<br>**Escenario 2**: El administrador ingresa los datos del nuevo usuario (nombre, correo, rol).<br>**Escenario 3**: El sistema crea el nuevo usuario y muestra un mensaje de confirmación.                     | Alta          |
-| E8 - US037 | Asignación de Roles a Usuarios         | Como administrador, quiero asignar roles específicos a cada usuario, para definir qué funcionalidades pueden acceder y utilizar dentro de la plataforma.                | **Escenario 1**: El administrador selecciona un usuario existente.<br>**Escenario 2**: El administrador asigna un rol (por ejemplo, gestor, propietario, administrador).<br>**Escenario 3**: El sistema guarda los cambios y muestra un mensaje de confirmación.                         | Alta          |
-| E8 - US038 | Edición de Usuarios y Roles            | Como administrador, quiero poder editar los datos y roles de los usuarios existentes, para hacer ajustes según sea necesario en la asignación de permisos.              | **Escenario 1**: El administrador selecciona un usuario a editar.<br>**Escenario 2**: El administrador cambia el rol o datos del usuario.<br>**Escenario 3**: El sistema guarda y actualiza los cambios y muestra un mensaje de confirmación.                                            | Media         |
-| E8 - US039 | Desactivación de Usuarios              | Como administrador, quiero desactivar usuarios que ya no necesiten acceso a la plataforma, para mantener la seguridad y controlar el acceso a la información.           | **Escenario 1**: El administrador selecciona un usuario a desactivar.<br>**Escenario 2**: El administrador confirma la desactivación del usuario.<br>**Escenario 3**: El sistema desactiva el acceso del usuario y muestra un mensaje de confirmación.                                   | Alta          |
-| E8 - US040 | Visualización de Actividad de Usuarios | Como administrador, quiero ver un registro de las actividades de los usuarios, para hacer un seguimiento de sus acciones y garantizar el uso correcto de la plataforma. | **Escenario 1**: El administrador accede al historial de actividad de usuarios.<br>**Escenario 2**: Se muestran las acciones realizadas por los usuarios (inicio de sesión, cambios de datos, etc.).<br>**Escenario 3**: El sistema permite filtrar las actividades por fecha y usuario. | Media         |
+| **ID**     | **Título**                                | **Historia de Usuario**                                                                                                            | **Criterios de Aceptación**                                                                                                                                                                                                                                                          | 
+| ---------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| **E1 - US001** | Registro Manual de Producto        | Como gestor, quiero registrar productos manualmente para tener un control actualizado.  | **Escenario 1:**<br>**Dado** que el usuario accede al formulario de registro<br>**Cuando** ingresa: nombre "Harina 000", cantidad "50", categoría "Insumos"<br>**Entonces** el sistema guarda el producto y muestra "Registro exitoso".<br><br>**Escenario 2:**<br>**Dado** un formulario con campo "nombre" vacío<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra "Complete todos los campos requeridos". |
+| **E1 - US002** | Importación Masiva de Productos   | Como gestor, quiero importar productos desde Excel para ahorrar tiempo.                | **Escenario 1:**<br>**Dado** un archivo Excel con 100 productos (columnas: código, nombre, stock)<br>**Cuando** sube el archivo<br>**Entonces** el sistema muestra "100 productos importados correctamente".<br><br>**Escenario 2:**<br>**Dado** un archivo .txt en lugar de .xlsx<br>**Cuando** intenta importar<br>**Entonces** el sistema muestra "Formato no soportado: use plantilla Excel". |
+| **E1 - US003** | Escaneo de Productos              | Como gestor, quiero escanear productos para registrarlos rápidamente.                  | **Escenario 1:**<br>**Dado** un código QR válido asociado a "Aceite de Oliva 1L"<br>**Cuando** escanea el código<br>**Entonces** el sistema autocompleta: nombre "Aceite de Oliva", capacidad "1L", categoría "Aceites".<br><br>**Escenario 2:**<br>**Dado** un código dañado no legible<br>**Cuando** intenta escanear<br>**Entonces** el sistema muestra "Código no reconocido: registre manualmente". |
+| **E1 - US004** | Búsqueda de Productos             | Como gestor, quiero buscar productos por nombre/lote para ubicarlos rápido.            | **Escenario 1:**<br>**Dado** 3 productos que contienen "azúcar" en su nombre<br>**Cuando** busca "azu"<br>**Entonces** el sistema muestra sugerencias: "Azúcar rubia", "Azúcar blanca", "Azúcar orgánica".<br><br>**Escenario 2:**<br>**Dado** un lote "LOTE-2024-ABC" inexistente<br>**Cuando** busca este lote<br>**Entonces** el sistema muestra "0 resultados: verifique el código". |
+| **E1 - US005** | Ajuste Rápido de Stock            | Como gestor, quiero ajustar stock para corregir diferencias.                          | **Escenario 1:**<br>**Dado** un producto con stock actual 100 unidades<br>**Cuando** cambia a 120 unidades y guarda<br>**Entonces** el sistema actualiza el stock y registra "Ajuste +20 unidades".<br><br>**Escenario 2:**<br>**Dado** un campo de stock vacío<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra "Ingrese un valor numérico válido". |
+| **E2 - US006** | Visualización en Tiempo Real de Sensores | Como gestor, quiero ver datos de sensores en tiempo real para asegurar condiciones óptimas. | **Escenario 1:**<br>**Dado** un producto "Leche Fresca" (lote: LF-2024-001)<br>**Cuando** el usuario selecciona el lote en el dashboard<br>**Entonces** el sistema muestra: temperatura 4°C, humedad 70%, actualizado hace 5 segundos.<br><br>**Escenario 2:**<br>**Dado** un sensor desconectado por 15 minutos<br>**Cuando** el usuario consulta el dashboard<br>**Entonces** el sistema muestra un icono rojo parpadeante y "Última conexión: 14:30". |
+| **E2 - US007** | Asignación de Sensores a Productos | Como gestor, quiero asignar sensores para monitorear condiciones específicas. | **Escenario 1:**<br>**Dado** un sensor disponible (ID: SENS-045)<br>**Cuando** lo asigna al producto "Queso Madurado"<br>**Entonces** el sistema actualiza su estado a "Vinculado" y registra la hora de asignación.<br><br>**Escenario 2:**<br>**Dado** un sensor ya asignado a "Jamón Ibérico"<br>**Cuando** intenta reasignarlo a otro producto<br>**Entonces** el sistema muestra "Sensor ocupado: libere primero". |
+| **E2 - US008** | Ver Historial de Condiciones Ambientales | Como gestor, quiero consultar historial ambiental para verificar cumplimiento. | **Escenario 1:**<br>**Dado** un producto almacenado por 30 días<br>**Cuando** selecciona "Ver historial"<br>**Entonces** el sistema muestra gráfico de temperaturas con picos máximos/mínimos diarios.<br><br>**Escenario 2:**<br>**Dado** un rango de fechas (01/01 a 15/01/2024)<br>**Cuando** exporta a CSV<br>**Entonces** el archivo contiene 360 registros horarios (15 días × 24 horas). |
+| **E2 - US009** | Monitoreo por Ubicación | Como gestor, quiero visualizar sensores por zona para facilitar inspecciones. | **Escenario 1:**<br>**Dado** el almacén dividido en zona A/B/C<br>**Cuando** selecciona "Zona B" en el mapa interactivo<br>**Entonces** el sistema lista 3 sensores activos con última medición hace <1 minuto.<br><br>**Escenario 2:**<br>**Dado** una zona sin sensores asignados<br>**Cuando** consulta esa área<br>**Entonces** el sistema muestra "Ningún sensor activo: considere instalación". |
+| **E2 - US010** | Estado de Conectividad de Sensores | Como propietario, quiero detectar sensores inactivos para evitar pérdidas. | **Escenario 1:**<br>**Dado** un sensor sin comunicación por 2 horas<br>**Cuando** se genera alerta automática<br>**Entonces** el sistema: (1) Notifica en dashboard, (2) Envía SMS al técnico, (3) Registra incidencia.<br><br>**Escenario 2:**<br>**Dado** un sensor recuperado tras falla<br>**Cuando** reanuda transmisión<br>**Entonces** el sistema actualiza estado a "Activo" y envía confirmación por email. |
+| **E3 - US011** | Generación de Alertas por Temperatura Anómala | Como propietario, quiero alertas automáticas para prevenir daños por temperatura inadecuada. | **Escenario 1:**<br>**Dado** un producto "Yogur Griego" con rango configurado (2°C a 6°C)<br>**Cuando** el sensor reporta 8°C por 15 minutos<br>**Entonces** el sistema: (1) Activa alerta roja en dashboard, (2) Envía email a "alerta@empresa.com", (3) Registra evento en historial.<br><br>**Escenario 2:**<br>**Dado** temperatura vuelve a rango seguro (5°C)<br>**Cuando** se actualizan los datos<br>**Entonces** la alerta cambia a estado "Resuelta" automáticamente. |
+| **E3 - US012** | Configuración de Rangos Permitidos | Como gestor, quiero definir parámetros precisos para cada producto. | **Escenario 1:**<br>**Dado** el producto "Salmón Ahumado"<br>**Cuando** se configuran: temp. (-2°C a +4°C), humedad (80-85%)<br>**Entonces** el sistema guarda los valores y los aplica a futuras mediciones.<br><br>**Escenario 2:**<br>**Dado** un intento de ingresar humedad al 120%<br>**Cuando** se guarda la configuración<br>**Entonces** el sistema muestra "Error: rango de humedad inválido (máx 95%)". |
+| **E3 - US013** | Notificación de Desconexión de Sensor | Como propietario, quiero detectar fallas en sensores para mantener la calidad. | **Escenario 1:**<br>**Dado** un sensor en "Cámara 3" sin comunicación por 45 minutos<br>**Cuando** se supera el umbral de 30 minutos<br>**Entonces** el sistema: (1) Notifica por SMS al técnico, (2) Marca zona como "Riesgo", (3) Genera ticket de soporte automático.<br><br>**Escenario 2:**<br>**Dado** un sensor recupera conexión<br>**Cuando** envía nuevos datos<br>**Entonces** el sistema actualiza estado a "Estable" y notifica por email. |
+| **E3 - US014** | Registro de Alertas Emitidas | Como gestor, quiero auditar eventos críticos para mejorar procesos. | **Escenario 1:**<br>**Dado** 15 alertas generadas en la última semana<br>**Cuando** se filtra por "Tipo: Temperatura"<br>**Entonces** el sistema muestra 8 registros con detalles: producto, hora, valor medido.<br><br>**Escenario 2:**<br>**Dado** un reporte seleccionado<br>**Cuando** se exporta a Excel<br>**Entonces** el archivo contiene columnas: Fecha, Hora, Sensor, Valor, Acción Tomada. |
+| **E3 - US015** | Alerta por Producto Crítico en Stock | Como propietario, quiero priorizar acciones sobre productos en riesgo. | **Escenario 1:**<br>**Dado** "Queso Brie" con: stock=5 unidades (mínimo=10) y temp=10°C (máx=8°C)<br>**Cuando** se detecta la condición<br>**Entonces** el sistema: (1) Muestra alerta "URGENTE" en rojo, (2) Sugiere "Retirar inmediatamente", (3) Bloquea nuevas ventas.<br><br>**Escenario 2:**<br>**Dado** stock crítico pero condiciones óptimas<br>**Cuando** se verifica el producto<br>**Entonces** el sistema solo muestra alerta amarilla "Reponer stock". |
+| **E4 - US016** | Visualización de Temperaturas en Gráfica | Como gerente, quiero analizar tendencias térmicas para prevenir incidentes. | **Escenario 1:**<br>**Dado** el producto "Helado de Vainilla" (lote: HV-0724)<br>**Cuando** selecciona "Últimas 24 horas" en el filtro<br>**Entonces** el sistema muestra una gráfica lineal con picos de -18°C a -15°C y promedia -16.5°C.<br><br>**Escenario 2:**<br>**Dado** un sensor sin datos históricos<br>**Cuando** intenta generar la gráfica<br>**Entonces** el sistema muestra "No hay datos disponibles para este periodo". |
+| **E4 - US017** | Reporte Detallado de Sensores Activos | Como gerente, quiero verificar el estado operativo de los sensores. | **Escenario 1:**<br>**Dado** 15 sensores instalados (12 activos, 3 inactivos)<br>**Cuando** filtra por "Estado: Activo"<br>**Entonces** el sistema lista los 12 sensores con: ID, ubicación exacta y última medición hace <2 minutos.<br><br>**Escenario 2:**<br>**Dado** una zona sin sensores asignados<br>**Cuando** aplica filtro por "Zona: Congelados"<br>**Entonces** el sistema muestra "0 sensores registrados en esta área". |
+| **E4 - US018** | Descarga de Reportes en PDF | Como gerente, quiero compartir reportes técnicos formalmente. | **Escenario 1:**<br>**Dado** un reporte de 30 páginas generado<br>**Cuando** descarga en PDF<br>**Entonces** el archivo incluye: logo corporativo, tabla de contenidos, y datos en formato A4 (210x297mm).<br><br>**Escenario 2:**<br>**Dado** un error de generación de PDF<br>**Cuando** falla la descarga<br>**Entonces** el sistema muestra "Error: intente nuevamente en 5 minutos" y registra el incidente. |
+| **E4 - US019** | Historial Ambiental por Producto | Como gestor, quiero auditar condiciones de almacenamiento históricas. | **Escenario 1:**<br>**Dado** "Salmón Noruego" almacenado por 90 días<br>**Cuando** exporta historial a CSV<br>**Entonces** el archivo contiene 2,160 registros (1 por hora) con columnas: Fecha, Hora, Temp(°C), Humedad(%).<br><br>**Escenario 2:**<br>**Dado** un rango de fechas inválido (15/07/2024 a 01/07/2024)<br>**Cuando** intenta consultar<br>**Entonces** el sistema muestra "Rango temporal no válido: la fecha final debe ser posterior a la inicial". |
+| **E4 - US020** | Comparación Ventas vs Stock | Como propietario, quiero optimizar mi inventario basado en demanda. | **Escenario 1:**<br>**Dado** "Atún en Lata" con: stock=500 unidades, ventas=1,200 unidades/mes<br>**Cuando** genera el reporte<br>**Entonces** el sistema: (1) Destaca en rojo "Déficit: -700 unidades", (2) Sugiere "Aumentar producción al 150%".<br><br>**Escenario 2:**<br>**Dado** "Galletas Integrales" con stock=300 unidades y ventas=50 unidades/mes<br>**Cuando** ordena por "Sobreinventario"<br>**Entonces** el sistema muestra este producto primero con alerta amarilla "Reducir compras en 80%". |
+| **E5 - US021** | Recomendaciones de Mejora por Producto | Como propietario, quiero optimizar el almacenamiento para reducir pérdidas. | **Escenario 1:**<br>**Dado** "Chocolate Negro" con 5 desviaciones de temperatura (>25°C) en 7 días<br>**Cuando** el sistema analiza su historial<br>**Entonces** recomienda: "Almacenar en zona refrigerada (18-20°C) y evitar exposición solar".<br><br>**Escenario 2:**<br>**Dado** un producto sin desviaciones registradas<br>**Cuando** se consultan recomendaciones<br>**Entonces** el sistema muestra "Condiciones óptimas: mantener protocolo actual". |
+| **E5 - US022** | Sugerencias para Optimización de Espacio | Como gestor, quiero reorganizar el almacén según demanda. | **Escenario 1:**<br>**Dado** "Café Molido" (rotación alta: 200 uds/semana) en zona remota<br>**Cuando** el sistema evalúa patrones<br>**Entonces** sugiere: "Reubicar cerca del área de despacho para reducir tiempos de picking".<br><br>**Escenario 2:**<br>**Dado** "Té Verde" (rotación baja: 10 uds/mes)<br>**Cuando** se ignoran las sugerencias<br>**Entonces** el sistema registra "Recomendación pendiente" y notifica cada 15 días. |
+| **E5 - US023** | Alertas de Producto con Baja Rotación | Como administrador, quiero actuar sobre stock estancado. | **Escenario 1:**<br>**Dado** "Mermelada de Arándano" sin ventas en 60 días<br>**Cuando** se activa la alerta<br>**Entonces** el sistema propone: "Paquete promocional 2x1 o donación a comedores".<br><br>**Escenario 2:**<br>**Dado** un producto con rotación recuperada<br>**Cuando** se revisa el historial<br>**Entonces** el sistema muestra gráfico de ventas post-promoción (+300% en 2 semanas). |
+| **E5 - US024** | Recomendaciones Basadas en Clima | Como emprendedor, quiero programar operaciones en horarios óptimos. | **Escenario 1:**<br>**Dado** picos de humedad >80% entre 14:00-16:00<br>**Cuando** se consultan horarios sugeridos<br>**Entonces** el sistema recomienda: "Mover productos secos antes de las 11:00".<br><br>**Escenario 2:**<br>**Dado** la función desactivada<br>**Cuando** se intenta usar<br>**Entonces** el sistema muestra "Habilite esta opción en Configuración > Alertas Inteligentes". |
+| **E5 - US025** | Evaluación de Cumplimiento de Recomendaciones | Como propietario, quiero medir el impacto de las mejoras. | **Escenario 1:**<br>**Dado** la reubicación de "Queso Azul" a zona más fría<br>**Cuando** se comparan datos (antes/después)<br>**Entonces** el sistema muestra: "Reducción del 70% en variaciones térmicas".<br><br>**Escenario 2:**<br>**Dado** una recomendación no implementada<br>**Cuando** se evalúa su impacto potencial<br>**Entonces** el sistema proyecta: "Ahorro estimado de $1,200/mes si se aplica". |
+| **E6 - US026** | Selección de Plan de Suscripción    | Como usuario nuevo, quiero elegir un plan que se ajuste a mi negocio.                  | **Escenario 1:**<br>**Dado** un usuario en registro inicial<br>**Cuando** accede a "Planes Disponibles"<br>**Entonces** el sistema muestra 3 opciones: Básico (10 sensores), Profesional (50 sensores), Empresa (ilimitado).<br><br>**Escenario 2:**<br>**Dado** la selección del plan "Profesional"<br>**Cuando** completa el pago<br>**Entonces** el sistema habilita 50 sensores y envía confirmación por email. |
+| **E6 - US027** | Cambio de Plan en Cualquier Momento | Como usuario registrado, quiero actualizar mi plan según necesidades.                 | **Escenario 1:**<br>**Dado** un usuario con plan "Básico" activo<br>**Cuando** actualiza a "Empresa"<br>**Entonces** el sistema: (1) Calcula prorrateo ($120 diferencia), (2) Emite factura proforma, (3) Habilita sensores ilimitados en 2h.<br><br>**Escenario 2:**<br>**Dado** un downgrade de plan<br>**Cuando** excede los límites del nuevo plan<br>**Entonces** el sistema notifica "Desactive 15 sensores antes del cambio". |
+| **E6 - US028** | Visualización de Beneficios por Plan | Como usuario, quiero comparar planes para tomar decisiones informadas.               | **Escenario 1:**<br>**Dado** un emprendedor de alimentos<br>**Cuando** filtra por "Recomendado para sector alimentario"<br>**Entonces** el sistema resalta el plan "Profesional" con: monitoreo 24/7 y alertas FDA.<br><br>**Escenario 2:**<br>**Dado** un usuario con plan "Empresa"<br>**Cuando** consulta beneficios<br>**Entonces** el sistema muestra en verde "VIP: Soporte prioritario 24/7". |
+| **E6 - US029** | Renovación Automática del Plan       | Como usuario, quiero continuidad de servicio sin interrupciones.                     | **Escenario 1:**<br>**Dado** una suscripción mensual con tarjeta válida<br>**Cuando** llega el día 30 del mes<br>**Entonces** el sistema: (1) Cobra $99, (2) Envía recibo PDF, (3) Mantiene acceso ininterrumpido.<br><br>**Escenario 2:**<br>**Dado** un pago rechazado<br>**Cuando** falla la renovación<br>**Entonces** el sistema: (1) Notifica por SMS/email, (2) Da 3 días de gracia, (3) Suspende acceso tras 72h. |
+| **E6 - US030** | Cancelación de la Suscripción        | Como usuario, quiero dejar de usar el servicio sin cargos recurrentes.               | **Escenario 1:**<br>**Dado** un usuario que pagó hasta el 15/07<br>**Cuando** cancela el 10/07<br>**Entonces** el sistema: (1) Permite uso hasta 15/07, (2) Elimina datos el 16/07, (3) Envía encuesta de retiro.<br><br>**Escenario 2:**<br>**Dado** una cancelación durante periodo gratuito<br>**Cuando** confirma la acción<br>**Entonces** el sistema revoca acceso inmediatamente y elimina datos en 24h. |
+| **E7 - US031** | Alquiler de Sensores Físicos       | Como propietario, quiero alquilar sensores para garantizar condiciones controladas.     | **Escenario 1:**<br>**Dado** un catálogo con 3 tipos de sensores (Temperatura, Humedad, GPS)<br>**Cuando** selecciona "Sensor GPS Trimble TDC100" a $15/día<br>**Entonces** el sistema: (1) Reserva el sensor, (2) Genera contrato digital, (3) Programa envío en 24h.<br><br>**Escenario 2:**<br>**Dado** un sensor agotado en stock<br>**Cuando** intenta alquilar<br>**Entonces** el sistema muestra "Disponible a partir del 20/08" y opción de pre-reserva. |
+| **E7 - US032** | Activación de Sensores en Productos | Como propietario, quiero vincular sensores a productos para monitoreo preciso.         | **Escenario 1:**<br>**Dado** el producto "Caviar Ruso" y sensor "TERMO-007" alquilado<br>**Cuando** asigna el sensor al producto<br>**Entonces** el sistema: (1) Muestra "Activado", (2) Inicia transmisión cada 30 segundos, (3) Bloquea reasignación por 24h.<br><br>**Escenario 2:**<br>**Dado** un sensor no configurado<br>**Cuando** intenta activarlo<br>**Entonces** el sistema muestra "Complete calibración primero (Guía paso a paso)". |
+| **E7 - US033** | Monitoreo del Estado de Sensores    | Como propietario, quiero verificar el funcionamiento de los sensores en tiempo real.    | **Escenario 1:**<br>**Dado** 10 sensores activos y 2 inactivos<br>**Cuando** filtra por "Estado: Crítico"<br>**Entonces** el sistema lista: "SENS-022: Batería 5%", "SENS-045: Sin señal 2h".<br><br>**Escenario 2:**<br>**Dado** un sensor en modo mantenimiento<br>**Cuando** consulta su estado<br>**Entonces** el sistema muestra "En calibración: disponible el 15/08 a las 14:00". |
+| **E7 - US034** | Registro de Alquiler y Activación   | Como administrador, quiero auditar el uso de sensores.                                | **Escenario 1:**<br>**Dado** un alquiler de 5 sensores el 01/08<br>**Cuando** consulta el historial<br>**Entonces** el sistema muestra: usuario, fechas, costos ($75), y productos asociados.<br><br>**Escenario 2:**<br>**Dado** un sensor no activado dentro de 72h<br>**Cuando** revisa registros<br>**Entonces** el sistema notifica "Alerta: sensor inactivo - costo mínimo $10 aplicado". |
+| **E7 - US035** | Desactivación y Devolución         | Como propietario, quiero gestionar sensores obsoletos para optimizar costos.          | **Escenario 1:**<br>**Dado** un sensor con 2 días restantes de alquiler<br>**Cuando** solicita devolución anticipada<br>**Entonces** el sistema: (1) Calcula reembolso proporcional ($20), (2) Genera etiqueta de retorno, (3) Desactiva monitoreo en 1h.<br><br>**Escenario 2:**<br>**Dado** una devolución con daño físico<br>**Cuando** el técnico verifica<br>**Entonces** el sistema aplica cargo de $50 y actualiza estado a "Requiere reparación". |
+| **E8 - US036** | Creación de Usuarios               | Como administrador, quiero agregar nuevos usuarios para gestionar accesos.             | **Escenario 1:**<br>**Dado** un rol "Supervisor" predefinido<br>**Cuando** crea un usuario con: nombre "Ana López", correo "ana@empresa.com", rol "Supervisor"<br>**Entonces** el sistema: (1) Envía email de activación, (2) Genera contraseña temporal, (3) Registra en bitácora.<br><br>**Escenario 2:**<br>**Dado** un correo duplicado "juan@empresa.com"<br>**Cuando** intenta guardar<br>**Entonces** el sistema muestra "Error: correo ya registrado". |
+| **E8 - US037** | Asignación de Roles a Usuarios     | Como administrador, quiero controlar permisos mediante roles específicos.              | **Escenario 1:**<br>**Dado** el usuario "Pedro Méndez" sin roles asignados<br>**Cuando** se le asigna "Gestor de Almacén"<br>**Entonces** el sistema: (1) Habilita módulos de inventario, (2) Restringe ajustes financieros, (3) Notifica por email.<br><br>**Escenario 2:**<br>**Dado** un rol eliminado "Auditor Externo"<br>**Cuando** intenta asignarlo<br>**Entonces** el sistema muestra "Rol no disponible: contacte al soporte". |
+| **E8 - US038** | Edición de Usuarios y Roles        | Como administrador, quiero actualizar información de usuarios para mantener datos actualizados. | **Escenario 1:**<br>**Dado** un usuario con teléfono "+51 999888777"<br>**Cuando** actualiza a "+51 987654321"<br>**Entonces** el sistema: (1) Valida el formato, (2) Solicita confirmación vía SMS, (3) Registra el cambio.<br><br>**Escenario 2:**<br>**Dado** un intento de eliminar al único administrador<br>**Cuando** guarda los cambios<br>**Entonces** el sistema bloquea la acción y muestra "Se requiere al menos un administrador activo". |
+| **E8 - US039** | Desactivación de Usuarios          | Como administrador, quiero revocar accesos innecesarios para proteger datos sensibles. | **Escenario 1:**<br>**Dado** un usuario despedido "Carlos Ruiz"<br>**Cuando** desactiva su cuenta<br>**Entonces** el sistema: (1) Cierra sesiones activas, (2) Encripta sus datos, (3) Notifica al equipo de seguridad.<br><br>**Escenario 2:**<br>**Dado** un usuario desactivado que intenta ingresar<br>**Cuando** usa sus credenciales<br>**Entonces** el sistema muestra "Cuenta suspendida: contacte al administrador". |
+| **E8 - US040** | Visualización de Actividad de Usuarios | Como administrador, quiero auditar acciones críticas para garantizar cumplimiento. | **Escenario 1:**<br>**Dado** 500 registros de actividad<br>**Cuando** filtra por "Usuario: María" y "Acción: Eliminación"<br>**Entonces** el sistema muestra 3 eventos con detalles: fecha, hora y IP de origen.<br><br>**Escenario 2:**<br>**Dado** una exportación de registros<br>**Cuando** selecciona formato CSV<br>**Entonces** el archivo incluye columnas: Timestamp (UTC), Usuario, Acción, Impacto. |
+| **E11 - US041** | Diseño Responsive de la Landing Page | Como visitante, quiero que la landing page se adapte a cualquier dispositivo, para tener una experiencia fluida desde PC, tablet o celular. | **Escenario 1:**<br>**Dado** que ingreso desde un celular<br>**Cuando** accedo a la página principal<br>**Entonces** todos los elementos se adaptan al ancho y se ven correctamente.<br><br>**Escenario 2:**<br>**Dado** que ingreso desde una laptop<br>**Cuando** visualizo la landing page<br>**Entonces** los textos, imágenes y secciones están bien distribuidos sin desbordamientos. |
+| **E11 - US042** | Sección de Información del Producto | Como visitante, quiero ver una breve descripción del producto, para entender qué problema resuelve y cómo me beneficia. | **Escenario 1:**<br>**Dado** que estoy en la landing page<br>**Cuando** hago scroll hasta la sección de producto<br>**Entonces** veo un texto claro con su función, características clave y beneficios.<br><br>**Escenario 2:**<br>**Dado** que reviso el contenido<br>**Cuando** hago clic en "Conocer más"<br>**Entonces** soy dirigido a una sección con más detalles o un enlace externo si aplica. |
+| **E11 - US043** | Sección "Conócenos" del Equipo | Como visitante, quiero conocer quiénes desarrollan el producto, para confiar en su profesionalismo y propósito. | **Escenario 1:**<br>**Dado** que estoy en la landing page<br>**Cuando** llego a la sección del equipo<br>**Entonces** veo nombres, roles y una breve descripción de cada miembro.<br><br>**Escenario 2:**<br>**Dado** que hay varios integrantes<br>**Cuando** la pantalla es pequeña<br>**Entonces** las tarjetas del equipo se adaptan a una vista en columna. |
+| **E11 - US044** | Sección de Valores del Proyecto | Como visitante, quiero ver los valores y principios detrás del proyecto, para saber si me identifico con su misión. | **Escenario 1:**<br>**Dado** que estoy explorando la landing<br>**Cuando** llego a la sección de valores<br>**Entonces** se muestran 3 a 5 valores con íconos y frases cortas.<br><br>**Escenario 2:**<br>**Dado** que hago clic en un valor<br>**Cuando** se despliega información<br>**Entonces** puedo leer más sobre cómo se aplica ese valor en el producto. |
+| **E11 - US045** | Botón de Ingreso al Sistema con Menú Navegable | Como visitante, quiero tener un botón que me lleve al sistema y un menú que me permita navegar entre secciones, para acceder rápidamente a lo que necesito. | **Escenario 1:**<br>**Dado** que estoy en la parte superior de la landing<br>**Cuando** hago clic en "Ingresar"<br>**Entonces** soy redirigido al frontend funcional del sistema.<br><br>**Escenario 2:**<br>**Dado** que veo el menú de navegación<br>**Cuando** hago clic en "Producto", "Equipo" o "Valores"<br>**Entonces** la vista se desplaza suavemente a la sección correspondiente. |
+| **E1 - TS001** | Escaneo de Código QR desde la Cámara | Como usuario del sistema, quiero escanear el código QR de un producto usando la cámara del dispositivo, para registrar su trazabilidad de forma rápida y automática. | **Escenario 1:**<br>**Dado** que estoy en la pantalla de escaneo<br>**Cuando** permito el acceso a la cámara y escaneo un QR válido<br>**Entonces** se registra el producto escaneado en el sistema.<br><br>**Escenario 2:**<br>**Dado** que estoy en la pantalla de escaneo<br>**Cuando** el código QR no es válido<br>**Entonces** se muestra un mensaje de error indicando que no se pudo identificar el producto.<br><br>**Escenario 3:**<br>**Dado** que el navegador no permite acceder a la cámara<br>**Cuando** intento escanear un producto<br>**Entonces** se muestra una advertencia con instrucciones para habilitar el permiso. |
+| **E2 - TS002** | Visualización de Productos Escaneados | Como usuario, quiero ver un listado con los productos que han sido escaneados, para poder verificar su información rápidamente. | **Escenario 1:**<br>**Dado** que ya he escaneado productos<br>**Cuando** ingreso a la pantalla de productos escaneados<br>**Entonces** veo una tabla con el nombre, fecha de escaneo y temperatura actual.<br><br>**Escenario 2:**<br>**Dado** que no hay productos escaneados<br>**Cuando** ingreso a la pantalla<br>**Entonces** veo un mensaje indicando que aún no hay productos registrados. |
+| **E3 - TS003** | Visualización de la Trazabilidad de un Producto | Como usuario, quiero ver el historial completo de temperatura y ubicación de un producto, para asegurarme de que se ha almacenado correctamente. | **Escenario 1:**<br>**Dado** que selecciono un producto en el listado<br>**Cuando** hago clic en el botón "Ver Trazabilidad"<br>**Entonces** se muestra una línea de tiempo con eventos de ubicación y temperatura.<br><br>**Escenario 2:**<br>**Dado** que el producto no tiene registros de trazabilidad<br>**Cuando** intento ver su historial<br>**Entonces** se muestra un mensaje indicando que no hay datos disponibles aún. |
+| **E4 - TS004** | Formulario para Agregar Productos Manualmente | Como usuario del sistema, quiero llenar un formulario con los datos del producto, para poder registrar nuevos productos sin depender de archivos ni escáneres. | **Escenario 1:**<br>**Dado** que estoy en la pantalla de "Agregar Producto"<br>**Cuando** completo todos los campos requeridos<br>**Entonces** el botón "Guardar" se habilita y se guarda el producto correctamente.<br><br>**Escenario 2:**<br>**Dado** que dejo campos vacíos o ingreso datos inválidos<br>**Cuando** intento guardar el formulario<br>**Entonces** se muestra un mensaje de error indicando qué debe corregirse.<br><br>**Escenario 3:**<br>**Dado** que se ha guardado un producto<br>**Cuando** regreso a la lista de productos<br>**Entonces** puedo ver el nuevo producto agregado al final de la lista. |
+| **E5 - TS005** | Alerta de Temperatura fuera de Rango | Como usuario, quiero recibir una alerta visual si un producto supera su rango de temperatura, para tomar acciones rápidamente y evitar riesgos. | **Escenario 1:**<br>**Dado** que estoy viendo el listado de productos<br>**Cuando** uno de ellos supera su temperatura permitida<br>**Entonces** se muestra un ícono de advertencia o cambio de color.<br><br>**Escenario 2:**<br>**Dado** que todos los productos están en rangos normales<br>**Cuando** ingreso a la pantalla<br>**Entonces** no se muestran alertas. |
+| **E6 - TS006** | Filtro por Categoría de Producto | Como usuario, quiero filtrar los productos por categoría, para encontrar rápidamente los productos que necesito revisar. | **Escenario 1:**<br>**Dado** que tengo múltiples productos registrados<br>**Cuando** selecciono una categoría del filtro<br>**Entonces** solo se muestran los productos correspondientes.<br><br>**Escenario 2:**<br>**Dado** que no hay productos en una categoría<br>**Cuando** la selecciono<br>**Entonces** se muestra un mensaje de "No hay productos en esta categoría". |
+| **E7 - TS007** | Integración con Datos Simulados de Sensores | Como desarrollador, quiero conectar el sistema con datos simulados de sensores, para probar el comportamiento del sistema sin hardware real. | **Escenario 1:**<br>**Dado** que el sistema está en modo simulación<br>**Cuando** visualizo la trazabilidad<br>**Entonces** se muestran datos generados de temperatura y ubicación.<br><br>**Escenario 2:**<br>**Dado** que apago la simulación<br>**Cuando** vuelvo a consultar los productos<br>**Entonces** los valores simulados dejan de actualizarse. |
+| **E8 - TS008** | Exportar Trazabilidad a PDF | Como usuario, quiero exportar el historial de trazabilidad de un producto a PDF, para poder compartirlo o archivarlo. | **Escenario 1:**<br>**Dado** que estoy viendo la trazabilidad de un producto<br>**Cuando** hago clic en "Exportar PDF"<br>**Entonces** se descarga un archivo con los datos del producto.<br><br>**Escenario 2:**<br>**Dado** que el producto no tiene datos<br>**Cuando** intento exportar<br>**Entonces** se muestra un mensaje de advertencia que indica que no hay contenido para exportar. |
+| **E9 - TS009** | Indicador de Estado del Producto | Como usuario, quiero ver un estado general del producto (óptimo / riesgo / crítico), para evaluar rápidamente su condición. | **Escenario 1:**<br>**Dado** que el producto tiene temperaturas normales<br>**Cuando** veo su estado<br>**Entonces** aparece como "Óptimo".<br><br>**Escenario 2:**<br>**Dado** que el producto ha estado fuera de su rango varias veces<br>**Cuando** consulto su estado<br>**Entonces** aparece como "Crítico" o "Riesgo", según la gravedad. |
+| **E10 - TS010** | Responsive Design para Móviles | Como usuario con celular, quiero que la aplicación se adapte bien a pantallas pequeñas, para poder usar todas las funciones desde cualquier dispositivo. | **Escenario 1:**<br>**Dado** que ingreso desde un dispositivo móvil<br>**Cuando** navego entre pantallas<br>**Entonces** todos los elementos se adaptan sin desbordarse.<br><br>**Escenario 2:**<br>**Dado** que uso la cámara o el formulario desde un celular<br>**Cuando** interactúo con los controles<br>**Entonces** la experiencia es fluida y los botones son accesibles. |
 
 ## 3.3. Impact Mapping
 
-### Propietarios:
-<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/impactPropietario.png?raw=true" style="width: 100%;"/>
+### Segmento 1:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/Segmento%201.png?raw=true" style="width: 100%;"/>
 
-### Gestores:
+### Segmento 2:
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/impactPropietario.png?raw=true" style="width: 100%;"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/requirements-specification/Images/Segmento%202%20(1).png?raw=true" style="width: 100%;"/>
 
 ## 3.4. Product Backlog
 
@@ -713,6 +925,11 @@ En general, los emprendedores entrevistados comparten la necesidad de una herram
 | 38    | E8 - US038    | Edición de Usuarios y Roles                    | Como administrador, quiero editar datos y roles de usuarios, para hacer ajustes en permisos.                              | 1            |
 | 39    | E8 - US039    | Desactivación de Usuarios                      | Como administrador, quiero desactivar usuarios que no necesiten acceso, para mayor seguridad.                             | 2            |
 | 40    | E8 - US040    | Visualización de Actividad de Usuarios         | Como administrador, quiero ver un historial de acciones de los usuarios, para garantizar el uso correcto.                 | 2            |
+| 41     | E9 - US041     | Diseño Responsive de la Landing Page          | Como visitante, quiero que la landing page se adapte a cualquier dispositivo, para tener una experiencia fluida.         | 5            |
+| 42     | E9 - US042     | Sección de Información del Producto           | Como visitante, quiero ver una breve descripción del producto, para entender qué problema resuelve y cómo me beneficia.  | 3            |
+| 43     | E9 - US045     | Botón de Ingreso al Sistema con Menú Navegable| Como visitante, quiero tener un botón que me lleve al sistema y un menú para navegar entre secciones.                    | 5            |
+| 44     | E9 - US043     | Sección "Conócenos" del Equipo                | Como visitante, quiero conocer quiénes desarrollan el producto, para confiar en su profesionalismo y propósito.          | 3            |
+| 45     | E9 - US044     | Sección de Valores del Proyecto               | Como visitante, quiero ver los valores y principios detrás del proyecto, para saber si me identifico con su misión.      | 3            |
 
 # Capítulo IV: Product Design
 
@@ -774,6 +991,7 @@ Los colores y espacios están pensados para reducir la fatiga visual, mientras q
 ![alt text](Images/PatronZ.jpg)
 
 ## 4.2. Information Architecture
+
 
 A lo largo de esta sección, se expondrán los criterios y fundamentos que respaldan la forma en que se estructura el contenido en las versiones web y móvil de EasyStock, incluyendo tanto la página principal como la aplicación. La propuesta busca garantizar una experiencia de navegación clara y sencilla, permitiendo que los usuarios localicen de manera rápida y eficiente la información y las herramientas disponibles.
 
@@ -1277,9 +1495,9 @@ En la próxima sección, se presentará el sprint #1 con la primera versión del
 
 | Sprint #                                                                       | Date                         | Time                | Location               | Prepared By                      | Attendees                                                                                                                                                    |
 | :----------------------------------------------------------------------------- | :--------------------------- | :------------------ | :--------------------- | :------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                                                                              | 10/04/2025                   | 7:00 pm             | Reunión mediante Meet | Alvarado De La Cruz, Juan Carlos | `<p>`Barrientos Quispe, Marcelo . `</p><p>`Rioja Nuñez, Franco Diego.`</p><p>`Nakasone Gomes, Marco.`</p><p>`Rivera Ticllacuri, Omar Harold`</p>` |
+| 1                                                                              | 10/04/2025                   | 7:00 pm             | Reunión mediante Meet | Alvarado De La Cruz, Juan Carlos | <p> Barrientos Quispe, Marcelo . </p><p>Rioja Nuñez, Franco Diego.</p><p>Nakasone Gomes, Marco.</p><p>Rivera Ticllacuri, Omar Harold</p>|
 | Sprint 1 Goal                                                                  | Sprint 1 Velocity            | Sum of Story Points |                        |                                  |                                                                                                                                                              |
-| Elaborar y diseñar el landing page informativa para la aplicación EasyStock. | `<p>`18`</p><p>``</p>` | 18                  |                        |                                  |                                                                                                                                                              |
+| Elaborar y diseñar el landing page informativa para la aplicación EasyStock. | <p>18</p> | 18                  |                        |                                  |                                                                                                                                                              |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1327,25 +1545,103 @@ Esta sección reúne la documentación de los servicios que gestionan la vincula
 
 También se incluyen endpoints que permiten acceder a valoraciones y recomendaciones emitidas por marcas que han trabajado con dichos influencers.
 
-<img src="./Images/service for sprints, este era.png"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/service%20for%20sprints,%20este%20era.png?raw=true"/>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Utilizando la funcionalidad de GitHub Pages, llevamos a cabo el proceso de despliegue del sitio web correspondiente a este Sprint. Para ello, accedimos a la configuración del repositorio y completamos los campos requeridos por la plataforma.
 
-<img src="./Images/despliegue 1.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/despliegue%201.png?raw=true">
 
 ## Pagina Desplegada
 
-<img src="./Images/despliegue 2.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/despliegue%202.png?raw=true">
 
 link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-PRE-202501-1ASI0729-4350-Rurasqay-landing-page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<img src="./Images/service for sprints.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/service%20for%20sprints.png?raw=true">
 
-<img src="./Images/insight.png"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insight.png?raw=true"/>
+
+
+## 5.2.2. Sprint 2
+### 5.2.2.1.Sprint Planning 2.
+
+En la siguiente sección se presenta el sprint #2, centrado en la implementación de la aplicación WebResponsive de EasyStock, donde se integraron funcionalidades clave priorizadas de las épicas principales, como la gestión de productos, sensores y sistema de alertas.
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+| :- | :- | :- | :- | :- | :- |
+|2|24/04/2025|6:30 pm|Reunión mediante Meet|Alvarado De La Cruz, Juan Carlos|<p>Barrientos Quispe, Marcelo.</p><p>Nakasone Gomes, Marco.</p><p>Franco Diego.</p><p>Rivera Ticllacuri, Omar Harold</p><p>Alvarado De La Cruz, Juan Carlos</p>|
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points||||
+|Desarrollar la aplicación WebResponsive con funcionalidades clave: agregar/editar productos, visualización de sensores y activación de alertas.|<p>25</p>|25||||
+
+### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3. Sprint Backlog 2
+
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra página web.|4|Barrientos Quispe, Marcelo|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Rioja Nuñez, Franco|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Rivera Ticllacuri, Omar Harold|Done|
+|Sprint #||Sprint 2||||||
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US03|Aplicación WebResponsive con funcionalidades clave|UT04|Desarrollo base de la app responsive|Estructura inicial de la app con soporte responsive y navegación general.|6|Equipo completo|Done|
+|US04|Gestión de productos|UT05|Agregar productos|Permitir a los usuarios agregar productos con nombre, precio y descripción.|4|Marco Nakasone|Done|
+|US04|Gestión de productos|UT06|Editar productos|Funcionalidad para modificar información de productos existentes.|4|Marco Nakasone|Done|
+|US04|Gestión de productos|UT07|Detalle de producto|Visualizar los detalles individuales de cada producto.|3|Marco Nakasone|Done|
+|US05|Alertas del sistema|UT08|Activación de alertas|Módulo para activar alertas ante eventos relevantes del sistema.|3|Marcelo Barrientos Quispe|Done|
+|US06|Gestión de sensores|UT09|Asignar sensor|Funcionalidad para asociar sensores a ubicaciones o productos.|5|Diego Franco|Done|
+|US06|Gestión de sensores|UT10|Vista de sensores|Vista que permite visualizar los sensores activos y sus datos.|4|Juan Alvarado|Done|
+
+#### 5.2.2.4. Development Evidence for Sprint 2 Review
+Evidencia del desarrollo mediante commits:
+Commits de la rama inventory:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-inventory.PNG?raw=true"/>
+
+Commits de la rama master:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-master.PNG?raw=true"/>
+
+Commits de la rama products-sensors-view:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-products.PNG?raw=true"/>
+
+Commits de la rama sensors-view:
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/project-report/Images/commits-sensors.PNG?raw=true"/>
+
+#### 5.2.2.5. Execution Evidence for Sprint 2 Review
+
+Durante este sprint se logró desplegar exitosamente el frontend de la aplicación web EasyStock, incorporando las funcionalidades esenciales priorizadas. Entre las principales características implementadas se encuentran: el registro y edición de productos, la visualización de la lista completa de productos, la vista detallada de sensores disponibles, así como la asignación de sensores a productos específicos. Además, se incluyó el módulo de gestión del producto por parte del rol correspondiente y el sistema de alertas activas, permitiendo una supervisión eficiente del estado de los productos almacenados. Estas funcionalidades representan un avance significativo en el desarrollo del sistema, alineándose con los objetivos establecidos en las épicas clave del proyecto.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/addproduct.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/editproduct.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/productDetails.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/sensors%20view.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/asignar%20sensores.jpg?raw=true"/>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
+Durante el segundo Sprint, se continuó con el desarrollo y documentación de los servicios que forman parte de la lógica de negocio de la plataforma. Se detallaron nuevos endpoints orientados a facilitar la interacción entre usuarios emprendedores y las funcionalidades de monitoreo. Entre estos, se incluyeron servicios que permiten consultar información ambiental histórica, gestionar suscripciones, y visualizar recomendaciones generadas por el sistema.
+
+La documentación de estos servicios describe los métodos disponibles, los parámetros necesarios y las respuestas esperadas en cada uno. Además, se definieron rutas seguras mediante autenticación para garantizar el acceso autorizado a los datos. Esta documentación fue elaborada en paralelo con las pruebas funcionales para validar la integridad de los servicios implementados, asegurando su correcto funcionamiento dentro del entorno de pruebas del proyecto.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
+Para el Sprint 2, se realizó el despliegue actualizado del sitio web utilizando nuevamente GitHub Pages. Se integraron las nuevas funcionalidades desarrolladas durante el sprint, como mejoras visuales y la incorporación de formularios dinámicos. El despliegue consistió en realizar un push desde la rama principal (main) hacia la configuración activa de GitHub Pages dentro del repositorio del equipo.
+
+El proceso incluyó la validación del sitio en navegadores modernos y dispositivos móviles, comprobando que las nuevas secciones fueran accesibles y operativas. Se verificó también el rendimiento y la velocidad de carga tras el despliegue. Finalmente, el equipo validó la visibilidad del nuevo contenido a través del enlace público generado por GitHub Pages, confirmando el éxito del despliegue y su disponibilidad para pruebas y retroalimentación.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint 2
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insights1.png?raw=true"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insigths2.png?raw=true"/>
+
+front:
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insightsfront.png?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-implementation/Images/insightsfront2.png?raw=true">
 
 # Conclusiones
 
@@ -1372,5 +1668,13 @@ link de la pagina: https://upc-pre-202501-1asi0729-4350-rurasqay.github.io/UPC-P
 ## Video About-the-Team
 
 ## Bibliografía
+
+1. Cámara de Comercio de Lima. (2022). *Estudio sobre eficiencia logística en almacenes peruanos*. Recuperado de https://www.camaralima.org.pe
+
+2. Ministerio de Comercio Exterior y Turismo del Perú (MINCETUR). (2022). *Informe de desempeño de las pymes exportadoras*. Recuperado de https://www.gob.pe/mincetur
+
+3. Ministerio de la Producción del Perú (Produce). (2023). *Diagnóstico de capacidades digitales en mypes manufactureras*. Recuperado de https://www.gob.pe/produce
+
+4. PricewaterhouseCoopers (PwC). (2023). *Encuesta sobre transformación digital en empresas peruanas*. Recuperado de https://www.pwc.com/pe/es/publicaciones.html
 
 ## Anexos
