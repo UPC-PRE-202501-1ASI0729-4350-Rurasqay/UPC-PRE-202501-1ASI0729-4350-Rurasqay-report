@@ -37,9 +37,20 @@
 
 | Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
 |---------|------------|---------------------------------|--------------------------------------------------------------------------------|
-|0.0    | 02/04/2025 |  Grupo 3|   Creación del documento                             |
-|   | 04/04/2025 |        |                            |
-|   | 04/04/2025 |     |                         |
+|0.0    | 02/04/2025 |   Marco Nakasone|   Creación del documento                             |
+|   0.1| 04/04/2025 |        |                            |
+|   0.2| 06/04/2025 |   Marco Nakasone  |     Creación de las branches                    |
+|   0.3| 07/04/2025 |   Marco Nakasone  |     Avance del Capitulo 3 en feature/requirement-specification                   |
+|   0.4| 04/04/2025 |     |                         |
+|   0.5| 04/04/2025 |     |                         |
+|   0.6| 14/04/2025 |   Marco Nakasone  |    Finalizción del Capitulo 3 en feature/requirement-specification                       |
+|   0.7| 04/04/2025 |     |                         |
+|   0.8| 04/04/2025 |     |                         |
+|   0.9| 24/04/2025 |   Grupo 3  |               Finalización del Capitulo 5          |
+|   1.0| 04/04/2025 |     |                         |
+|   1.1| 04/04/2025 |     |                         |
+|   1.2| 04/04/2025 |     |                         |
+
 
 </center>
 
