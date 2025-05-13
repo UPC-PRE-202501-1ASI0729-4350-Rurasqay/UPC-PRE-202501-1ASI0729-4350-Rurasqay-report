@@ -491,7 +491,7 @@ Los testimonios de los entrevistados reflejan una problemática común en la ges
 
 ### 2.2.3. Análisis de entrevistas
 
-En general, los emprendedores entrevistados comparten la necesidad de una herramienta de gestión de inventario sencilla, visual y funcional que les permita reducir pérdidas por desorganización o mal almacenamiento, optimizar su tiempo y mejorar el control de productos sensibles; todos están dispuestos a adoptar nuevas tecnologías siempre que cuenten con soporte, alertas automáticas y faciliten su trabajo diario.
+Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados de inventario y los empresarios enfrentan dificultades comunes: registros manuales, falta de alertas, errores frecuentes y pérdidas por mala gestión o almacenamiento inadecuado. Ya sea usando Excel, Google Sheets o herramientas básicas de ofimática, los usuarios reconocen la necesidad de una solución digital que automatice procesos, mejore la precisión y ahorre tiempo. La demanda apunta a plataformas accesibles, visuales y fáciles de usar, que incluyan alertas, reportes, escaneo e incluso soporte móvil. Esta necesidad transversal evidencia una clara oportunidad para desarrollar un sistema integral que se adapte a distintos contextos, niveles de experiencia y tipos de negocio.
 
 ## 2.3. Needfinding 
 
