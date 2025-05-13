@@ -182,8 +182,8 @@ Landing Page:
 
 | Criterio Especifico                                                    | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br><br> **Marco Nakasone:** <br> **TP1:** <br> Durante la entrega parcial me encargue de corregir el capitulo 3, agregando las epics, las technical stories, los impact mapping en UXpressia y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. Tambien me encargue implementar las funcionalidades de agregar, editar y enlistar los productos. <br> <br> **Omar Rivera:**<br>**TB1:**<br> Durante el desarrollo del proyecto, me enfoqué en el Capítulo 4, contribuyendo activamente en el product design, especialmente en la creación y estructura de la Landing Page, así como en los elementos visuales que garantizan una experiencia coherente y atractiva para el usuario.<br> <br> **Juan Carlos Alvarado:** <br> **TB1:** <br> Participé activamente en las presentaciones del equipo, explicando la problemática identificada a partir de los segmentos objetivo y las entrevistas. Me encargué de comunicar con claridad el enfoque de EasyStock y sus beneficios para distintos perfiles de emprendedores. Esto me ayudó a reforzar mis habilidades para comunicar ideas técnicas a audiencias no técnicas. <br> <br> **Marcelo Barrientos Quispe:** <br> **TB1:** <br> Durante la primera entrega me encargue del C4 model, el data base diagram, class diagram que son necesarias para el funcionamiento del producto a realizar.<br> <br> **Franco Diego Rioja Nuñez:** <br> **TB1:** <br> Durante esta entrega me encargue de hacer el Capitulo 2 en el cual analicé a la competencia y vi las posibles oportunidades contra ellos.                                                                                              | TB1: el equipo demostró un enfoque integral combinando estrategia, diseño, análisis técnico y comunicación efectiva, lo que permitió sentar las <br>bases sólidas para el desarrollo de EasyStock como una solución viable y centrada en las necesidades reales de los emprendedores.                                                          |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:**<br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos. <br> **Marco Nakasone:** <br> **TP1:**<br> Durante esta entrega pude llevar a cabo la implementación de algunas funcionalidades importantes para nuestra aplicación web, tales colo las de añadir producto, editar producto y enlistar los productos.<br>**Omar Rivera:** <br> **TB1:** <br> En el Capítulo 4, me encargué del diseño UI, incluyendo la elaboración de las Style Guidelines y la estructura visual de la Landing Page. Mi trabajo se centró en brindar una experiencia clara, intuitiva y estéticamente cuidada para los usuarios de la aplicación web.<br><br>**Juan Carlos Alvarado:** <br> **TB1:** <br> Me encargué de redactar el Capítulo I del informe, incluyendo la descripción de la startup, antecedentes y problemática, análisis 5W2H, Lean UX Process y Lean UX Canvas. También elaboré respuestas realistas basadas en user stories para entrevistas simuladas. Esto me permitió aplicar una comunicación escrita técnica y estructurada, manteniendo claridad para lectores con o sin experiencia técnica. <br> <br> **Marcelo Barrientos Quispe:** <br> **TB1:** <br> En el transcurso de la entrega me enfoque en un desarrollo estructurado y organizado para tenerlo como base necesaria para el proyecto siendo esta la guía básica para realizar con la cual guiarnos y avanzar dicho proyecto <br> <br> **Franco Diego Rioja Nuñez:**<br> **TB1:** <br> Durante esta entrega me encargue de la revisión de las entrevistas de las personas relacionadas con el segmento objetivo y ver cuales son nuestras debilidades y usar el feedback de los entrevistados para poder seguir progresando. | Tb1: El equipo combinó investigación profunda, diseño centrado en el usuario y una sólida base estructural,<br>permitiendo construir una propuesta coherente y alineada con las necesidades reales del segmento objetivo,<br> a través de un trabajo colaborativo que integra análisis, diseño, redacción técnica y validación continua. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | <br> **Marco Nakasone:** <br> **TB1:** <br> Durante la primera entrega me encargue de hacer una parte del capítulo 3, agregando las epics, las user stories, los impact mapping y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. <br><br> **Marco Nakasone:** <br> **TP1:** <br> Durante la entrega parcial me encargue de corregir el capitulo 3, agregando las epics, las technical stories, los impact mapping en UXpressia y el product backlog, pude obtener más conocimiento de como se puede hacer bien un impact mapping, y a la vez como poder integrar las historias de usuario en un proyecto. Tambien me encargue implementar las funcionalidades de agregar, editar y enlistar los productos. <br> <br> **Omar Rivera:**<br>**TB1:**<br> Durante el desarrollo del proyecto, me enfoqué en el Capítulo 4, contribuyendo activamente en el product design, especialmente en la creación y estructura de la Landing Page, así como en los elementos visuales que garantizan una experiencia coherente y atractiva para el usuario.<br> <br> **Juan Carlos Alvarado:** <br> **TB1:** <br> Participé activamente en las presentaciones del equipo, explicando la problemática identificada a partir de los segmentos objetivo y las entrevistas. Me encargué de comunicar con claridad el enfoque de EasyStock y sus beneficios para distintos perfiles de emprendedores. Esto me ayudó a reforzar mis habilidades para comunicar ideas técnicas a audiencias no técnicas. <br> <br> **Marcelo Barrientos:** <br> **TB1:** <br> Durante la primera entrega me encargue del C4 model, el data base diagram, class diagram que son necesarias para el funcionamiento del producto a realizar.<br><br> **Marcelo Barrientos:** <br> **TP1** <br> Hice correcciones en el capítulo 1 tomando en cuenta los comentarios del profesor para tener una información más detallada de nuestro producto y  ayude con la elaboración del capítulo 2 agregando entrevistas. <br> <br> **Franco Diego Rioja Nuñez:** <br> **TB1:** <br> Durante esta entrega me encargue de hacer el Capitulo 2 en el cual analicé a la competencia y vi las posibles oportunidades contra ellos. <br> <br> **Franco Diego Rioja Nuñez:** <br> **TB1:** <br> Para esta entrega me encargue de la corrección de errores del capítulo 2, también cambie de datos por un cambio de los segmentos objetivos y agregue un pco de información y bibliografía en el capitulo 1.                                                                                                            | TB1: el equipo demostró un enfoque integral combinando estrategia, diseño, análisis técnico y comunicación efectiva, lo que permitió sentar las <br>bases sólidas para el desarrollo de EasyStock como una solución viable y centrada en las necesidades reales de los emprendedores.                                                          |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | <br> **Marco Nakasone:** <br> **TB1:**<br> Durante la primera entrega pude crear las historias de usuario, basandome en entrevistas e informacion recopilada con respecto a nuestro proyecto, aquí pude aprender mejor sobre lo que necesitan nuestros usuarios objetivos. <br> **Marco Nakasone:** <br> **TP1:**<br> Durante esta entrega pude llevar a cabo la implementación de algunas funcionalidades importantes para nuestra aplicación web, tales colo las de añadir producto, editar producto y enlistar los productos.<br>**Omar Rivera:** <br> **TB1:** <br> En el Capítulo 4, me encargué del diseño UI, incluyendo la elaboración de las Style Guidelines y la estructura visual de la Landing Page. Mi trabajo se centró en brindar una experiencia clara, intuitiva y estéticamente cuidada para los usuarios de la aplicación web.<br><br>**Juan Carlos Alvarado:** <br> **TB1:** <br> Me encargué de redactar el Capítulo I del informe, incluyendo la descripción de la startup, antecedentes y problemática, análisis 5W2H, Lean UX Process y Lean UX Canvas. También elaboré respuestas realistas basadas en user stories para entrevistas simuladas. Esto me permitió aplicar una comunicación escrita técnica y estructurada, manteniendo claridad para lectores con o sin experiencia técnica. <br> <br> **Marcelo Barrientos Quispe:** <br> **TB1:** <br> En el transcurso de la entrega me enfoque en un desarrollo estructurado y organizado para tenerlo como base necesaria para el proyecto siendo esta la guía básica para realizar con la cual guiarnos y avanzar dicho proyecto <br> <br> **Franco Diego Rioja Nuñez:**<br> **TB1:** <br> Durante esta entrega me encargue de la revisión de las entrevistas de las personas relacionadas con el segmento objetivo y ver cuales son nuestras debilidades y usar el feedback de los entrevistados para poder seguir progresando. | Tb1: El equipo combinó investigación profunda, diseño centrado en el usuario y una sólida base estructural,<br>permitiendo construir una propuesta coherente y alineada con las necesidades reales del segmento objetivo,<br> a través de un trabajo colaborativo que integra análisis, diseño, redacción técnica y validación continua. <br><br> **Marcelo Barrientos:** <br> **TP1** <br> Hice una parte del frontend al realizar los apartados de gestor producto, alertas activas. <br> <br> **Franco Diego Rioja Nuñez:** <br> **TB1:** <br> Durante esta entrega me encargue de hacer el Capitulo 2 en el cual analicé a la competencia y vi las posibles oportunidades contra ellos. <br> <br> **Franco Diego Rioja Nuñez:** <br> **TB1:** <br> Tomé en cuenta los comentarios del docente y hice cambios en algunos de los diagramas del DDD para que estén acordes a las buenas prácticas. También aporte en una parte de la elaboración del frontend. |
 
 # Capítulo I: Introduccion
 
@@ -455,7 +455,7 @@ El 48% de las empresas peruanas considera que la automatización de inventarios 
 
 |                        Competidores                        | EasyStock                                                                                                                    | Sensitech                                                                                                                   | Sistema Borea de Torsa                                                                                                    | Bambu B2B                                                                                                               |
 | :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-|                          **Logo**                          | ![LogoEasyStock](./Images/LogoEasyStock.png)                                                                                 | ![LogoSensiTech](./Images/sensitech.png)                                                                                    | ![LogoTorsa](./Images/torsa.png)                                                                                          | ![LogoBambuB2B](./Images/bambub2b.png)                                                                                  |
+|                          **Logo**                          | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/LogoEasyStock.png?raw=true" width="300px"/>                                                                                 | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/sensitech.png?raw=true" width="300px"/>                                                                                    | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/torsa.png?raw=true" width="300px"/>                                                                                              | <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/bambub2b.png?raw=true" width="300px"/>                                                                                 |
 |                         **Perfil**                         |
 |                          Overview                          | Startup enfocada en la gestión de inventarios para emprendedores mediante sensores de temperatura y peso.                    | Empresa global especializada en soluciones de visibilidad de la cadena de frío para productos sensibles a la temperatura.   | Sistema de monitoreo continuo de temperatura y humedad para almacenes y transporte, con enfoque en eficiencia energética. | Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real para el sector retail. |
 | Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | Modelo flexible de suscripción y alquiler de sensores, interfaz amigable y enfoque en emprendedores de sectores específicos. | Amplia experiencia global, cumplimiento de normativas internacionales y soluciones integrales para la cadena de suministro. | Reducción significativa del consumo energético y climatización autónoma de almacenes.                                     | Personalización avanzada, previsión de demanda y compatibilidad con tecnologías como RFID y códigos de barras.          |
@@ -558,7 +558,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 25 años
 - Empresa: Respostería Familiar
 
-![FotoEntrevista](./Images/e1.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e1.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1r0G4PQULNXFDnoZZ9ryi-GXQiYMPuc3Z/viewusp=sharing)
@@ -578,7 +578,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 23 años
 - Empresa: Textil Familiar
 
-![FotoEntrevista](./Images/e2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e2.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1HRAXXt7-R5y4nMqztPJnCtutI_7U9AkR/view)
@@ -598,7 +598,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 35 años
 - Empresa: Publicidad y producción
 
-![FotoEntrevista](./Images/e3.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e3.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://drive.google.com/file/d/1oL1nUDNqsp6ycozSXOkDyd19I8mG3GSU/view?usp=sharing)
@@ -616,7 +616,7 @@ Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
 - Edad: 21 años
 - Empresa: Fiambres
 
-![FotoEntrevista](./Images/e4.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/e4.png?raw=true"/>
 
 - Acerca de la entrevista:
   **Link de la entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/personal/u202214214_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202214214%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D20%2015%2D59%2D56%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E36ad953e%2Ddf8c%2D426e%2D8784%2D072c8ad3a637)
@@ -642,7 +642,7 @@ Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños neg
 - Edad: 21 años
 - Empresa: Familiar Textil
 
-![FotoEntrevista](./Images/entrevista-1-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/entrevista-1-s2.jpg?raw=true"/>
 
 - Acerca de la entrevista:
 
@@ -661,7 +661,7 @@ Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños neg
 - Edad: 23 años
 - Empresa: LogiPerú SAC
 
-![FotoEntrevista](./Images/entrevista-2-s2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/entrevista-2-s2.png?raw=true"/>
 
 - Acerca de la entrevista:
 
@@ -680,7 +680,7 @@ Los casos de nuestros entrevistados muestran cómo emprendedores y pequeños neg
 - Edad: 22 años
 - Empresa: ColaReal
 
-![FotoEntrevista](./Images/entrevista-3-s2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/entrevista-3-s2.png?raw=true"/>
 
 - Acerca de la entrevista:
 
@@ -708,17 +708,17 @@ Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados
 
 ## Segmento Objetivo 1
 
-![User Persona](./Images/Luis%20Gálvez_User%20Persona.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Luis%20G%C3%A1lvez_User%20Persona.png?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![User Persona](./Images/user-persona-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/user-persona-s2.jpg?raw=true"/>
 
 ### 2.3.2. User Task Matrix
 
 ## Segmento Objetivo 1
 
-![User Task Matrix](./Images/task%20matrix%201.PNG)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/task%20matrix%201.PNG?raw=true"/>
 
 ## Segmento Objetivo 2
 
@@ -727,31 +727,31 @@ Tanto en empresas consolidadas como en pequeños emprendimientos, los encargados
 
 ## Segmento Objetivo 1
 
-![User Persona](./Images/Segmento%201%20journey%20map%201.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Segmento%201%20journey%20map%201.png?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![User Persona](./Images/use-journey-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/use-journey-s2.jpg?raw=true"/>
 
 ### 2.3.4. Empathy Mapping
 
 ## Segmento Objetivo 1
 
-![Empathy Mapping](./Images/Empathy%20map%20segmento%201.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Empathy%20map%20segmento%201.png?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![Empathy Mapping](./Images/empathy-map-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Empathy%20map%20segmento%202.png?raw=true"/>
 
 ### 2.3.5. As-Is Scenario Mapping
 
 ## Segmento Objetivo 1
 
-![As-Is Scenario Mapping](./Images/Scenario%20Mapping%20Segmento%201.PNG)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Scenario%20Mapping%20Segmento%201.PNG?raw=true"/>
 
 ## Segmento Objetivo 2
 
-![As-Is Scenario Mapping](./Images/scenari-s2.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/main/Images/Scenario%20Mapping%20Segmento%202.PNG?raw=true"/>
 
 ## 2.4. Ubiquitous Language
 
