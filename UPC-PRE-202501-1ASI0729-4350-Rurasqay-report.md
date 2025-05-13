@@ -628,6 +628,15 @@ Pantalla de alertas activas de los sensores
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0104.jpg?raw=true" alt="Informacion" width="200"/>
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0105.jpg?raw=true" alt="Informacion" width="200"/>
 
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0008.jpg?raw=true" alt="EasyStock Page 8" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0009.jpg?raw=true" alt="EasyStock Page 9" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0010.jpg?raw=true" alt="EasyStock Page 10" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0011.jpg?raw=true" alt="EasyStock Page 11" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0012.jpg?raw=true" alt="EasyStock Page 12" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0013.jpg?raw=true" alt="EasyStock Page 13" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0014.jpg?raw=true" alt="EasyStock Page 14" width="600"/>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
@@ -645,6 +654,11 @@ User Goal: El usuario desea ver el historial de entradas y salidas de un product
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(1).png?raw=true" alt="Wireflow Product History" width="300"/>
 User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(3).png?raw=true" alt="Wireflow Sensors" width="300"/>
+
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(3).png?raw=true" alt="Wireflow Sensors" width="300"/>
+
+
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -692,6 +706,15 @@ Pantalla de alertas activas de los sensores
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0019.jpg?raw=true" alt="Informacion" width="200"/>
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0020.jpg?raw=true" alt="Informacion" width="200"/>
 
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0001.jpg?raw=true" alt="EasyStock Page 1" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0002.jpg?raw=true" alt="EasyStock Page 2" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0003.jpg?raw=true" alt="EasyStock Page 3" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0004.jpg?raw=true" alt="EasyStock Page 4" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0005.jpg?raw=true" alt="EasyStock Page 5" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0006.jpg?raw=true" alt="EasyStock Page 6" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0007.jpg?raw=true" alt="EasyStock Page 7" width="600"/>
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
@@ -709,6 +732,17 @@ User Goal: El usuario desea ver el historial de entradas y salidas de un product
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(2).png?raw=true" alt="Historial de Movimientos" width="300"/>
 User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
 <img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(1).png?raw=true" alt="Añadir Sensor y Ver Historial Ambiental" width="300"/>
+
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(1).png?raw=true" alt="User Flow 1" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(2).png?raw=true" alt="User Flow 2" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(3).png?raw=true" alt="User Flow 3" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(4).png?raw=true" alt="User Flow 4" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(5).png?raw=true" alt="User Flow 5" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(6).png?raw=true" alt="User Flow 6" width="600"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow(7).png?raw=true" alt="User Flow 7" width="600"/>
+
+
 
 ## 4.5. Web Applications Prototyping
 
@@ -731,25 +765,26 @@ Enlace al video del prototipo Mobile Browser: https://upcedupe-my.sharepoint.com
 
 ## Context Diagram
 
-![Context](./Images/context.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/context.png?raw=true" alt="Context Diagram" width="600"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 ## Container Diagram
 
-![Container](./Images/container.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/container.png?raw=true" alt="Container Diagram" width="600"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 ## Components Diagram
 
-![Components](./Images/component.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/component.png?raw=true" alt="Components Diagram" width="600"/>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-![Class](./Images/classDiagram.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/classDiagram.jpg?raw=true" alt="Class Diagram" width="600"/>
+
 
 ### 4.7.2. Class Dictionary
 
@@ -775,7 +810,7 @@ Enlace al video del prototipo Mobile Browser: https://upcedupe-my.sharepoint.com
 
 ## Database diagram:
 
-![Data base diagrram](./Images/data-base-diagram.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/data-base-diagram.jpg?raw=true" alt="Data base diagram" width="600"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
