@@ -281,13 +281,17 @@ Administrar un inventario puede convertirse en una tarea compleja para muchos em
 El nombre EasyStock refleja claramente nuestra propuesta de valor: facilitar (Easy) el control de inventarios o stocks (Stock). Es un nombre directo, simple y fácil de recordar, ideal para conectar con nuestro público objetivo: emprendedores que buscan soluciones accesibles y efectivas. Además, el uso del inglés le otorga un alcance global, permitiendo que la marca se adapte a futuros mercados internacionales.
 
 A continuación, se presenta el Logo:
-![Logo](Images/LogoEasyStock.png)
-![Logo](Images/LogoW.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/LogoEasyStock.png?raw=true">
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/LogoW.png?raw=true">
+
 
 **Typography**
 
 La tipografía en EasyStock ha sido cuidadosamente seleccionada para transmitir profesionalismo, simplicidad y modernidad. Utilizamos una combinación tipográfica que equilibra carácter y legibilidad: "Oswald" para los títulos, por su presencia fuerte y estructura condensada que aporta impacto visual, y entre "Arimo" y "Mulish" para los textos, debido a su claridad, suavidad y excelente rendimiento en interfaces digitales. La jerarquía tipográfica se organiza en encabezados, cuerpo de texto, botones y enlaces, asegurando una experiencia visual coherente y armoniosa.
-![Typography](Images/Fonts.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/Fonts.png?raw=true">
+
+
 **Colors**
 La paleta de colores de EasyStock está diseñada para generar confianza, orden y eficiencia. Cada color fue seleccionado considerando su impacto emocional y su funcionalidad en la interfaz desarrollada.
 
@@ -308,8 +312,10 @@ La paleta de colores de EasyStock está diseñada para generar confianza, orden 
 - **Colores de apoyo adicionales:** También se utilizan tonos como `#950015`, `#DE2E03`, `#C00000`, `#FF703A`, `#FF733F`, y `#BD2A11` en detalles específicos para enriquecer visualmente la interfaz sin perder coherencia.
 
 - **Colores para texto y contraste:** Se emplea el **negro (#000000)** y el **blanco (#FFFFFF)** para garantizar legibilidad en títulos, párrafos, botones y fondos según el contexto. Estos colores aseguran un contraste claro y accesible en la interfaz.
-  ![Paleta de Colores](Images/ColorsStyle.png)
-  _Colores realizados en el figma: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=74-247&p=f&t=je4Qxg6oNKqqpHSI-0_
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/ColorsStyle.png?raw=true">
+
+
+  Colores realizados en el figma: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=74-247&p=f&t=je4Qxg6oNKqqpHSI-0_
 
 **Spacing**
 El spacing a considerar para mantener el contenido entendible será:
@@ -326,13 +332,15 @@ En EasyStock se optó por una comunicación clara, accesible y profesional, pero
 
 Se estableció una guía detallada para la presentación de los productos, la cual define los componentes que deben utilizarse en la página web. Esta guía considera la paleta de colores previamente mencionada, con el objetivo de captar la atención de los usuarios y fomentar una navegación más atractiva e intuitiva por los productos. Enlace al esquema:
 
-![Components](Images/Components.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/Components.png?raw=true">
+
 EasyStock contará con una interfaz web responsive, capaz de adaptarse sin problemas a cualquier dispositivo, desde smartphones hasta monitores de escritorio. El diseño está enfocado en ofrecer una experiencia intuitiva, clara y rápida, permitiendo a los usuarios tomar decisiones inmediatas sobre su inventario sin complicaciones.
 
 Se ha optado por implementar el patrón Z, que guía la mirada del usuario a través de una secuencia lógica: inicio en el logo (esquina superior izquierda), navegación hacia el menú (esquina superior derecha), desplazamiento visual hacia el contenido principal (centro), y final en la información corporativa y contactos (parte inferior derecha). Esta estructura mejora la retención del contenido y asegura que los elementos más importantes estén en zonas de alto impacto visual.
 
 Los colores y espacios están pensados para reducir la fatiga visual, mientras que las animaciones suaves y las alertas visuales permiten que el usuario reaccione rápidamente ante cualquier cambio en su inventario.
-![alt text](Images/PatronZ.jpg)
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/PatronZ.png?raw=true">
 
 ## 4.2. Information Architecture
 
@@ -548,18 +556,23 @@ Presentamos los resultados del diseño de la Aplicación Web en Figma.
 En esta sección se mostrarán los wireframes de la landing page, los cuales son representaciones de baja fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
-<img src="Images/EasyStock (6)_page-0017.jpg">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0017.jpg?raw=true">
+
 Para Mobile Browser:
-<img src="Images/EasyStock (6)_page-0018.jpg">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0018.jpg?raw=true">
+
+
 
 ### 4.3.2. Landing Page Mock-up
 
 En esta sección se mostrarán los Mock-ups de la landing page, los cuales son representaciones de alta fidelidad que permiten visualizar la estructura y distribución de los elementos en la página. Estos esquemas no contemplan aún el uso de colores ni imágenes, ya que su propósito es definir la organización básica del contenido.
 Link: https://www.figma.com/design/TxnqzpKuoMpU5seAHM7C4j/EasyStock?node-id=0-1&t=VS8JJf7IDHNU1S4k-1
 Para Desktop Browser:
-<img src="Images/MWeb.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/MWeb.png?raw=true">
+
 Para Mobile Browser:
-<img src="Images/EasyStock (6)_page-0016.jpg">
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock(6)_page-0016.jpg?raw=true">
 
 
 ## 4.4. Web Applications UX/UI Design
@@ -569,119 +582,145 @@ En esta sección se describe el proceso de diseño de la aplicación web, abarca
 ### 4.4.1. Web Applications Wireframes
 
 Iniciar Sesión / Registro
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0070.jpg)
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0077.jpg)
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0088.jpg)
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0071.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0070.jpg?raw=true">
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0077.jpg?raw=true"> 
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0088.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0071.jpg?raw=true">
+
 Gestión de Membresías
-![GestionMembresia](Images/EasyStock/EasyStock_page-0130.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0131.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0094.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0079.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0085.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0130.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0131.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0094.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0079.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0085.jpg?raw=true">
+
 Determinar el tipo de usuario
-![TipoUsuario](Images/EasyStock/EasyStock_page-0083.jpg)
-![TipoUsuario](Images/EasyStock/EasyStock_page-0095.jpg)
-![TipoUsuario](Images/EasyStock/EasyStock_page-0110.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0083.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0095.jpg?raw=true">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0110.jpg?raw=true">
+
 Ingreso de Información para el Tipo de Usuario
-![Informacion Usuario](Images/EasyStock/AddUsersW.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/AddUsersW.png?raw=true">
 Grupo de Usuarios:
-![Informacion Usuario](Images/EasyStock/EasyStock_page-0101.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0101.jpg?raw=true">
 <img src="Images/EasyStock/EasyStock_page-0101.jpg" alt="Informacion" width="200"/>
 Detalles de cada producto para los encargados de stock
-<img src="Images/EasyStock/EasyStock_page-0096.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0091.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0098.jpg" alt="Informacion" width="200"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0096.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0091.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0098.jpg?raw=true" alt="Informacion" width="200"/>
 
 Registrar una entrada o salida de inventario y añadir notas
-<img src="Images/EasyStock/EasyStock_page-0092.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103856.png" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103918.png" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0092.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/Captura%20de%20pantalla%202025-04-20%20103856.png?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/Captura%20de%20pantalla%202025-04-20%20103918.png?raw=true" alt="Informacion" width="200"/>
 
 Pantalla de historial de movimientos por grupo o área
-<img src="Images/EasyStock/EasyStock_page-0099.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103946.png" alt="Informacion" width="200"/><img src="Images/EasyStock/EASY2.png" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0099.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/Captura%20de%20pantalla%202025-04-20%20103946.png?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EASY2.png?raw=true" alt="Informacion" width="200"/>
+
 
 Pantalla de alertas activas de los sensores
-<img src="Images/EasyStock/EasyStock_page-0100.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0104.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0105.jpg" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0100.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0104.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0105.jpg?raw=true" alt="Informacion" width="200"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
-![WireflowDiagrams](<Images/WireFlows%20(7).png>)
-![WireflowDiagrams](<Images/WireFlows%20(6).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(7).png?raw=true" alt="Wireflow Register" width="300"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(6).png?raw=true" alt="Wireflow Register" width="300"/>
 
 User Goal: El usuario necesita acceder a su cuenta en EasyStock.
-![WireflowDiagrams](<Images/WireFlows%20(5).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(5).png?raw=true" alt="Wireflow Login" width="300"/>
 User Goal: El usuario ha olvidado su contraseña y desea restablecerla.
-![WireflowDiagrams](<Images/WireFlows%20(2).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(2).png?raw=true" alt="Wireflow Reset Password" width="300"/>
 User Goal: El usuario desea añadir un nuevo producto a su inventario.
-![WireflowDiagrams](<Images/WireFlows%20(4).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(4).png?raw=true" alt="Wireflow Add Product" width="300"/>
 User Goal: El usuario desea ver el historial de entradas y salidas de un producto específico.
 
-![WireflowDiagrams](<Images/WireFlows%20(1).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(1).png?raw=true" alt="Wireflow Product History" width="300"/>
 User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
-![WireflowDiagrams](<Images/WireFlows%20(3).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/WireFlows%20(3).png?raw=true" alt="Wireflow Sensors" width="300"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
 En esta parte se mostrarán los wireframes de la aplicación web, los cuales representan esquemas de baja fidelidad que funcionan como un plano inicial. Su propósito es definir la estructura general de la interfaz antes de avanzar hacia la aplicación de guías de estilo e incorporación de elementos visuales.
 
 Iniciar Sesión / Registro
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0026.jpg)
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0029.jpg)
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0057.jpg)
-![IniciarSesionRegistro](Images/EasyStock/EasyStock_page-0027.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0026.jpg?raw=true" alt="IniciarSesionRegistro">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0029.jpg?raw=true" alt="IniciarSesionRegistro">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0057.jpg?raw=true" alt="IniciarSesionRegistro">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0027.jpg?raw=true" alt="IniciarSesionRegistro">
 Gestión de Membresías
-![GestionMembresia](Images/EasyStock/EasyStock_page-0060.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0061.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0064.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0044.jpg)
-![GestionMembresia](Images/EasyStock/EasyStock_page-0030.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0060.jpg?raw=true" alt="GestionMembresia">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0061.jpg?raw=true" alt="GestionMembresia">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0064.jpg?raw=true" alt="GestionMembresia">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0044.jpg?raw=true" alt="GestionMembresia">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0030.jpg?raw=true" alt="GestionMembresia">
 Determinar el tipo de usuario
-![TipoUsuario](Images/EasyStock/EasyStock_page-0042.jpg)
-![TipoUsuario](Images/EasyStock/EasyStock_page-0010.jpg)
-![TipoUsuario](Images/EasyStock/EasyStock_page-0031.jpg)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0042.jpg?raw=true" alt="TipoUsuario">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0010.jpg?raw=true" alt="TipoUsuario">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0031.jpg?raw=true" alt="TipoUsuario">
 Ingreso de Información para el Tipo de Usuario
-![Informacion Usuario](Images/EasyStock/AddUsers.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/AddUsers.png?raw=true" alt="InformacionUsuario">
+
 Grupo de Usuarios:
-![Informacion Usuario](Images/EasyStock/EasyStock_page-0016.jpg)
-<img src="Images/EasyStock/EasyStock_page-0016.jpg" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0016.jpg?raw=true" alt="GrupoUsuarios" width="200">
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0016.jpg?raw=true" alt="Informacion" width="200"/>
 Detalles de cada producto para los encargados de stock
-<img src="Images/EasyStock/EasyStock_page-0011.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0008.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0013.jpg" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0011.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0008.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0013.jpg?raw=true" alt="Informacion" width="200"/>
 
 Registrar una entrada o salida de inventario y añadir notas
-<img src="Images/EasyStock/EasyStock_page-0009.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103806.png" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103817.png" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0009.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/Captura%20de%20pantalla%202025-04-20%20103806.png?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/Captura%20de%20pantalla%202025-04-20%20103817.png?raw=true" alt="Informacion" width="200"/>
 
 Pantalla de historial de movimientos por grupo o área
-<img src="Images/EasyStock/EasyStock_page-0014.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/Captura de pantalla 2025-04-20 103828.png" alt="Informacion" width="200"/><img src="Images/EasyStock/EASY.png" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0014.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/Captura%20de%20pantalla%202025-04-20%20103828.png?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EASY.png?raw=true" alt="Informacion" width="200"/>
 
 Pantalla de alertas activas de los sensores
-<img src="Images/EasyStock/EasyStock_page-0036.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0019.jpg" alt="Informacion" width="200"/><img src="Images/EasyStock/EasyStock_page-0020.jpg" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0036.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0019.jpg?raw=true" alt="Informacion" width="200"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/EasyStock/EasyStock_page-0020.jpg?raw=true" alt="Informacion" width="200"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 User Goal: El usuario desea registrarse en la plataforma para empezar a gestionar su inventario.
-![FlowDiagramas](<Images/UserFlow%20(7).png>)
-![FlowDiagramas](<Images/UserFlow%20(6).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(7).png?raw=true" alt="Registro Paso 1" width="300"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(6).png?raw=true" alt="Registro Paso 2" width="300"/>
 
 User Goal: El usuario necesita acceder a su cuenta en EasyStock.
-![FlowDiagramas](<Images/UserFlow%20(5).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(5).png?raw=true" alt="Inicio de Sesión" width="300"/>
 User Goal: El usuario ha olvidado su contraseña y desea restablecerla.
-![FlowDiagramas](<Images/UserFlow%20(3).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(3).png?raw=true" alt="Restablecer Contraseña" width="300"/>
 User Goal: El usuario desea añadir un nuevo producto a su inventario.
-![FlowDiagramas](<Images/UserFlow%20(4).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(4).png?raw=true" alt="Añadir Producto" width="300"/>
 User Goal: El usuario desea ver el historial de entradas y salidas de un producto específico.
 
-![FlowDiagramas](<Images/UserFlow%20(2).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(2).png?raw=true" alt="Historial de Movimientos" width="300"/>
 User Goal: El usuario desea añadir un nuevo sensor a productos y desea ver el historial de datos ambientales
-![FlowDiagramas](<Images/UserFlow%20(1).png>)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/UserFlow%20(1).png?raw=true" alt="Añadir Sensor y Ver Historial Ambiental" width="300"/>
 
 ## 4.5. Web Applications Prototyping
 
 En esta sección se presentará el prototipo interactivo de nuestra aplicación web, el cual servirá para ilustrar su funcionamiento previsto. Esto nos permitirá contar con una referencia visual y funcional de lo que aspiramos a desarrollar, brindando una idea concreta del comportamiento que tendrá la aplicación en su versión final.
 
-<img src="Images/PrototypeWeb.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/PrototypeWeb.png?raw=true" alt="Prototipo Web" width="600"/>
+
 
 Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EaBBRoukLtxFnUDCHRyeV7UBEX5jB5Lu4pN8vgtUFk_RAg?e=Mitknb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
-<img src="Images/PrototypeMobile.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/PrototypeMobile.png?raw=true" alt="Prototipo Mobile" width="300"/>
 Enlace al video del prototipo Mobile Browser: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EfDvQxgtG6JIvF__EsHGw-YB5LCQ-iLEZSrHnguCkrVSTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i68XIg
 
 
@@ -845,17 +884,23 @@ En cuanto al uso de JavaScript, aplicamos las recomendaciones de la guía de est
 En esta sección se describe cómo llevamos a cabo el despliegue de nuestra landing page utilizando el servicio automatizado de GitHub Pages. A continuación, se presentan los pasos necesarios para completar este proceso.
 
 - Es fundamental contar con un repositorio que contenga la landing page que se desea publicar.
- ![Report Repository](Images/P2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/P2.png?raw=true" alt="Repositorio con Landing Page" width="600"/>
+
 - Ingresamos al repositorio y agregamos los archivos HTML, CSS y JavaScript correspondientes según sea necesario.
- ![Report Repository](Images/P3.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/P3.png?raw=true" alt="Archivos del Proyecto" width="600"/>
+
 - Es necesario acceder a la sección de configuración dentro del repositorio.
- ![Report Repository](Images/P4.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/P4.png?raw=true" alt="Configuración del Repositorio" width="600"/>
+
 - En la configuración, debemos ubicar y seleccionar la sección correspondiente a GitHub Pages.
- ![Report Repository](Images/P6.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/P6.png?raw=true" alt="GitHub Pages" width="600"/>
+
 - Una vez dentro de la sección de GitHub Pages, seleccionamos la rama del repositorio que queremos desplegar y hacemos clic en el botón de "guardar" para iniciar el proceso de despliegue.
- ![Report Repository](Images/P5.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/P5.png?raw=true" alt="Seleccionar rama" width="600"/>
+
 - Cuando el proceso de compilación haya finalizado, se generará un enlace que nos permitirá acceder y visualizar nuestra landing page ya desplegada.
- ![Report Repository](Images/P7.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0729-4350-Rurasqay/UPC-PRE-202501-1ASI0729-4350-Rurasqay-report/blob/feature/product-design/Images/P7.png?raw=true" alt="Enlace generado" width="600"/>
+
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
