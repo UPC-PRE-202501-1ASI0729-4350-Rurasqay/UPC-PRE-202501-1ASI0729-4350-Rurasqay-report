@@ -247,7 +247,7 @@ Product Name:
 
 |                        Competidores                        | EasyStock  | Sensitech                                                                                                                    | Sistema Borea de Torsa                                                                                                    | Bambu B2B                                                                                                              |
 |:----------------------------------------------------------:|------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-|                          **Logo**                          | <img src="Images/LogoEasyStock.png" width="100px"/> | <img src="/Images/sensitech.png" width="100px"> | <img src="/Images/torsa.png" width="100px" /> | <img src="/Images/bambub2b.png" width="100px" /> |
+|                          **Logo**                          | ![LogoEasyStock](./Images/LogoEasyStock.png) |  ![LogoSensiTech](./Images/sensitech.png) | ![LogoTorsa](./Images/torsa.png) | ![LogoBambuB2B](./Images/bambub2b.png) |
 |                         **Perfil**                         |
 |                          Overview                          | Startup enfocada en la gestión de inventarios para emprendedores mediante sensores de temperatura y peso.	           | Empresa global especializada en soluciones de visibilidad de la cadena de frío para productos sensibles a la temperatura.	   | Sistema de monitoreo continuo de temperatura y humedad para almacenes y transporte, con enfoque en eficiencia energética.		 | Plataforma SaaS que automatiza reportes y consolida datos de ventas e inventarios en tiempo real para el sector retail.|
 | Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | Modelo flexible de suscripción y alquiler de sensores, interfaz amigable y enfoque en emprendedores de sectores específicos.	           | Amplia experiencia global, cumplimiento de normativas internacionales y soluciones integrales para la cadena de suministro.	 | Reducción significativa del consumo energético y climatización autónoma de almacenes.                                     | Personalización avanzada, previsión de demanda y compatibilidad con tecnologías como RFID y códigos de barras.         |
@@ -278,33 +278,67 @@ Product Name:
 
 #### En esta sección se presentan las preguntas realizadas a los entrevistados, organizadas en tres partes: introducción, preguntas centrales y cierre.
 
-### 1. Introducción
-#### Aquí es donde se recopila la información clave para validar la problemática y evaluar el interés en una solución como EasyStock.
+### Preguntas para el segmento de emprendedores:
 
-1. ¿Podrías contarme brevemente sobre tu emprendimiento y los productos que manejas?
-2. ¿Cuánto tiempo llevas operando con tu emprendimiento?
-3. ¿Cuál es tu rol principal dentro del emprendimiento?
----
+- Preguntas de presentación:
 
-### 2. Preguntas centrales
-#### Estas preguntas sirven para establecer confianza y comprender el entorno general del emprendimiento.
+¿Cuál es su nombre y el nombre de su negocio?
 
-4. ¿Qué tipo de insumos o productos suelen almacenar con más frecuencia?
-5. ¿Te apoyas en tecnología para automatizar procesos o prefieres hacerlo todo manualmente?
-6. ¿Cómo gestionas actualmente el inventario de tus productos o insumos?
-7. ¿Qué tan frecuente es que pierdas productos por mal almacenamiento (por ejemplo, por temperatura o caducidad)?
-8. ¿Has tenido dificultades para saber cuándo reponer stock o qué productos ya no están en condiciones óptimas?
-9. ¿Con qué frecuencia realizas controles físicos de tu inventario? ¿Te toma mucho tiempo?
+¿A qué rubro pertenece su negocio? (Ej. alimentos, moda, ferretería, etc.)
 
----
+¿Cuánto tiempo lleva operando su negocio?
 
-### 3. Cierre 
-#### Estas preguntas ayudan a validar la propuesta de valor y entender qué funcionalidades serían más útiles para el usuario.
+¿Cuántas personas trabajan actualmente en su negocio?
 
-10. ¿Te interesaría tener sensores que te alerten si un alimento o insumo está fuera de su temperatura ideal?
-11. ¿Qué tan útil crees que sería tener un sistema que te notifique automáticamente sobre irregularidades en tus almacenes?
-12. ¿Qué características te parecerían imprescindibles en una herramienta de gestión de inventario como esta?
-13. ¿Qué nivel de dificultad o curva de aprendizaje estarías dispuesto a aceptar para usar una nueva plataforma?
+¿Tiene usted experiencia previa en gestión de inventarios?
+
+- Preguntas sobre el inventario:
+
+¿Qué tipo de inventario maneja su negocio (productos perecibles, tecnología, ropa, herramientas, etc.)?
+
+¿Cómo realiza actualmente el control de su inventario?
+
+¿Con qué frecuencia realiza un inventario completo?
+
+¿Utiliza algún software o herramienta digital para la gestión de su inventario? ¿Cuál?
+
+¿Ha tenido pérdidas o problemas por un mal manejo del inventario? ¿Puede darme un ejemplo?
+
+¿Qué aspectos del manejo de inventario le resultan más complicados o molestos?
+
+¿Qué tan importante es para usted tener información actualizada y precisa sobre el inventario?
+
+Si pudiera mejorar algo en su sistema de inventario, ¿qué sería?
+
+### Preguntas para el segmento de gestores de inventario:
+
+- Preguntas de presentación:
+
+¿Cuál es su nombre y su rol en el negocio?
+
+¿Desde hace cuánto tiempo trabaja gestionando el inventario?
+
+¿Cuántas personas trabajan con usted en el área de inventario?
+
+¿Qué conocimientos o herramientas utiliza en su trabajo diario?
+
+- Preguntas sobre el inventario:
+
+¿Qué tipo de productos o materiales gestiona diariamente?
+
+¿Cómo es el proceso actual para ingresar o retirar productos del inventario?
+
+¿Cuáles son las herramientas (digitales o manuales) que utiliza para gestionar el inventario?
+
+¿Cuáles son los errores más comunes que ocurren al trabajar con el inventario?
+
+¿Qué tan fácil le resulta encontrar un producto específico en el sistema?
+
+¿Cómo se entera de que un producto está por agotarse o vencerse?
+
+¿Considera que el sistema actual le permite trabajar de forma eficiente?
+
+¿Qué mejoras le gustaría implementar en la gestión del inventario?
 
 ### 2.2.2. Registro de entrevistas
 
